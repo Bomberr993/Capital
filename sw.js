@@ -1,5 +1,5 @@
 /* CAPITALE — service worker: tutto in cache, funziona offline. */
-var CACHE = 'capitale-fase2-v8';
+var CACHE = 'capitale-fase2-v9';
 var FILES = ['./', 'index.html', 'manifest.webmanifest', 'icon-180.png', 'icon-192.png', 'icon-512.png'];
 self.addEventListener('install', function (e) {
   e.waitUntil(caches.open(CACHE).then(function (c) { return c.addAll(FILES); }).then(function () { return self.skipWaiting(); }));
