@@ -1,0 +1,1001 @@
+﻿n,nome,ticker,simbolo Yahoo,borsa,paese,valuta,chiusura,data chiusura,chiusura in EUR,rendimento 2025,volatilità 2025,drawdown 2025,capitalizzazione mln EUR,fonte capitalizzazione,data azioni,settore di gioco,area di gioco,bilanci reali 2021-2025 usati,ISIN
+1,NVIDIA Corporation,NVDA,NVDA,NasdaqGS,Stati Uniti,USD,186.5,2025-12-31,158.723404,0.3484,0.4984,-0.3689,3857772.3,prezzo × azioni,2025-10-31,Semiconduttori,Nord America,sì,US67066G1040
+2,Apple Inc.,AAPL,AAPL,NasdaqGS,Stati Uniti,USD,271.859985,2025-12-31,231.3702,0.1149,0.3214,-0.3022,3400662.1,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US0378331005
+3,Alphabet Inc.,GOOGL,GOOGL,NasdaqGS,Stati Uniti,USD,313.0,2025-12-31,266.382979,0.6523,0.3229,-0.2989,3220037.4,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US02079K3059
+4,Microsoft Corporation,MSFT,MSFT,NasdaqGS,Stati Uniti,USD,483.619995,2025-12-31,411.591485,0.1554,0.2408,-0.2072,3057646.5,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US5949181045
+5,"Amazon.com, Inc.",AMZN,AMZN,NasdaqGS,Stati Uniti,USD,230.820007,2025-12-31,196.442559,0.0481,0.3433,-0.3088,2108025.1,prezzo × azioni,2025-12-31,Distribuzione,Nord America,sì,US0231351067
+6,"Tesla, Inc.",TSLA,TSLA,NasdaqGS,Stati Uniti,USD,449.720001,2025-12-31,382.740427,0.1857,0.6302,-0.4819,1435659.3,prezzo × azioni,2025-12-31,Automobili,Nord America,sì,US88160R1014
+7,"Meta Platforms, Inc.",META,META,NasdaqGS,Stati Uniti,USD,660.090027,2025-12-31,561.778746,0.1015,0.3778,-0.3421,1421097.0,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US30303M1027
+8,Broadcom Inc.,AVGO,AVGO,NasdaqGS,Stati Uniti,USD,346.100006,2025-12-31,294.553197,0.4919,0.5327,-0.4022,1396476.7,prezzo × azioni,2025-10-31,Semiconduttori,Nord America,sì,US11135F1012
+9,Taiwan Semiconductor Manufacturing Company Limited,2330,2330.TW,Taiwan,Taiwan,TWD,1550.0,2025-12-31,42.221413,0.4554,0.3291,-0.3084,1094907.8,prezzo × azioni,2025-12-31,Semiconduttori,Asia ed emergenti,sì,
+10,Berkshire Hathaway Inc.,BRK-B,BRK-B,NYSE,Stati Uniti,USD,502.649994,2025-12-31,427.787229,0.1143,0.1881,-0.1495,923242.6,Yahoo al 31/12/2025,2025-12-31,Assicurazioni,Nord America,sì,US0846707026
+11,Eli Lilly and Company,LLY,LLY,NYSE,Stati Uniti,USD,1074.680054,2025-12-31,914.621322,0.3812,0.4077,-0.3271,818403.2,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US5324571083
+12,Walmart Inc.,WMT,WMT,NasdaqGS,Stati Uniti,USD,111.410004,2025-12-31,94.817024,0.2379,0.2502,-0.2214,755881.3,prezzo × azioni,2025-10-31,Distribuzione,Nord America,sì,US9311421039
+13,JPMorgan Chase & Co.,JPM,JPM,NYSE,Stati Uniti,USD,322.220001,2025-12-31,274.229788,0.3426,0.2521,-0.2489,739398.3,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US46625H1005
+14,Tencent Holdings Limited,0700,0700.HK,HKSE,Hong Kong,HKD,599.0,2025-12-31,65.490248,0.4399,0.3229,-0.1996,591561.7,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,no (simulati),KYG875721634
+15,Visa Inc.,V,V,NYSE,Stati Uniti,USD,350.709991,2025-12-31,298.476588,0.1155,0.226,-0.1501,572241.7,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US92826C8394
+16,Oracle Corporation,ORCL,ORCL,NYSE,Stati Uniti,USD,194.910004,2025-12-31,165.880854,0.1739,0.5913,-0.4565,476504.9,prezzo × azioni,2025-11-30,Software e internet,Nord America,sì,US68389X1054
+17,"Samsung Electronics Co., Ltd.",005930,005930.KS,KSE,Corea del Sud,KRW,119900.0,2025-12-30,70.656594,1.2453,0.3416,-0.1467,468465.9,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,KR7005930003
+18,Mastercard Incorporated,MA,MA,NYSE,Stati Uniti,USD,570.880005,2025-12-31,485.855323,0.0928,0.2282,-0.1673,434373.0,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US57636Q1040
+19,ExxonMobil Holdings Corporation,XOM,XOM,NYSE,Stati Uniti,USD,120.339996,2025-12-31,102.417018,0.1214,0.237,-0.1605,428000.7,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US30231G1022
+20,Johnson & Johnson,JNJ,JNJ,NYSE,Stati Uniti,USD,206.949997,2025-12-31,176.127657,0.437,0.1966,-0.1273,424104.7,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US4781601046
+21,Palantir Technologies Inc.,PLTR,PLTR,NasdaqGS,Stati Uniti,USD,177.75,2025-12-31,151.276596,1.364,0.6661,-0.4061,361731.4,prezzo × azioni,2025-12-31,Software e internet,Nord America,no (simulati),US69608A1088
+22,ASML Holding N.V.,ASML,ASML.AS,Amsterdam,Paesi Bassi,EUR,921.400024,2025-12-31,921.400024,0.3354,0.3702,-0.2648,355123.8,prezzo × azioni,2025-12-31,Semiconduttori,Europa,sì,
+23,AbbVie Inc.,ABBV,ABBV,NYSE,Stati Uniti,USD,228.490005,2025-12-31,194.459579,0.2734,0.262,-0.2146,343780.4,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US00287Y1091
+24,Bank of America Corporation,BAC,BAC,NYSE,Stati Uniti,USD,55.0,2025-12-31,46.808511,0.2418,0.2712,-0.2796,337604.7,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US0605051046
+25,"Netflix, Inc.",NFLX,NFLX,NasdaqGS,Stati Uniti,USD,93.760002,2025-12-31,79.795746,0.0574,0.3415,-0.3077,336910.6,prezzo × azioni,2025-12-31,Media e intrattenimento,Nord America,sì,US64110L1061
+26,Costco Wholesale Corporation,COST,COST,NasdaqGS,Stati Uniti,USD,862.340027,2025-12-31,733.906406,-0.0522,0.217,-0.2107,325795.0,prezzo × azioni,2025-11-30,Distribuzione,Nord America,sì,US22160K1051
+27,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",MC,MC.PA,Paris,Francia,EUR,645.0,2025-12-31,645.0,0.0151,0.3238,-0.4203,320172.2,prezzo × azioni,2025-12-31,Lusso e moda,Europa,sì,
+28,Alibaba Group Holding Limited,9988,9988.HK,HKSE,Cina,HKD,142.800003,2025-12-31,15.6127,0.7565,0.5193,-0.2936,298191.1,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,no (simulati),KYG017191142
+29,"Advanced Micro Devices, Inc.",AMD,AMD,NasdaqGS,Stati Uniti,USD,214.160004,2025-12-31,182.263833,0.7753,0.5892,-0.3963,297090.0,prezzo × azioni,2025-12-31,Semiconduttori,Nord America,sì,US0079031078
+30,"The Home Depot, Inc.",HD,HD,NYSE,Stati Uniti,USD,344.100006,2025-12-31,292.851069,-0.1142,0.2333,-0.2177,291500.0,prezzo × azioni,2025-10-31,Distribuzione,Nord America,sì,US4370761029
+31,The Procter & Gamble Company,PG,PG,NYSE,Stati Uniti,USD,143.309998,2025-12-31,121.965955,-0.1366,0.1911,-0.2151,283449.0,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US7427181091
+32,GE Aerospace,GE,GE,NYSE,Stati Uniti,USD,308.029999,2025-12-31,262.15319,0.8271,0.3051,-0.2136,274937.5,prezzo × azioni,2025-12-31,Aerospazio e difesa,Nord America,sì,US3696043013
+33,"Micron Technology, Inc.",MU,MU,NasdaqGS,Stati Uniti,USD,285.410004,2025-12-31,242.902131,2.2682,0.6273,-0.4083,273507.8,prezzo × azioni,2025-11-30,Semiconduttori,Nord America,sì,US5951121038
+34,SK hynix Inc.,000660,000660.KS,KSE,Corea del Sud,KRW,651000.0,2025-12-30,383.631714,2.8026,0.5472,-0.2692,269191.1,prezzo × azioni,2025-12-31,Semiconduttori,Asia ed emergenti,sì,KR7000660001
+35,"Cisco Systems, Inc.",CSCO,CSCO,NasdaqGS,Stati Uniti,USD,77.029999,2025-12-31,65.557446,0.3034,0.2393,-0.1801,258165.2,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US17275R1023
+36,Chevron Corporation,CVX,CVX,NYSE,Stati Uniti,USD,152.410004,2025-12-31,129.710641,0.0389,0.2469,-0.2064,256859.3,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US1667641005
+37,The Coca-Cola Company,KO,KO,NYSE,Stati Uniti,USD,69.910004,2025-12-31,59.497875,0.1305,0.1766,-0.1114,255936.6,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US1912161007
+38,UnitedHealth Group Incorporated,UNH,UNH,NYSE,Stati Uniti,USD,330.109985,2025-12-31,280.944668,-0.3457,0.4979,-0.6034,254490.5,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US91324P1021
+39,Wells Fargo & Company,WFC,WFC,NYSE,Stati Uniti,USD,93.199997,2025-12-31,79.319146,0.3278,0.293,-0.251,245303.9,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US9497461015
+40,AstraZeneca PLC,AZN,AZN.L,LSE,Regno Unito,GBp,13790.0,2025-12-31,158.033463,0.2973,0.2564,-0.1992,245072.0,prezzo × azioni,2025-12-31,Farmaceutica,Regno Unito,no (simulati),
+41,SAP SE,SAP,SAP.DE,XETRA,Germania,EUR,208.350006,2025-12-30,208.350006,-0.1266,0.2935,-0.2692,243260.9,prezzo × azioni,2025-12-31,Software e internet,Europa,sì,
+42,Industrial and Commercial Bank of China Limited,1398,1398.HK,HKSE,Hong Kong,HKD,6.24,2025-12-31,0.682236,0.2866,0.2009,-0.1318,243153.0,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,no (simulati),
+43,Morgan Stanley,MS,MS,NYSE,Stati Uniti,USD,177.529999,2025-12-31,151.089361,0.4227,0.308,-0.2924,239149.4,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US6174464486
+44,Toyota Motor Corporation,7203,7203.T,Tokyo,Giappone,JPY,3356.0,2025-12-30,18.230213,0.1146,0.3384,-0.2624,237601.4,prezzo × azioni,2025-12-31,Automobili,Giappone,sì,
+45,International Business Machines Corporation,IBM,IBM,NYSE,Stati Uniti,USD,296.209991,2025-12-31,252.09361,0.3468,0.3005,-0.2036,236199.6,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US4592001014
+46,PetroChina Company Limited,601857,601857.SS,Shanghai,Cina,CNY,10.41,2025-12-31,1.265469,0.187,0.2312,-0.189,231607.3,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,sì,
+47,HSBC Holdings plc,HSBA,HSBA.L,LSE,Regno Unito,GBp,1173.800049,2025-12-31,13.451754,0.4983,0.2429,-0.2433,230561.5,prezzo × azioni,2025-12-31,Banche,Regno Unito,no (simulati),
+48,Caterpillar Inc.,CAT,CAT,NYSE,Stati Uniti,USD,572.869995,2025-12-31,487.548932,0.5923,0.3185,-0.328,226850.3,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US1491231015
+49,Novartis AG,NOVN,NOVN.SW,Swiss,Svizzera,CHF,109.599998,2025-12-30,117.67232,0.2312,0.2133,-0.1817,224536.6,prezzo × azioni,2025-12-31,Farmaceutica,Europa,no (simulati),
+50,Hermès International Société en commandite par actions,RMS,RMS.PA,Paris,Francia,EUR,2122.0,2025-12-31,2122.0,-0.0778,0.2596,-0.2888,222462.7,prezzo × azioni,2025-12-31,Lusso e moda,Europa,sì,
+51,"The Goldman Sachs Group, Inc.",GS,GS,NYSE,Stati Uniti,USD,879.0,2025-12-31,748.085106,0.5288,0.3121,-0.3124,221789.8,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US38141G1040
+52,"Merck & Co., Inc.",MRK,MRK,NYSE,Stati Uniti,USD,105.260002,2025-12-31,89.582981,0.0614,0.3051,-0.2727,221684.4,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US58933Y1055
+53,China Construction Bank Corporation,0939,0939.HK,HKSE,Hong Kong,HKD,7.67,2025-12-31,0.838581,0.2699,0.2333,-0.1415,219373.2,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,no (simulati),
+54,Nestlé S.A.,NESN,NESN.SW,Swiss,Svizzera,CHF,78.739998,2025-12-30,84.539401,0.0541,0.2064,-0.2256,217453.9,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,no (simulati),
+55,American Express Company,AXP,AXP,NYSE,Stati Uniti,USD,369.950012,2025-12-31,314.851074,0.2397,0.3142,-0.2899,215987.8,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US0258161092
+56,Philip Morris International Inc.,PM,PM,NYSE,Stati Uniti,USD,160.399994,2025-12-31,136.510633,0.3245,0.2662,-0.2196,212500.2,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US7181721090
+57,"Salesforce, Inc.",CRM,CRM,NYSE,Stati Uniti,USD,264.910004,2025-12-31,225.455322,-0.1988,0.3197,-0.3739,212378.9,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US79466L3024
+58,"Kweichow Moutai Co., Ltd.",600519,600519.SS,Shanghai,Cina,CNY,1377.180054,2025-12-31,167.413879,-0.0745,0.1692,-0.1592,209647.4,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,
+59,RTX Corporation,RTX,RTX,NYSE,Stati Uniti,USD,183.399994,2025-12-31,156.085101,0.5809,0.2755,-0.1615,209511.1,prezzo × azioni,2025-12-31,Aerospazio e difesa,Nord America,sì,US75513E1010
+60,"Contemporary Amperex Technology Co., Limited",300750,300750.SZ,Shenzhen,Cina,CNY,367.26001,2025-12-31,44.645159,0.4192,0.3699,-0.2328,203751.7,prezzo × azioni,2025-12-31,Automobili,Asia ed emergenti,sì,
+61,Royal Bank of Canada,RY,RY.TO,Toronto,Canada,CAD,233.990005,2025-12-31,145.443812,0.3583,0.1659,-0.1403,203637.9,prezzo × azioni,2025-10-31,Banche,Nord America,no (simulati),
+62,Reliance Industries Limited,RELIANCE,RELIANCE.NS,NSE,India,INR,1570.400024,2025-12-31,14.871705,0.2859,0.1948,-0.1217,201250.9,prezzo × azioni,2025-09-30,Energia,Asia ed emergenti,sì,INE002A01018
+63,L'Oréal S.A.,OR,OR.PA,Paris,Francia,EUR,366.600006,2025-12-31,366.600006,0.0843,0.2452,-0.1378,195684.9,prezzo × azioni,2025-12-31,Lusso e moda,Europa,sì,
+64,AppLovin Corporation,APP,APP,NasdaqGS,Stati Uniti,USD,673.820007,2025-12-31,573.463836,0.9715,0.7947,-0.57,194010.3,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US03831W1080
+65,Novo Nordisk A/S,NOVO-B,NOVO-B.CO,Copenhagen,Danimarca,DKK,325.25,2025-12-30,43.547243,-0.4908,0.5186,-0.5632,193501.3,prezzo × azioni,2025-12-31,Farmaceutica,Europa,no (simulati),
+66,China Mobile Limited,0941,0941.HK,HKSE,Hong Kong,HKD,81.699997,2025-12-31,8.932476,0.0807,0.1431,-0.0957,193339.9,prezzo × azioni,2025-12-31,Telecomunicazioni,Asia ed emergenti,no (simulati),
+67,"T-Mobile US, Inc.",TMUS,TMUS,NasdaqGS,Stati Uniti,USD,203.039993,2025-12-31,172.799994,-0.0751,0.2764,-0.2847,191277.6,prezzo × azioni,2025-12-31,Telecomunicazioni,Nord America,sì,US8725901040
+68,Siemens Aktiengesellschaft,SIE,SIE.DE,XETRA,Germania,EUR,239.149994,2025-12-30,239.149994,0.2645,0.3302,-0.2733,186600.2,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,sì,
+69,Thermo Fisher Scientific Inc.,TMO,TMO,NYSE,Stati Uniti,USD,579.450012,2025-12-31,493.148947,0.1088,0.32,-0.3568,185533.2,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US8835561023
+70,Abbott Laboratories,ABT,ABT,NYSE,Stati Uniti,USD,125.290001,2025-12-31,106.629788,0.1045,0.2242,-0.1406,185173.2,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US0028241000
+71,McDonald's Corporation,MCD,MCD,NYSE,Stati Uniti,USD,305.630005,2025-12-31,260.110642,0.0449,0.1862,-0.1112,184834.6,prezzo × azioni,2025-12-31,Turismo e tempo libero,Nord America,sì,US5801351017
+72,Lam Research Corporation,LRCX,LRCX,NasdaqGS,Stati Uniti,USD,171.179993,2025-12-31,145.6851,1.3631,0.4847,-0.3362,182278.3,prezzo × azioni,2025-12-31,Semiconduttori,Nord America,sì,US5128073062
+73,Shopify Inc.,SHOP,SHOP.TO,Toronto,Canada,CAD,221.0,2025-12-31,137.369468,0.4266,0.5876,-0.4035,179116.6,prezzo × azioni,2025-12-31,Software e internet,Nord America,no (simulati),
+74,Shell plc,SHEL,SHEL.L,LSE,Regno Unito,GBp,2740.0,2025-12-31,31.400413,0.0843,0.2012,-0.1906,178664.9,prezzo × azioni,2025-12-31,Energia,Regno Unito,no (simulati),
+75,"Industria de Diseño Textil, S.A.",ITX,ITX.MC,MCE,Spagna,EUR,56.34,2025-12-31,56.34,0.1196,0.2574,-0.26,175576.1,prezzo × azioni,2025-10-31,Lusso e moda,Europa,sì,
+76,Citigroup Inc.,C,C,NYSE,Stati Uniti,USD,116.690002,2025-12-31,99.31064,0.6684,0.318,-0.3131,173550.0,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US1729674242
+77,"Applied Materials, Inc.",AMAT,AMAT,NasdaqGS,Stati Uniti,USD,256.98999,2025-12-31,218.714885,0.5683,0.4577,-0.3507,173440.9,prezzo × azioni,2025-10-31,Semiconduttori,Nord America,sì,US0382221051
+78,The Walt Disney Company,DIS,DIS,NYSE,Stati Uniti,USD,113.769997,2025-12-31,96.825529,0.0266,0.2974,-0.2832,171962.1,prezzo × azioni,2025-12-31,Media e intrattenimento,Nord America,sì,US2546871060
+79,"Intuitive Surgical, Inc.",ISRG,ISRG,NasdaqGS,Stati Uniti,USD,566.359985,2025-12-31,482.008498,0.0808,0.357,-0.2963,171161.2,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US46120E6023
+80,Linde plc,LIN,LIN,NasdaqGS,Stati Uniti,USD,426.390015,2025-12-31,362.885119,0.0295,0.1911,-0.1948,168262.9,prezzo × azioni,2025-12-31,Chimica,Nord America,sì,
+81,"PepsiCo, Inc.",PEP,PEP,NasdaqGS,Stati Uniti,USD,143.520004,2025-12-31,122.144684,-0.0445,0.2271,-0.1816,167013.3,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US7134481081
+82,Intuit Inc.,INTU,INTU,NasdaqGS,Stati Uniti,USD,662.419983,2025-12-31,563.761688,0.0636,0.3022,-0.2208,157012.7,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US4612021034
+83,Intel Corporation,INTC,INTC,NasdaqGS,Stati Uniti,USD,36.900002,2025-12-31,31.404257,0.8249,0.6234,-0.3381,156832.9,prezzo × azioni,2025-12-31,Semiconduttori,Nord America,sì,US4581401001
+84,QUALCOMM Incorporated,QCOM,QCOM,NasdaqGS,Stati Uniti,USD,171.050003,2025-12-31,145.574471,0.1133,0.383,-0.2911,156347.0,prezzo × azioni,2025-12-31,Semiconduttori,Nord America,sì,US7475251036
+85,Airbus SE,AIR,AIR.PA,Paris,Francia,EUR,198.399994,2025-12-31,198.399994,0.2389,0.2793,-0.237,156186.0,prezzo × azioni,2025-12-31,Aerospazio e difesa,Europa,sì,
+86,"Mitsubishi UFJ Financial Group, Inc.",8306,8306.T,Tokyo,Giappone,JPY,2493.0,2025-12-30,13.542289,0.3421,0.3475,-0.3282,153501.8,prezzo × azioni,2025-12-31,Banche,Giappone,sì,
+87,Commonwealth Bank of Australia,CBA,CBA.AX,ASX,Australia,AUD,160.570007,2025-12-30,91.331555,0.0456,0.226,-0.2095,152717.7,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,no (simulati),
+88,"Ping An Insurance (Group) Company of China, Ltd.",601318,601318.SS,Shanghai,Cina,CNY,68.400002,2025-12-31,8.314896,0.3488,0.2136,-0.1019,150563.2,prezzo × azioni,2025-12-31,Assicurazioni,Asia ed emergenti,sì,
+89,Amgen Inc.,AMGN,AMGN,NasdaqGS,Stati Uniti,USD,327.309998,2025-12-31,278.5617,0.2624,0.2751,-0.1988,150089.0,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US0311621009
+90,GE Vernova Inc.,GEV,GEV,NYSE,Stati Uniti,USD,653.570007,2025-12-31,556.229793,0.9283,0.591,-0.3829,149920.3,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US36828A1016
+91,The Charles Schwab Corporation,SCHW,SCHW,NYSE,Stati Uniti,USD,99.910004,2025-12-31,85.02979,0.3531,0.2506,-0.1743,149510.0,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US8085131055
+92,Allianz SE,ALV,ALV.DE,XETRA,Germania,EUR,390.5,2025-12-30,390.5,0.3157,0.207,-0.1203,148484.6,prezzo × azioni,2025-12-31,Assicurazioni,Europa,sì,
+93,"Banco Santander, S.A.",SAN,SAN.MC,MCE,Spagna,EUR,10.07,2025-12-31,10.07,1.2871,0.3153,-0.2079,147809.9,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+94,Verizon Communications Inc.,VZ,VZ,NYSE,Stati Uniti,USD,40.73,2025-12-31,34.663829,0.0129,0.2153,-0.174,146183.4,prezzo × azioni,2025-12-31,Telecomunicazioni,Nord America,sì,US92343V1044
+95,AT&T Inc.,T,T,NYSE,Stati Uniti,USD,24.84,2025-12-31,21.140426,0.088,0.2246,-0.1874,145420.1,prezzo × azioni,2025-12-31,Telecomunicazioni,Nord America,sì,US00206R1023
+96,Booking Holdings Inc.,BKNG,BKNG,NasdaqGS,Stati Uniti,USD,214.213196,2025-12-31,182.309103,0.0873,0.2833,-0.212,145364.7,prezzo × azioni,2025-12-31,Turismo e tempo libero,Nord America,sì,US09857L1089
+97,"The TJX Companies, Inc.",TJX,TJX,NYSE,Stati Uniti,USD,153.610001,2025-12-31,130.731915,0.2679,0.1788,-0.1058,145167.1,prezzo × azioni,2025-10-31,Distribuzione,Nord America,sì,US8725401090
+98,The Boeing Company,BA,BA,NYSE,Stati Uniti,USD,217.119995,2025-12-31,184.782975,0.2633,0.3739,-0.2666,144998.9,prezzo × azioni,2025-12-31,Aerospazio e difesa,Nord America,sì,US0970231058
+99,HDFC Bank Limited,HDFCBANK,HDFCBANK.NS,NSE,India,INR,991.200012,2025-12-31,9.386675,0.112,0.1558,-0.0914,144213.7,prezzo × azioni,2025-09-30,Banche,Asia ed emergenti,sì,
+100,"Uber Technologies, Inc.",UBER,UBER,NYSE,Stati Uniti,USD,81.709999,2025-12-31,69.540425,0.2935,0.3775,-0.2094,143803.0,prezzo × azioni,2025-12-31,Trasporti e logistica,Nord America,sì,US90353T1007
+101,"NextEra Energy, Inc.",NEE,NEE,NYSE,Stati Uniti,USD,80.279999,2025-12-31,68.323403,0.1211,0.2807,-0.1582,142317.6,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US65339F1012
+102,"BlackRock, Inc.",BLK,BLK,NYSE,Stati Uniti,USD,1070.339966,2025-12-31,910.92763,0.052,0.2776,-0.2415,141256.8,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US09290D1019
+103,Amphenol Corporation,APH,APH,NYSE,Stati Uniti,USD,67.57,2025-12-31,57.506383,0.9583,0.3688,-0.2477,141074.7,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US0320951017
+104,"Arista Networks, Inc.",ANET,ANET,NYSE,Stati Uniti,USD,131.029999,2025-12-31,111.514893,0.1721,0.5853,-0.5042,140118.5,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US0404132054
+105,Danaher Corporation,DHR,DHR,NYSE,Stati Uniti,USD,228.919998,2025-12-31,194.82553,-0.0039,0.3294,-0.3031,137722.2,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US2358511028
+106,"ServiceNow, Inc.",NOW,NOW,NYSE,Stati Uniti,USD,153.190002,2025-12-31,130.37447,-0.2735,0.4025,-0.3834,136538.3,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US81762P1021
+107,SoftBank Group Corp.,9984,9984.T,Tokyo,Giappone,JPY,4400.0,2025-12-30,23.901353,0.906,0.6228,-0.4575,136201.2,prezzo × azioni,2025-09-30,Software e internet,Giappone,sì,
+108,The Toronto-Dominion Bank,TD,TD.TO,Toronto,Canada,CAD,129.360001,2025-12-31,80.407758,0.691,0.155,-0.0931,135848.5,prezzo × azioni,2025-10-31,Banche,Nord America,no (simulati),
+109,KLA Corporation,KLAC,KLAC,NasdaqGS,Stati Uniti,USD,121.508003,2025-12-31,103.411067,0.9086,0.4315,-0.2586,135616.4,prezzo × azioni,2025-12-31,Semiconduttori,Nord America,sì,US4824801009
+110,Texas Instruments Incorporated,TXN,TXN,NasdaqGS,Stati Uniti,USD,173.490005,2025-12-31,147.651069,-0.072,0.4025,-0.307,133919.5,prezzo × azioni,2025-12-31,Semiconduttori,Nord America,sì,US8825081040
+111,Deutsche Telekom AG,DTE,DTE.DE,XETRA,Germania,EUR,27.66,2025-12-30,27.66,-0.0518,0.2253,-0.265,133819.7,prezzo × azioni,2025-12-31,Telecomunicazioni,Europa,sì,
+112,Schneider Electric S.E.,SU,SU.PA,Paris,Francia,EUR,234.899994,2025-12-31,234.899994,-0.0277,0.3502,-0.3134,132066.2,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,sì,
+113,BHP Group Limited,BHP,BHP.AX,ASX,Australia,AUD,45.490002,2025-12-30,25.874525,0.1384,0.2356,-0.1721,131396.3,prezzo × azioni,2025-12-31,Siderurgia e metalli,Asia ed emergenti,no (simulati),
+114,Sony Group Corporation,6758,6758.T,Tokyo,Giappone,JPY,4024.0,2025-12-30,21.858873,0.219,0.3938,-0.2209,130455.4,prezzo × azioni,2025-12-31,Media e intrattenimento,Giappone,sì,JP3435000009
+115,"Gilead Sciences, Inc.",GILD,GILD,NasdaqGS,Stati Uniti,USD,122.739998,2025-12-31,104.459573,0.3359,0.2778,-0.1746,129600.9,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US3755581036
+116,"China Merchants Bank Co., Ltd.",600036,600036.SS,Shanghai,Cina,CNY,42.099998,2025-12-31,5.117794,0.0932,0.1892,-0.1685,129070.0,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,sì,
+117,Capital One Financial Corporation,COF,COF,NYSE,Stati Uniti,USD,242.360001,2025-12-31,206.26383,0.3562,0.3656,-0.2824,128936.0,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US14040H1059
+118,S&P Global Inc.,SPGI,SPGI,NYSE,Stati Uniti,USD,494.408691,2025-12-31,420.773354,0.0547,0.2391,-0.1939,125727.1,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US78409V1044
+119,EssilorLuxottica Société anonyme,EL,EL.PA,Paris,Francia,EUR,269.899994,2025-12-31,269.899994,0.1524,0.2811,-0.2187,125015.1,prezzo × azioni,2025-12-31,Lusso e moda,Europa,sì,
+120,Safran SA,SAF,SAF.PA,Paris,Francia,EUR,297.399994,2025-12-31,297.399994,0.3839,0.264,-0.2309,123990.3,prezzo × azioni,2025-12-31,Aerospazio e difesa,Europa,sì,
+121,Adobe Inc.,ADBE,ADBE,NasdaqGS,Stati Uniti,USD,349.98999,2025-12-31,297.863821,-0.2064,0.3118,-0.3269,123017.8,prezzo × azioni,2025-11-30,Software e internet,Nord America,sì,US00724F1012
+122,UBS Group AG,UBSG,UBSG.SW,Swiss,Svizzera,CHF,36.959999,2025-12-30,39.682198,0.2987,0.2911,-0.3231,122685.4,prezzo × azioni,2025-12-31,Banche,Europa,no (simulati),
+123,"Iberdrola, S.A.",IBE,IBE.MC,MCE,Spagna,EUR,18.465,2025-12-31,18.465,0.3597,0.1701,-0.0992,121823.8,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,
+124,Bharti Airtel Limited,BHARTIARTL,BHARTIARTL.NS,NSE,India,INR,2105.600098,2025-12-31,19.940056,0.3195,0.2032,-0.0903,121438.0,prezzo × azioni,2025-06-30,Telecomunicazioni,Asia ed emergenti,sì,
+125,Unilever PLC,ULVR,ULVR.L,LSE,Regno Unito,GBp,4859.5,2025-12-31,55.689892,-0.01,0.1805,-0.1115,121375.1,prezzo × azioni,2025-12-31,Alimentare e bevande,Regno Unito,no (simulati),
+126,Pfizer Inc.,PFE,PFE,NYSE,Stati Uniti,USD,24.9,2025-12-31,21.191489,-0.0643,0.264,-0.2042,120494.8,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US7170811035
+127,Boston Scientific Corporation,BSX,BSX,NYSE,Stati Uniti,USD,95.349998,2025-12-31,81.148935,0.0668,0.2408,-0.1552,120343.9,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US1011371077
+128,"Hitachi, Ltd.",6501,6501.T,Tokyo,Giappone,JPY,4902.0,2025-12-30,26.62828,0.2344,0.4723,-0.3906,120108.9,prezzo × azioni,2025-12-31,Costruzioni e materiali,Giappone,sì,
+129,Union Pacific Corporation,UNP,UNP,NYSE,Stati Uniti,USD,231.320007,2025-12-31,196.868091,0.0096,0.223,-0.1814,116791.2,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US9078181081
+130,Prosus N.V.,PRX,PRX.AS,Amsterdam,Paesi Bassi,EUR,52.849998,2025-12-31,52.849998,0.3688,0.308,-0.2247,115672.3,prezzo × azioni,2025-09-30,Software e internet,Europa,sì,
+131,ABB Ltd,ABBN,ABBN.SW,Swiss,Svizzera,CHF,59.220001,2025-12-30,63.581706,0.2046,0.2719,-0.2752,115600.5,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,no (simulati),
+132,"Lowe's Companies, Inc.",LOW,LOW,NYSE,Stati Uniti,USD,241.160004,2025-12-31,205.242556,-0.0236,0.2415,-0.2146,115105.1,prezzo × azioni,2025-10-31,Distribuzione,Nord America,sì,US5486611073
+133,Stryker Corporation,SYK,SYK,NYSE,Stati Uniti,USD,351.470001,2025-12-31,299.123405,-0.0202,0.2168,-0.1564,114414.7,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US8636671013
+134,"Banco Bilbao Vizcaya Argentaria, S.A.",BBVA,BBVA.MC,MCE,Spagna,EUR,20.049999,2025-12-31,20.049999,1.1564,0.2976,-0.2124,114111.8,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+135,The Progressive Corporation,PGR,PGR,NYSE,Stati Uniti,USD,227.720001,2025-12-31,193.804256,-0.0537,0.2495,-0.3005,113588.7,prezzo × azioni,2025-12-31,Assicurazioni,Nord America,sì,US7433151039
+136,"Analog Devices, Inc.",ADI,ADI,NasdaqGS,Stati Uniti,USD,271.200012,2025-12-31,230.808521,0.2832,0.3891,-0.3249,113016.3,prezzo × azioni,2025-10-31,Semiconduttori,Nord America,sì,US0326541051
+137,Rio Tinto Group,RIO,RIO.L,LSE,Regno Unito,GBp,5994.0,2025-12-31,68.691267,0.2582,0.2117,-0.1913,111608.3,prezzo × azioni,2025-12-31,Siderurgia e metalli,Regno Unito,no (simulati),
+138,Xiaomi Corporation,1810,1810.HK,HKSE,Hong Kong,HKD,39.200001,2025-12-31,4.285839,0.1529,0.4947,-0.3737,111126.4,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,no (simulati),
+139,CNOOC Limited,0883,0883.HK,HKSE,Hong Kong,HKD,21.280001,2025-12-31,2.326599,0.1271,0.2651,-0.2103,110583.1,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,no (simulati),
+140,Rolls-Royce Holdings plc,RR,RR.L,LSE,Regno Unito,GBp,1150.0,2025-12-31,13.179005,0.9545,0.3462,-0.2178,110367.8,prezzo × azioni,2025-12-31,Aerospazio e difesa,Regno Unito,no (simulati),
+141,Welltower Inc.,WELL,WELL,NYSE,Stati Uniti,USD,185.610001,2025-12-31,157.965958,0.4882,0.2186,-0.1299,110024.4,prezzo × azioni,2025-12-31,Immobiliare,Nord America,sì,US95040Q1040
+142,Tata Consultancy Services Limited,TCS,TCS.NS,NSE,India,INR,3206.199951,2025-12-31,30.362748,-0.2204,0.199,-0.3269,109855.1,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,
+143,Compagnie Financière Richemont SA,CFR,CFR.SW,Swiss,Svizzera,CHF,172.050003,2025-12-30,184.721927,0.2816,0.324,-0.3021,108605.5,prezzo × azioni,2025-09-30,Lusso e moda,Europa,no (simulati),
+144,"Palo Alto Networks, Inc.",PANW,PANW,NasdaqGS,Stati Uniti,USD,184.199997,2025-12-31,156.765955,0.0191,0.3492,-0.2681,108482.0,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US6974351057
+145,Deere & Company,DE,DE,NYSE,Stati Uniti,USD,465.570007,2025-12-31,396.229793,0.1133,0.276,-0.1891,107121.5,prezzo × azioni,2025-10-31,Costruzioni e materiali,Nord America,sì,US2441991054
+146,Anheuser-Busch InBev SA/NV,ABI,ABI.BR,Brussels,Belgio,EUR,54.900002,2025-12-31,54.900002,0.1259,0.2412,-0.2189,107096.3,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,sì,
+147,UniCredit S.p.A.,UCG,UCG.MI,Milan,Italia,EUR,70.919998,2025-12-30,70.919998,0.8478,0.3193,-0.2285,106598.3,prezzo × azioni,2025-12-31,Banche,Europa,sì,IT0005239360
+148,DBS Group Holdings Ltd,D05,D05.SI,SES,Singapore,SGD,56.360001,2025-12-31,37.312149,0.2821,0.2027,-0.2038,105887.6,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,no (simulati),
+149,Honeywell International Inc.,HON,HON,NasdaqGS,Stati Uniti,USD,204.604095,2025-12-31,174.131145,-0.0822,0.2475,-0.1927,105481.4,Yahoo al 31/12/2025,2025-12-31,Costruzioni e materiali,Nord America,sì,US4385161066
+150,British American Tobacco p.l.c.,BATS,BATS.L,LSE,Regno Unito,GBp,4214.0,2025-12-31,48.292459,0.4275,0.2209,-0.1502,104955.6,prezzo × azioni,2025-12-31,Alimentare e bevande,Regno Unito,no (simulati),GB0002875804
+151,"Sumitomo Mitsui Financial Group, Inc.",8316,8316.T,Tokyo,Giappone,JPY,2520.5,2025-12-30,13.691673,0.3329,0.3302,-0.305,104827.2,Yahoo al 31/12/2025,2025-12-31,Banche,Giappone,sì,
+152,Intesa Sanpaolo S.p.A.,ISP,ISP.MI,Milan,Italia,EUR,5.921,2025-12-30,5.921,0.5379,0.2642,-0.2118,102952.8,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+153,Blackstone Inc.,BX,BX,NYSE,Stati Uniti,USD,154.139999,2025-12-31,131.182978,-0.1129,0.3779,-0.357,102740.3,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US09260D1072
+154,Siemens Energy AG,ENR,ENR.DE,XETRA,Germania,EUR,120.400002,2025-12-30,120.400002,1.3682,0.5649,-0.2374,102442.2,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,
+155,"Prologis, Inc.",PLD,PLD,NYSE,Stati Uniti,USD,127.660004,2025-12-31,108.646812,0.2244,0.2822,-0.2764,100949.5,prezzo × azioni,2025-12-31,Immobiliare,Nord America,sì,US74340W1036
+156,"CrowdStrike Holdings, Inc.",CRWD,CRWD,NasdaqGS,Stati Uniti,USD,117.190002,2025-12-31,99.736172,0.3496,0.4497,-0.3217,100565.2,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US22788C1053
+157,Southern Copper Corporation,SCCO,SCCO,NYSE,Stati Uniti,USD,137.872391,2025-12-31,117.338205,0.5992,0.3925,-0.2547,100123.2,prezzo × azioni,2025-12-31,Siderurgia e metalli,Nord America,sì,US84265V1052
+158,Sanofi,SAN,SAN.PA,Paris,Francia,EUR,82.720001,2025-12-31,82.720001,-0.123,0.2556,-0.2928,99896.1,prezzo × azioni,2025-12-31,Farmaceutica,Europa,sì,
+159,Vertex Pharmaceuticals Incorporated,VRTX,VRTX,NasdaqGS,Stati Uniti,USD,453.359985,2025-12-31,385.838285,0.1173,0.3511,-0.2866,97999.5,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US92532F1003
+160,ConocoPhillips,COP,COP,NYSE,Stati Uniti,USD,93.610001,2025-12-31,79.668086,-0.0646,0.3426,-0.2209,97606.8,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US20825C1045
+161,Baltic Classifieds Group PLC,BCG,BCG.L,LSE,Regno Unito,EUR,203.0,2025-12-31,203.0,-0.3715,0.359,-0.5354,97452.6,prezzo × azioni,2025-10-31,Media e intrattenimento,Regno Unito,no (simulati),GB00BN44P254
+162,KKR & Co. Inc.,KKR,KKR,NYSE,Stati Uniti,USD,127.480003,2025-12-31,108.49362,-0.1455,0.4574,-0.4446,96716.8,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US48251W1045
+163,"Fast Retailing Co., Ltd.",9983,9983.T,Tokyo,Giappone,JPY,56940.0,2025-12-30,309.305231,0.1046,0.3141,-0.2006,94904.1,prezzo × azioni,2025-11-30,Lusso e moda,Giappone,sì,
+164,BYD Company Limited,1211,1211.HK,HKSE,Hong Kong,HKD,95.099998,2025-12-31,10.397533,0.105,0.4532,-0.4019,94796.4,prezzo × azioni,2025-12-31,Automobili,Asia ed emergenti,no (simulati),
+165,Parker-Hannifin Corporation,PH,PH,NYSE,Stati Uniti,USD,878.960022,2025-12-31,748.051083,0.3962,0.3175,-0.2685,94416.4,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US7010941042
+166,Lockheed Martin Corporation,LMT,LMT,NYSE,Stati Uniti,USD,483.670013,2025-12-31,411.634054,0.0029,0.27,-0.1887,94264.2,prezzo × azioni,2025-12-31,Aerospazio e difesa,Nord America,sì,US5398301094
+167,Constellation Energy Corporation,CEG,CEG,NasdaqGS,Stati Uniti,USD,353.269989,2025-12-31,300.65531,0.4562,0.6196,-0.5079,93891.7,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US21037T1097
+168,Investor AB (publ),INVE-B,INVE-B.ST,Stockholm,Svezia,SEK,330.399994,2025-12-30,30.531811,0.1162,0.2056,-0.2204,93528.4,prezzo × azioni,2025-12-31,Banche,Europa,no (simulati),
+169,Bristol-Myers Squibb Company,BMY,BMY,NYSE,Stati Uniti,USD,53.939999,2025-12-31,45.906382,-0.0502,0.2909,-0.325,93454.1,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US1101221083
+170,L'Air Liquide S.A.,AI,AI.PA,Paris,Francia,EUR,145.690903,2025-12-31,145.690903,0.0282,0.1757,-0.151,92620.8,prezzo × azioni,2025-12-31,Chimica,Europa,sì,FR0000120073
+171,Newmont Corporation,NEM,NEM,NYSE,Stati Uniti,USD,99.849998,2025-12-31,84.978722,1.6023,0.4079,-0.1999,92541.8,prezzo × azioni,2025-12-31,Siderurgia e metalli,Nord America,sì,US6516391066
+172,Zurich Insurance Group AG,ZURN,ZURN.SW,Swiss,Svizzera,CHF,601.799988,2025-12-30,646.124101,0.1042,0.1843,-0.1511,91929.5,prezzo × azioni,2025-12-31,Assicurazioni,Europa,no (simulati),
+173,AIA Group Limited,1299,1299.HK,HKSE,Hong Kong,HKD,80.099998,2025-12-31,8.757544,0.4485,0.3156,-0.2183,91652.3,prezzo × azioni,2025-12-31,Assicurazioni,Asia ed emergenti,no (simulati),
+174,ICICI Bank Limited,ICICIBANK,ICICIBANK.NS,NSE,India,INR,1342.900024,2025-12-31,12.717278,0.0462,0.1626,-0.113,90937.1,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,sì,
+175,"HCA Healthcare, Inc.",HCA,HCA,NYSE,Stati Uniti,USD,466.859985,2025-12-31,397.327647,0.568,0.2747,-0.1417,89241.8,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US40412C1018
+176,Enbridge Inc.,ENB,ENB.TO,Toronto,Canada,CAD,65.68,2025-12-31,40.82546,0.0616,0.1654,-0.1008,89081.2,prezzo × azioni,2025-12-31,Energia,Nord America,no (simulati),
+177,Enel SpA,ENEL,ENEL.MI,Milan,Italia,EUR,8.877,2025-12-30,8.877,0.2636,0.178,-0.1276,89064.0,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,IT0003128367
+178,BNP Paribas SA,BNP,BNP.PA,Paris,Francia,EUR,80.790001,2025-12-31,80.790001,0.3635,0.2811,-0.2216,88877.0,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+179,"Automatic Data Processing, Inc.",ADP,ADP,NasdaqGS,Stati Uniti,USD,257.230011,2025-12-31,218.919158,-0.1119,0.2006,-0.2379,88224.4,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US0530151036
+180,Brookfield Corporation,BN,BN.TO,Toronto,Canada,CAD,63.02,2025-12-31,39.172054,0.1404,0.3353,-0.2907,87929.7,prezzo × azioni,2025-12-31,Banche,Nord America,no (simulati),
+181,"Hon Hai Precision Industry Co., Ltd.",2317,2317.TW,Taiwan,Taiwan,TWD,230.5,2025-12-31,6.278733,0.263,0.4061,-0.4079,87668.3,prezzo × azioni,2025-12-31,Semiconduttori,Asia ed emergenti,sì,
+182,"Robinhood Markets, Inc.",HOOD,HOOD,NasdaqGS,Stati Uniti,USD,113.099998,2025-12-31,96.255318,1.8676,0.749,-0.4766,86757.7,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US7707001027
+183,Comcast Corporation,CMCSA,CMCSA,NasdaqGS,Stati Uniti,USD,28.013121,2025-12-31,23.840954,-0.2012,0.2758,-0.3079,85927.9,prezzo × azioni,2025-12-31,Media e intrattenimento,Nord America,sì,US20030N1019
+184,McKesson Corporation,MCK,MCK,NYSE,Stati Uniti,USD,820.289978,2025-12-31,698.11913,0.4487,0.2312,-0.106,85868.7,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US58155Q1031
+185,State Bank of India,SBIN,SBIN.NS,NSE,India,INR,982.200012,2025-12-31,9.301445,0.2383,0.1805,-0.1403,85858.1,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,sì,
+186,CVS Health Corporation,CVS,CVS,NYSE,Stati Uniti,USD,79.360001,2025-12-31,67.540426,0.7947,0.3126,-0.1629,85843.9,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US1266501006
+187,Tokyo Electron Limited,8035,8035.T,Tokyo,Giappone,JPY,6864.0,2025-12-30,37.28611,0.4089,0.5002,-0.3805,85460.7,prezzo × azioni,2025-12-31,Semiconduttori,Giappone,sì,
+188,AXA SA,CS,CS.PA,Paris,Francia,EUR,40.959999,2025-12-31,40.959999,0.19,0.2153,-0.1357,84188.1,prezzo × azioni,2025-12-31,Assicurazioni,Europa,sì,
+189,GSK plc,GSK,GSK.L,LSE,Regno Unito,GBp,1824.5,2025-12-31,20.908778,0.3401,0.2594,-0.189,83897.5,prezzo × azioni,2025-12-31,Farmaceutica,Regno Unito,no (simulati),
+190,"DoorDash, Inc.",DASH,DASH,NasdaqGS,Stati Uniti,USD,226.479996,2025-12-31,192.748933,0.3272,0.4535,-0.3337,83700.6,prezzo × azioni,2025-12-31,Distribuzione,Nord America,sì,US25809K1051
+191,CME Group Inc.,CME,CME,NasdaqGS,Stati Uniti,USD,273.079987,2025-12-31,232.408499,0.1734,0.188,-0.1097,83423.8,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US12572Q1058
+192,The Southern Company,SO,SO,NYSE,Stati Uniti,USD,87.199997,2025-12-31,74.212763,0.0625,0.1765,-0.1568,83061.7,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US8425871071
+193,"Altria Group, Inc.",MO,MO,NYSE,Stati Uniti,USD,57.66,2025-12-31,49.07234,0.0981,0.2041,-0.167,82162.7,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US02209S1033
+194,Starbucks Corporation,SBUX,SBUX,NasdaqGS,Stati Uniti,USD,84.209999,2025-12-31,71.668084,-0.0864,0.3433,-0.3225,81637.1,prezzo × azioni,2025-12-31,Turismo e tempo libero,Nord America,sì,US8552441094
+195,"China Yangtze Power Co., Ltd.",600900,600900.SS,Shanghai,Cina,CNY,27.190001,2025-12-31,3.305293,-0.0688,0.1223,-0.1283,80874.6,prezzo × azioni,2025-12-31,Servizi pubblici,Asia ed emergenti,sì,
+196,"NIKE, Inc.",NKE,NKE,NYSE,Stati Uniti,USD,63.709999,2025-12-31,54.221276,-0.1352,0.4207,-0.3481,80241.4,prezzo × azioni,2025-11-30,Lusso e moda,Nord America,sì,US6541061031
+197,Bank of Montreal,BMO,BMO.TO,Toronto,Canada,CAD,178.25,2025-12-31,110.796867,0.2751,0.1759,-0.1657,78544.5,prezzo × azioni,2025-10-31,Banche,Nord America,no (simulati),
+198,The Bank of Nova Scotia,BNS,BNS.TO,Toronto,Canada,CAD,101.230003,2025-12-31,62.922677,0.3104,0.1501,-0.1783,77791.7,prezzo × azioni,2025-10-31,Banche,Nord America,no (simulati),
+199,Duke Energy Corporation,DUK,DUK,NYSE,Stati Uniti,USD,117.209999,2025-12-31,99.753191,0.0871,0.171,-0.1165,77574.2,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US26441C2044
+200,General Dynamics Corporation,GD,GD,NYSE,Stati Uniti,USD,336.660004,2025-12-31,286.519152,0.2898,0.2123,-0.1093,77471.8,prezzo × azioni,2025-12-31,Aerospazio e difesa,Nord America,sì,US3695501086
+201,Moody's Corporation,MCO,MCO,NYSE,Stati Uniti,USD,510.850006,2025-12-31,434.765963,0.0804,0.27,-0.2479,77189.6,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US6153691059
+202,"Marsh & McLennan Companies, Inc.",MRSH,MRSH,NYSE,Stati Uniti,USD,185.520004,2025-12-31,157.889365,-0.1222,0.2066,-0.2771,76554.0,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US5717481023
+203,"Mizuho Financial Group, Inc.",8411,8411.T,Tokyo,Giappone,JPY,5700.0,2025-12-30,30.963116,0.4672,0.3765,-0.3458,76484.2,prezzo × azioni,2025-12-31,Banche,Giappone,sì,
+204,BP p.l.c.,BP,BP.L,LSE,Regno Unito,GBp,432.799988,2025-12-31,4.95989,0.0735,0.2727,-0.2924,76266.9,prezzo × azioni,2025-12-31,Energia,Regno Unito,no (simulati),
+205,Barclays PLC,BARC,BARC.L,LSE,Regno Unito,GBp,475.950012,2025-12-31,5.454389,0.7833,0.3231,-0.2237,75514.8,prezzo × azioni,2025-12-31,Banche,Regno Unito,no (simulati),
+206,"Waste Management, Inc.",WM,WM,NYSE,Stati Uniti,USD,219.710007,2025-12-31,186.98724,0.0956,0.1886,-0.1872,75345.0,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US94106L1098
+207,ITOCHU Corporation,8001,8001.T,Tokyo,Giappone,JPY,1975.0,2025-12-30,10.728448,0.2665,0.2793,-0.2255,75092.2,prezzo × azioni,2025-12-31,Distribuzione,Giappone,sì,
+208,Westpac Banking Corporation,WBC,WBC.AX,ASX,Australia,AUD,38.599998,2025-12-30,21.955519,0.191,0.222,-0.1596,75052.5,prezzo × azioni,2025-03-31,Banche,Asia ed emergenti,no (simulati),
+209,"NetEase, Inc.",9999,9999.HK,HKSE,Hong Kong,HKD,215.0,2025-12-31,23.506516,0.5648,0.3859,-0.187,75035.4,prezzo × azioni,2025-12-31,Media e intrattenimento,Asia ed emergenti,no (simulati),
+210,Atlas Copco AB (publ),ATCO-A,ATCO-A.ST,Stockholm,Svezia,SEK,166.050003,2025-12-30,15.344453,-0.0326,0.2874,-0.2869,74736.5,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,no (simulati),
+211,Keyence Corporation,6861,6861.T,Tokyo,Giappone,JPY,56680.0,2025-12-30,307.892878,-0.103,0.3168,-0.268,74671.8,prezzo × azioni,2025-12-31,Semiconduttori,Giappone,sì,
+212,"Synopsys, Inc.",SNPS,SNPS,NasdaqGS,Stati Uniti,USD,469.720001,2025-12-31,399.761703,-0.027,0.6177,-0.4053,74353.3,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US8716071076
+213,National Australia Bank Limited,NAB,NAB.AX,ASX,Australia,AUD,42.310001,2025-12-30,24.065754,0.1361,0.2166,-0.2194,73518.3,prezzo × azioni,2025-03-31,Banche,Asia ed emergenti,no (simulati),
+214,"CaixaBank, S.A.",CABK,CABK.MC,MCE,Spagna,EUR,10.445,2025-12-31,10.445,1.0087,0.2806,-0.204,73199.7,prezzo × azioni,2025-12-31,Banche,Europa,no (simulati),
+215,"Cadence Design Systems, Inc.",CDNS,CDNS,NasdaqGS,Stati Uniti,USD,312.579987,2025-12-31,266.02552,0.0501,0.3874,-0.2862,72305.5,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US1273871087
+216,3M Company,MMM,MMM,NYSE,Stati Uniti,USD,160.100006,2025-12-31,136.255324,0.2344,0.2967,-0.1871,72253.4,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US88579Y1010
+217,Mitsubishi Corporation,8058,8058.T,Tokyo,Giappone,JPY,3586.0,2025-12-30,19.479602,0.3848,0.2727,-0.1737,72191.5,prezzo × azioni,2025-12-31,Distribuzione,Giappone,sì,
+218,"Midea Group Co., Ltd.",000333,000333.SZ,Shenzhen,Cina,CNY,78.150002,2025-12-31,9.500134,0.0376,0.2133,-0.1467,72173.9,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,sì,
+219,"Mitsui & Co., Ltd.",8031,8031.T,Tokyo,Giappone,JPY,4643.0,2025-12-30,25.221359,0.4121,0.2719,-0.2499,72051.2,prezzo × azioni,2025-12-31,Distribuzione,Giappone,sì,
+220,Münchener Rückversicherungs-Gesellschaft Aktiengesellschaft in München,MUV2,MUV2.DE,XETRA,Germania,EUR,562.200012,2025-12-30,562.200012,0.1438,0.2429,-0.1559,71940.2,prezzo × azioni,2025-12-31,Assicurazioni,Europa,sì,
+221,"United Parcel Service, Inc.",UPS,UPS,NYSE,Stati Uniti,USD,99.190002,2025-12-31,84.417023,-0.1992,0.3354,-0.394,71661.6,prezzo × azioni,2025-12-31,Trasporti e logistica,Nord America,sì,US9113121068
+222,Rheinmetall AG,RHM,RHM.DE,XETRA,Germania,EUR,1561.0,2025-12-30,1561.0,1.5844,0.49,-0.2743,71620.3,prezzo × azioni,2025-12-31,Aerospazio e difesa,Europa,sì,
+223,Dell Technologies Inc.,DELL,DELL,NYSE,Stati Uniti,USD,125.879997,2025-12-31,107.131913,0.0802,0.5203,-0.4254,71431.5,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US24703L2025
+224,"Apollo Global Management, Inc.",APO,APO,NYSE,Stati Uniti,USD,144.759995,2025-12-31,123.199995,-0.1272,0.4213,-0.3684,71330.5,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US03769M1062
+225,CRH plc,CRH,CRH,NYSE,Stati Uniti,USD,124.800003,2025-12-31,106.212769,0.3461,0.3338,-0.2729,71017.1,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,
+226,U.S. Bancorp,USB,USB,NYSE,Stati Uniti,USD,53.360001,2025-12-31,45.412766,0.1149,0.2739,-0.2849,70634.9,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US9029733048
+227,"Marriott International, Inc.",MAR,MAR,NasdaqGS,Stati Uniti,USD,310.23999,2025-12-31,264.034034,0.1304,0.2909,-0.3066,70197.3,prezzo × azioni,2025-12-31,Turismo e tempo libero,Nord America,sì,US5719032022
+228,"Mitsubishi Heavy Industries, Ltd.",7011,7011.T,Tokyo,Giappone,JPY,3840.0,2025-12-30,20.859362,0.712,0.4969,-0.2854,70091.8,prezzo × azioni,2025-12-31,Aerospazio e difesa,Giappone,sì,
+229,Howmet Aerospace Inc.,HWM,HWM,NYSE,Stati Uniti,USD,205.020004,2025-12-31,174.48511,0.8505,0.3415,-0.1941,70076.8,prezzo × azioni,2025-12-31,Aerospazio e difesa,Nord America,sì,US4432011082
+230,"NTT, Inc.",9432,9432.T,Tokyo,Giappone,JPY,157.699997,2025-12-30,0.856646,0.0045,0.1699,-0.1181,70005.6,prezzo × azioni,2025-12-31,Telecomunicazioni,Giappone,sì,
+231,ING Groep N.V.,INGA,INGA.AS,Amsterdam,Paesi Bassi,EUR,24.01,2025-12-31,24.01,0.5815,0.2501,-0.1998,69687.5,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+232,American Tower Corporation,AMT,AMT,NYSE,Stati Uniti,USD,175.570007,2025-12-31,149.421283,-0.0302,0.2451,-0.258,69677.8,prezzo × azioni,2025-12-31,Immobiliare,Nord America,sì,US03027X1000
+233,"Airbnb, Inc.",ABNB,ABNB,NasdaqGS,Stati Uniti,USD,135.720001,2025-12-31,115.506384,0.0322,0.3718,-0.3452,69534.8,prezzo × azioni,2025-12-31,Turismo e tempo libero,Nord America,sì,US0090661010
+234,"Regeneron Pharmaceuticals, Inc.",REGN,REGN,NasdaqGS,Stati Uniti,USD,771.869995,2025-12-31,656.910634,0.0793,0.4231,-0.3514,69446.7,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US75886F1075
+235,"The PNC Financial Services Group, Inc.",PNC,PNC,NYSE,Stati Uniti,USD,208.729996,2025-12-31,177.64255,0.0906,0.2536,-0.2619,69354.1,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US6934751057
+236,Northrop Grumman Corporation,NOC,NOC,NYSE,Stati Uniti,USD,570.210022,2025-12-31,485.285125,0.2184,0.2772,-0.1556,68909.1,prezzo × azioni,2025-12-31,Aerospazio e difesa,Nord America,sì,US6668071029
+237,Meituan,3690,3690.HK,HKSE,Hong Kong,HKD,102.800003,2025-12-31,11.239395,-0.3174,0.459,-0.485,68657.5,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,no (simulati),
+238,The Sherwin-Williams Company,SHW,SHW,NYSE,Stati Uniti,USD,324.029999,2025-12-31,275.770212,-0.0274,0.2404,-0.1449,68308.7,prezzo × azioni,2025-12-31,Chimica,Nord America,sì,US8243481061
+239,"Delta Electronics, Inc.",2308,2308.TW,Taiwan,Taiwan,TWD,963.0,2025-12-31,26.231755,1.3094,0.4472,-0.3589,68138.1,prezzo × azioni,2025-12-31,Semiconduttori,Asia ed emergenti,sì,
+240,The Bank of New York Mellon Corporation,BNY,BNY,NYSE,Stati Uniti,USD,116.089996,2025-12-31,98.799997,0.4997,0.238,-0.1758,67997.7,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US0640581007
+241,"Recruit Holdings Co., Ltd.",6098,6098.T,Tokyo,Giappone,JPY,8847.0,2025-12-30,48.058015,-0.1789,0.4646,-0.417,67533.4,prezzo × azioni,2025-12-31,Software e internet,Giappone,sì,
+242,"Nintendo Co., Ltd.",7974,7974.T,Tokyo,Giappone,JPY,10595.0,2025-12-30,57.553371,0.1681,0.3915,-0.3009,67007.0,prezzo × azioni,2025-12-31,Media e intrattenimento,Giappone,sì,
+243,Vinci SA,DG,DG.PA,Paris,Francia,EUR,120.050003,2025-12-31,120.050003,0.2041,0.2028,-0.1277,66743.9,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,sì,
+244,Lloyds Banking Group plc,LLOY,LLOY.L,LSE,Regno Unito,GBp,98.239998,2025-12-31,1.125831,0.7849,0.2646,-0.1349,66153.6,prezzo × azioni,2025-12-31,Banche,Regno Unito,no (simulati),
+245,"Elevance Health, Inc.",ELV,ELV,NYSE,Stati Uniti,USD,350.549988,2025-12-31,298.340415,-0.0418,0.3714,-0.3933,65850.9,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US0367521038
+246,"O'Reilly Automotive, Inc.",ORLY,ORLY,NasdaqGS,Stati Uniti,USD,91.209999,2025-12-31,77.625531,0.1519,0.2086,-0.156,65353.7,prezzo × azioni,2025-12-31,Automobili,Nord America,sì,US67103H1077
+247,Deutsche Bank Aktiengesellschaft,DBK,DBK.DE,XETRA,Germania,EUR,33.110001,2025-12-30,33.110001,0.9699,0.3637,-0.2314,64219.3,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+248,National Grid plc,NG,NG.L,LSE,Regno Unito,GBp,1141.5,2025-12-31,13.081595,0.1891,0.1915,-0.0791,64062.2,prezzo × azioni,2025-03-31,Servizi pubblici,Regno Unito,no (simulati),
+249,"Equinix, Inc.",EQIX,EQIX,NasdaqGS,Stati Uniti,USD,766.159973,2025-12-31,652.051041,-0.1886,0.2769,-0.2436,64048.4,prezzo × azioni,2025-12-31,Immobiliare,Nord America,sì,US29444U7000
+250,Cintas Corporation,CTAS,CTAS,NasdaqGS,Stati Uniti,USD,188.070007,2025-12-31,160.059581,0.0328,0.2187,-0.2004,64006.2,prezzo × azioni,2025-11-30,Costruzioni e materiali,Nord America,sì,US1729081059
+251,Corning Incorporated,GLW,GLW,NYSE,Stati Uniti,USD,87.559998,2025-12-31,74.519147,0.8745,0.3643,-0.2798,63889.8,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US2193501051
+252,Snowflake Inc.,SNOW,SNOW,NYSE,Stati Uniti,USD,219.360001,2025-12-31,186.689362,0.3927,0.4869,-0.3229,63859.9,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US8334451098
+253,TransDigm Group Incorporated,TDG,TDG,NYSE,Stati Uniti,USD,1329.849976,2025-12-31,1131.787213,0.0604,0.2836,-0.2364,63830.8,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US8936411003
+254,Monster Beverage Corporation,MNST,MNST,NasdaqGS,Stati Uniti,USD,38.334999,2025-12-31,32.625531,0.4657,0.2335,-0.1189,63822.9,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US61174X1090
+255,Emerson Electric Co.,EMR,EMR,NYSE,Stati Uniti,USD,132.720001,2025-12-31,112.953193,0.0863,0.3021,-0.2822,63479.7,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US2910111044
+256,Ecolab Inc.,ECL,ECL,NYSE,Stati Uniti,USD,262.519989,2025-12-31,223.421267,0.1368,0.2073,-0.1637,63009.8,prezzo × azioni,2025-12-31,Chimica,Nord America,sì,US2788651006
+257,RELX PLC,REL,REL.L,LSE,Regno Unito,GBp,3020.0,2025-12-31,34.609214,-0.1793,0.2081,-0.2813,62956.3,prezzo × azioni,2025-12-31,Media e intrattenimento,Regno Unito,no (simulati),
+258,General Motors Company,GM,GM,NYSE,Stati Uniti,USD,81.32,2025-12-31,69.20851,0.583,0.3642,-0.2265,62564.5,prezzo × azioni,2025-12-31,Automobili,Nord America,sì,US37045V1008
+259,"The Williams Companies, Inc.",WMB,WMB,NYSE,Stati Uniti,USD,60.110001,2025-12-31,51.157447,0.0757,0.2724,-0.1236,62514.4,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US9694571004
+260,MediaTek Inc.,2454,2454.TW,Taiwan,Taiwan,TWD,1430.0,2025-12-31,38.952658,0.0593,0.3761,-0.266,62173.0,prezzo × azioni,2025-12-31,Semiconduttori,Asia ed emergenti,sì,
+261,Freeport-McMoRan Inc.,FCX,FCX,NYSE,Stati Uniti,USD,50.790001,2025-12-31,43.225533,0.3408,0.496,-0.3223,61942.2,prezzo × azioni,2025-12-31,Siderurgia e metalli,Nord America,sì,US35671D8570
+262,Infosys Limited,INFY,INFY.NS,NSE,India,INR,1615.400024,2025-12-31,15.297856,-0.1419,0.2508,-0.2899,61890.3,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,no (simulati),
+263,The Cigna Group,CI,CI,NYSE,Stati Uniti,USD,275.230011,2025-12-31,234.238307,0.0027,0.3449,-0.2812,61713.4,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US1255231003
+264,ANZ Group Holdings Limited,ANZ,ANZ.AX,ASX,Australia,AUD,36.34,2025-12-30,20.670042,0.2711,0.2029,-0.1528,61674.3,prezzo × azioni,2025-09-30,Banche,Asia ed emergenti,no (simulati),
+265,"Marvell Technology, Inc.",MRVL,MRVL,NasdaqGS,Stati Uniti,USD,84.980003,2025-12-31,72.323407,-0.2517,0.6998,-0.6083,61373.6,prezzo × azioni,2025-10-31,Semiconduttori,Nord America,sì,US5738741041
+266,Illinois Tool Works Inc.,ITW,ITW,NYSE,Stati Uniti,USD,246.300003,2025-12-31,209.617024,-0.0149,0.2264,-0.2043,60495.5,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US4523081093
+267,Canadian Natural Resources Limited,CNQ,CNQ.TO,Toronto,Canada,CAD,46.490002,2025-12-31,28.897316,0.029,0.2937,-0.2416,60152.0,prezzo × azioni,2025-12-31,Energia,Nord America,no (simulati),
+268,"Tokio Marine Holdings, Inc.",8766,8766.T,Tokyo,Giappone,JPY,387.799988,2025-12-30,2.106578,0.0241,0.3679,-0.2634,60142.2,prezzo × azioni,2025-12-31,Assicurazioni,Giappone,sì,
+269,Cummins Inc.,CMI,CMI,NYSE,Stati Uniti,USD,510.450012,2025-12-31,434.425542,0.4683,0.3136,-0.3081,60009.9,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US2310211063
+270,NatWest Group plc,NWG,NWG.L,LSE,Regno Unito,GBp,651.799988,2025-12-31,7.469631,0.621,0.2835,-0.1439,59717.1,prezzo × azioni,2025-12-31,Banche,Regno Unito,no (simulati),
+271,"Cloudflare, Inc.",NET,NET,NYSE,Stati Uniti,USD,197.149994,2025-12-31,167.787229,0.7518,0.5083,-0.45,59042.1,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US18915M1071
+272,Enterprise Products Partners L.P.,EPD,EPD,NYSE,Stati Uniti,USD,32.060001,2025-12-31,27.285108,0.0098,0.185,-0.154,58983.9,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US2937921078
+273,Oversea-Chinese Banking Corporation Limited,O39,O39.SI,SES,Singapore,SGD,19.76,2025-12-31,13.081761,0.1875,0.1752,-0.1922,58738.2,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,no (simulati),
+274,"Mondelez International, Inc.",MDLZ,MDLZ,NasdaqGS,Stati Uniti,USD,53.830002,2025-12-31,45.812768,-0.0953,0.2233,-0.2397,58712.6,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US6092071058
+275,Mercedes-Benz Group AG,MBG,MBG.DE,XETRA,Germania,EUR,60.07,2025-12-30,60.07,0.136,0.2801,-0.2517,57506.8,prezzo × azioni,2025-12-31,Automobili,Europa,sì,
+276,BAE Systems plc,BA,BA.L,LSE,Regno Unito,GBp,1714.0,2025-12-31,19.642448,0.4859,0.323,-0.2187,57499.1,prezzo × azioni,2025-12-31,Aerospazio e difesa,Regno Unito,no (simulati),
+277,CSX Corporation,CSX,CSX,NasdaqGS,Stati Uniti,USD,36.25,2025-12-31,30.851064,0.1272,0.2351,-0.2073,57375.0,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US1264081035
+278,Arthur J. Gallagher & Co.,AJG,AJG,NYSE,Stati Uniti,USD,258.790009,2025-12-31,220.246816,-0.062,0.2529,-0.318,56603.4,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US3635761097
+279,Bayerische Motoren Werke Aktiengesellschaft,BMW,BMW.DE,XETRA,Germania,EUR,93.139999,2025-12-30,93.139999,0.1926,0.3154,-0.2697,56547.9,prezzo × azioni,2025-12-31,Automobili,Europa,sì,
+280,Ferrari N.V.,RACE,RACE.MI,Milan,Italia,EUR,318.700012,2025-12-30,318.700012,-0.2212,0.3491,-0.3636,56498.8,prezzo × azioni,2025-12-31,Automobili,Europa,sì,NL0011585146
+281,Canadian Pacific Kansas City Limited,CP,CP.TO,Toronto,Canada,CAD,101.050003,2025-12-31,62.810793,-0.0477,0.2381,-0.1746,56379.0,prezzo × azioni,2025-12-31,Trasporti e logistica,Nord America,no (simulati),
+282,Hong Kong Exchanges and Clearing Limited,0388,0388.HK,HKSE,Hong Kong,HKD,407.799988,2025-12-31,44.585847,0.4209,0.3195,-0.208,56357.9,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,no (simulati),
+283,KDDI Corporation,9433,9433.T,Tokyo,Giappone,JPY,2708.5,2025-12-30,14.712912,0.1069,0.2132,-0.1384,56013.2,prezzo × azioni,2025-09-30,Telecomunicazioni,Giappone,sì,
+284,"Cencora, Inc.",COR,COR,NYSE,Stati Uniti,USD,337.75,2025-12-31,287.446809,0.5028,0.2218,-0.1052,55914.7,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US03073E1055
+285,AB Volvo (publ),VOLV-B,VOLV-B.ST,Stockholm,Svezia,SEK,295.899994,2025-12-30,27.343713,0.0967,0.308,-0.3298,55602.1,prezzo × azioni,2025-12-31,Automobili,Europa,no (simulati),
+286,"Republic Services, Inc.",RSG,RSG,NYSE,Stati Uniti,USD,211.929993,2025-12-31,180.365951,0.0592,0.1883,-0.2091,55552.7,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US7607591002
+287,Norfolk Southern Corporation,NSC,NSC,NYSE,Stati Uniti,USD,288.720001,2025-12-31,245.71915,0.2307,0.2269,-0.2057,55144.5,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US6558441084
+288,Nordea Bank Abp,NDA-FI,NDA-FI.HE,Helsinki,Finlandia,EUR,16.084999,2025-12-30,16.084999,0.5054,0.2235,-0.2349,55008.3,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+289,Glencore plc,GLEN,GLEN.L,LSE,Regno Unito,GBp,406.549988,2025-12-31,4.659065,0.1211,0.3357,-0.4059,54534.6,prezzo × azioni,2025-12-31,Siderurgia e metalli,Regno Unito,no (simulati),
+290,Engie SA,ENGI,ENGI.PA,Paris,Francia,EUR,22.41,2025-12-31,22.41,0.4435,0.1898,-0.1331,54499.7,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,
+291,Japan Tobacco Inc.,2914,2914.T,Tokyo,Giappone,JPY,5640.0,2025-12-30,30.637188,0.3929,0.2024,-0.0906,54392.9,prezzo × azioni,2025-12-31,Alimentare e bevande,Giappone,sì,
+292,"Motorola Solutions, Inc.",MSI,MSI,NYSE,Stati Uniti,USD,383.320007,2025-12-31,326.229793,-0.1653,0.2343,-0.2579,54056.3,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US6200763075
+293,Colgate-Palmolive Company,CL,CL,NYSE,Stati Uniti,USD,79.019997,2025-12-31,67.251061,-0.1273,0.2118,-0.231,53884.2,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US1941621039
+294,Assicurazioni Generali S.p.A.,G,G.MI,Milan,Italia,EUR,35.75,2025-12-30,35.75,0.2953,0.2031,-0.1418,53738.6,prezzo × azioni,2025-12-31,Assicurazioni,Europa,sì,
+295,"Quanta Services, Inc.",PWR,PWR,NYSE,Stati Uniti,USD,422.059998,2025-12-31,359.199998,0.3377,0.4112,-0.3389,53728.3,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US74762E1029
+296,"The Travelers Companies, Inc.",TRV,TRV,NYSE,Stati Uniti,USD,290.059998,2025-12-31,246.859572,0.2041,0.2242,-0.1181,53692.0,prezzo × azioni,2025-12-31,Assicurazioni,Nord America,sì,US89417E1091
+297,"Autodesk, Inc.",ADSK,ADSK,NasdaqGS,Stati Uniti,USD,296.01001,2025-12-31,251.923413,0.0092,0.2751,-0.2329,53407.8,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US0527691069
+298,Merck KGaA,MRK,MRK.DE,XETRA,Germania,EUR,122.599998,2025-12-30,122.599998,-0.1265,0.2745,-0.3096,53303.8,prezzo × azioni,2025-12-31,Farmaceutica,Europa,sì,
+299,Larsen & Toubro Limited,LT,LT.NS,NSE,India,INR,4083.5,2025-12-31,38.670789,0.1134,0.2144,-0.1776,53179.8,prezzo × azioni,2025-03-31,Costruzioni e materiali,Asia ed emergenti,sì,
+300,Crédit Agricole S.A.,ACA,ACA.PA,Paris,Francia,EUR,17.549999,2025-12-31,17.549999,0.3156,0.212,-0.1341,53097.7,prezzo × azioni,2025-12-31,Banche,Europa,sì,FR0000045072
+301,"American Electric Power Company, Inc.",AEP,AEP,NasdaqGS,Stati Uniti,USD,115.309998,2025-12-31,98.136168,0.2542,0.1934,-0.0977,53078.1,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US0255371017
+302,"América Móvil, S.A.B. de C.V.",AMXB,AMXB.MX,Mexico,Messico,MXN,18.59,2025-12-31,0.880292,0.2519,0.2113,-0.146,53049.5,prezzo × azioni,2025-12-31,Media e intrattenimento,Nord America,no (simulati),MX01AM050019
+303,Truist Financial Corporation,TFC,TFC,NYSE,Stati Uniti,USD,49.209999,2025-12-31,41.88085,0.1357,0.2877,-0.2775,52873.3,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US89832Q1094
+304,Vertiv Holdings Co,VRT,VRT,NYSE,Stati Uniti,USD,162.009995,2025-12-31,137.880846,0.3695,0.7223,-0.6129,52746.8,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US92537N1081
+305,Wesfarmers Limited,WES,WES.AX,ASX,Australia,AUD,81.089996,2025-12-30,46.123654,0.1354,0.1967,-0.1602,52351.0,prezzo × azioni,2025-06-30,Distribuzione,Asia ed emergenti,no (simulati),
+306,DHL AG,DHL,DHL.DE,XETRA,Germania,EUR,46.73,2025-12-30,46.73,0.3777,0.2867,-0.2632,52302.2,prezzo × azioni,2025-12-31,Trasporti e logistica,Europa,sì,
+307,London Stock Exchange Group plc,LSEG,LSEG.L,LSE,Regno Unito,GBp,8952.0,2025-12-31,102.589961,-0.2195,0.2735,-0.3272,52219.3,prezzo × azioni,2025-12-31,Banche,Regno Unito,no (simulati),
+308,"Kinder Morgan, Inc.",KMI,KMI,NYSE,Stati Uniti,USD,27.49,2025-12-31,23.395744,-0.0221,0.2541,-0.1925,52050.3,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US49456B1017
+309,Volkswagen AG,VOW3,VOW3.DE,XETRA,Germania,EUR,103.550003,2025-12-30,103.550003,0.1853,0.2804,-0.2389,51909.1,prezzo × azioni,2025-12-31,Automobili,Europa,sì,
+310,Société Générale Société anonyme,GLE,GLE.PA,Paris,Francia,EUR,68.720001,2025-12-31,68.720001,1.5377,0.3491,-0.227,51875.8,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+311,Canadian National Railway Company,CNR,CNR.TO,Toronto,Canada,CAD,135.75,2025-12-31,84.379662,-0.0751,0.2164,-0.1715,51752.9,prezzo × azioni,2025-12-31,Trasporti e logistica,Nord America,no (simulati),
+312,"Coinbase Global, Inc.",COIN,COIN,NasdaqGS,Stati Uniti,USD,226.139999,2025-12-31,192.459574,-0.1208,0.7173,-0.4973,51547.6,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US19260Q1076
+313,Hindustan Unilever Limited,HINDUNILVR,HINDUNILVR.NS,NSE,India,INR,2315.899902,2025-12-31,21.931597,-0.0027,0.1862,-0.1604,51530.3,prezzo × azioni,2025-03-31,Alimentare e bevande,Asia ed emergenti,sì,
+314,"Simon Property Group, Inc.",SPG,SPG,NYSE,Stati Uniti,USD,185.110001,2025-12-31,157.540426,0.0667,0.2592,-0.2525,51235.9,prezzo × azioni,2025-12-31,Immobiliare,Nord America,sì,US8288061091
+315,DSV A/S,DSV,DSV.CO,Copenhagen,Danimarca,DKK,1615.0,2025-12-30,216.229967,0.049,0.3251,-0.3147,51191.3,prezzo × azioni,2025-12-31,Trasporti e logistica,Europa,no (simulati),
+316,Carvana Co.,CVNA,CVNA,NYSE,Stati Uniti,USD,84.403999,2025-12-31,71.833191,1.1148,0.7331,-0.4302,51084.2,prezzo × azioni,2025-12-31,Automobili,Nord America,sì,US1468691027
+317,"Fortinet, Inc.",FTNT,FTNT,NasdaqGS,Stati Uniti,USD,79.410004,2025-12-31,67.582982,-0.1619,0.4311,-0.3507,50214.2,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US34959E1091
+318,Siemens Healthineers AG,SHL,SHL.DE,XETRA,Germania,EUR,44.919998,2025-12-30,44.919998,-0.123,0.2474,-0.2881,50166.8,prezzo × azioni,2025-12-31,Farmaceutica,Europa,no (simulati),
+319,Equinor ASA,EQNR,EQNR.OL,Oslo,Norvegia,NOK,237.0,2025-12-30,20.011821,-0.149,0.2729,-0.2385,50035.0,prezzo × azioni,2025-12-31,Energia,Europa,no (simulati),
+320,Western Digital Corporation,WDC,WDC,NasdaqGS,Stati Uniti,USD,172.270004,2025-12-31,146.61277,2.6837,0.5479,-0.4391,49848.3,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US9581021055
+321,Singapore Telecommunications Limited,Z74,Z74.SI,SES,Singapore,SGD,4.55,2025-12-31,3.012248,0.4725,0.203,-0.0717,49740.7,prezzo × azioni,2025-09-30,Telecomunicazioni,Asia ed emergenti,no (simulati),
+322,Maruti Suzuki India Limited,MARUTI,MARUTI.NS,NSE,India,INR,16697.0,2025-12-31,158.120771,0.4897,0.2028,-0.1378,49713.6,prezzo × azioni,2025-03-31,Automobili,Asia ed emergenti,sì,
+323,"Ross Stores, Inc.",ROST,ROST,NasdaqGS,Stati Uniti,USD,180.139999,2025-12-31,153.310638,0.1805,0.2598,-0.2043,49632.0,prezzo × azioni,2025-10-31,Distribuzione,Nord America,sì,US7782961038
+324,"Shin-Etsu Chemical Co., Ltd.",4063,4063.T,Tokyo,Giappone,JPY,4873.0,2025-12-30,26.470748,-0.0654,0.3354,-0.3228,49596.1,prezzo × azioni,2025-12-31,Chimica,Giappone,sì,
+325,Danone S.A.,BN,BN.PA,Paris,Francia,EUR,76.779999,2025-12-31,76.779999,0.1834,0.1828,-0.145,49152.5,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,sì,
+326,Sempra,SRE,SRE,NYSE,Stati Uniti,USD,88.290001,2025-12-31,75.140426,0.0133,0.3189,-0.2725,49046.5,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US8168511090
+327,Infineon Technologies AG,IFX,IFX.DE,XETRA,Germania,EUR,37.73,2025-12-30,37.73,0.2018,0.3855,-0.3703,49030.1,prezzo × azioni,2025-12-31,Semiconduttori,Europa,sì,
+328,PACCAR Inc,PCAR,PCAR,NasdaqGS,Stati Uniti,USD,109.510002,2025-12-31,93.200002,0.0589,0.2883,-0.2321,48967.3,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US6937181088
+329,SLB N.V.,SLB,SLB,NYSE,Stati Uniti,USD,38.380001,2025-12-31,32.663831,-0.0005,0.3657,-0.2748,48843.3,prezzo × azioni,2025-12-31,Energia,Nord America,sì,
+330,Aflac Incorporated,AFL,AFL,NYSE,Stati Uniti,USD,110.269997,2025-12-31,93.846806,0.0773,0.2118,-0.1277,48677.4,prezzo × azioni,2025-12-31,Assicurazioni,Nord America,sì,US0010551028
+331,"Workday, Inc.",WDAY,WDAY,NasdaqGS,Stati Uniti,USD,214.779999,2025-12-31,182.791488,-0.1472,0.3502,-0.2424,48257.0,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US98138H1014
+332,"EOG Resources, Inc.",EOG,EOG,NYSE,Stati Uniti,USD,105.010002,2025-12-31,89.370215,-0.158,0.2889,-0.2627,48051.7,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US26875P1012
+333,"AutoZone, Inc.",AZO,AZO,NYSE,Stati Uniti,USD,3391.5,2025-12-31,2886.382979,0.0435,0.2293,-0.2212,47870.7,prezzo × azioni,2025-11-30,Automobili,Nord America,sì,US0533321024
+334,ITC Limited,ITC,ITC.NS,NSE,India,INR,403.0,2025-12-31,3.816414,-0.1352,0.1559,-0.1615,47759.1,prezzo × azioni,2025-03-31,Alimentare e bevande,Asia ed emergenti,sì,
+335,Eni S.p.A.,ENI,ENI.MI,Milan,Italia,EUR,16.139999,2025-12-30,16.139999,0.1989,0.2006,-0.2245,47737.0,prezzo × azioni,2025-12-31,Energia,Europa,sì,
+336,CSL Limited,CSL,CSL.AX,ASX,Australia,AUD,172.649994,2025-12-30,98.202602,-0.386,0.3418,-0.4077,47550.9,prezzo × azioni,2025-06-30,Farmaceutica,Asia ed emergenti,no (simulati),
+337,Thales S.A.,HO,HO.PA,Paris,Francia,EUR,229.800003,2025-12-31,229.800003,0.6701,0.342,-0.196,47218.7,prezzo × azioni,2025-12-31,Aerospazio e difesa,Europa,sì,
+338,"Nasdaq, Inc.",NDAQ,NDAQ,NasdaqGS,Stati Uniti,USD,97.129997,2025-12-31,82.663827,0.2544,0.2389,-0.2073,47109.6,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US6311031081
+339,"Air Products and Chemicals, Inc.",APD,APD,NYSE,Stati Uniti,USD,247.020004,2025-12-31,210.229791,-0.128,0.2781,-0.3174,46808.9,prezzo × azioni,2025-12-31,Chimica,Nord America,sì,US0091581068
+340,"L3Harris Technologies, Inc.",LHX,LHX,NYSE,Stati Uniti,USD,293.570007,2025-12-31,249.846815,0.4158,0.2209,-0.1266,46682.4,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US5024311095
+341,FedEx Corporation,FDX,FDX,NYSE,Stati Uniti,USD,232.763901,2025-12-31,198.096937,0.0532,0.3281,-0.2965,46552.8,prezzo × azioni,2025-11-30,Trasporti e logistica,Nord America,sì,US31428X1063
+342,"Rocket Companies, Inc.",RKT,RKT,NYSE,Stati Uniti,USD,19.360001,2025-12-31,16.476596,0.7843,0.6067,-0.2955,46433.6,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US77311W1018
+343,Vistra Corp.,VST,VST,NYSE,Stati Uniti,USD,161.330002,2025-12-31,137.302129,0.078,0.6807,-0.4889,46416.3,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US92840M1027
+344,"Samsung Biologics Co.,Ltd.",207940,207940.KS,KSE,Corea del Sud,KRW,1695000.0,2025-12-30,998.856766,0.1803,0.3208,-0.1637,46238.0,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,
+345,Holcim AG,HOLN,HOLN.SW,Swiss,Svizzera,CHF,77.760002,2025-12-30,83.487226,-0.1125,0.7296,-0.5409,46178.9,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,no (simulati),
+346,The Allstate Corporation,ALL,ALL,NYSE,Stati Uniti,USD,208.149994,2025-12-31,177.148931,0.0844,0.2648,-0.1411,46082.8,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US0200021014
+347,"IDEXX Laboratories, Inc.",IDXX,IDXX,NasdaqGS,Stati Uniti,USD,676.530029,2025-12-31,575.770238,0.6547,0.4192,-0.2303,45895.8,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US45168D1046
+348,"PayPal Holdings, Inc.",PYPL,PYPL,NasdaqGS,Stati Uniti,USD,58.380001,2025-12-31,49.685107,-0.3226,0.3843,-0.3747,45710.3,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US70450Y1038
+349,Hyundai Motor Company,005380,005380.KS,KSE,Corea del Sud,KRW,296500.0,2025-12-30,174.726272,0.4019,0.3581,-0.2146,45699.7,prezzo × azioni,2025-12-31,Automobili,Asia ed emergenti,sì,
+350,Zoetis Inc.,ZTS,ZTS,NYSE,Stati Uniti,USD,125.82,2025-12-31,107.080851,-0.2262,0.2974,-0.3411,45501.6,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US98978V1035
+351,UCB SA,UCB,UCB.BR,Brussels,Belgio,EUR,238.600006,2025-12-31,238.600006,0.2469,0.3774,-0.3427,45420.2,prezzo × azioni,2025-12-31,Farmaceutica,Europa,sì,
+352,Suncor Energy Inc.,SU,SU.TO,Toronto,Canada,CAD,60.919998,2025-12-31,37.866732,0.1733,0.274,-0.2258,45194.7,prezzo × azioni,2025-12-31,Energia,Nord America,no (simulati),
+353,Realty Income Corporation,O,O,NYSE,Stati Uniti,USD,56.369999,2025-12-31,47.974467,0.0717,0.1764,-0.1063,44807.0,prezzo × azioni,2025-12-31,Immobiliare,Nord America,sì,US7561091049
+354,Ford Motor Company,F,F,NYSE,Stati Uniti,USD,13.12,2025-12-31,11.165957,0.3596,0.3294,-0.1668,44539.2,prezzo × azioni,2025-12-31,Automobili,Nord America,sì,US3453708600
+355,KBC Group NV,KBC,KBC.BR,Brussels,Belgio,EUR,111.25,2025-12-31,111.25,0.4941,0.2387,-0.1873,44130.9,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+356,Phillips 66,PSX,PSX,NYSE,Stati Uniti,USD,129.039993,2025-12-31,109.821271,0.1279,0.3615,-0.294,44053.6,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US7185461040
+357,Macquarie Group Limited,MQG,MQG.AX,ASX,Australia,AUD,203.199997,2025-12-30,115.579317,-0.0812,0.2652,-0.2906,44051.7,prezzo × azioni,2025-03-31,Banche,Asia ed emergenti,no (simulati),
+358,"MetLife, Inc.",MET,MET,NYSE,Stati Uniti,USD,78.940002,2025-12-31,67.182981,-0.0347,0.2821,-0.2136,44027.3,prezzo × azioni,2025-12-31,Assicurazioni,Nord America,sì,US59156R1086
+359,"Dominion Energy, Inc.",D,D,NYSE,Stati Uniti,USD,58.59,2025-12-31,49.86383,0.077,0.2282,-0.1353,43830.3,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US25746U1097
+360,HOYA Corporation,7741,7741.T,Tokyo,Giappone,JPY,23685.0,2025-12-30,128.659895,0.2084,0.3139,-0.3242,43497.1,prezzo × azioni,2025-12-31,Farmaceutica,Giappone,sì,
+361,"United Rentals, Inc.",URI,URI,NYSE,Stati Uniti,USD,809.320007,2025-12-31,688.782985,0.1732,0.3611,-0.301,43459.4,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US9113631090
+362,Alimentation Couche-Tard Inc.,ATD,ATD.TO,Toronto,Canada,CAD,74.959999,2025-12-31,46.593734,-0.0517,0.2473,-0.1583,43420.7,prezzo × azioni,2025-10-31,Distribuzione,Nord America,no (simulati),
+363,Compagnie de Saint-Gobain S.A.,SGO,SGO.PA,Paris,Francia,EUR,86.959999,2025-12-31,86.959999,0.014,0.3336,-0.2771,42845.9,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,sì,
+364,E.ON SE,EOAN,EOAN.DE,XETRA,Germania,EUR,16.125,2025-12-30,16.125,0.4022,0.2038,-0.1076,42155.3,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,
+365,Edwards Lifesciences Corporation,EW,EW,NYSE,Stati Uniti,USD,85.25,2025-12-31,72.553191,0.1744,0.235,-0.1197,42131.6,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US28176E1082
+366,Swiss Re AG,SREN,SREN.SW,Swiss,Svizzera,CHF,132.850006,2025-12-30,142.63475,0.0011,0.2413,-0.1717,42065.8,prezzo × azioni,2025-12-31,Assicurazioni,Europa,no (simulati),
+367,Dr. Ing. h.c. F. Porsche AG,P911,P911.DE,XETRA,Germania,EUR,45.619999,2025-12-30,45.619999,-0.2164,0.3251,-0.3683,41559.8,prezzo × azioni,2025-12-31,Automobili,Europa,sì,
+368,Takeda Pharmaceutical Company Limited,4502,4502.T,Tokyo,Giappone,JPY,4835.0,2025-12-30,26.264327,0.1617,0.213,-0.1386,41487.0,prezzo × azioni,2025-12-31,Farmaceutica,Giappone,sì,
+369,Valero Energy Corporation,VLO,VLO,NYSE,Stati Uniti,USD,162.789993,2025-12-31,138.544675,0.3219,0.3792,-0.2679,41416.6,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US91913Y1001
+370,"Cardinal Health, Inc.",CAH,CAH,NYSE,Stati Uniti,USD,205.5,2025-12-31,174.893617,0.7412,0.2654,-0.1307,41204.1,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US14149Y1082
+371,"Chipotle Mexican Grill, Inc.",CMG,CMG,NYSE,Stati Uniti,USD,37.0,2025-12-31,31.489362,-0.3822,0.3993,-0.5023,41073.5,prezzo × azioni,2025-12-31,Turismo e tempo libero,Nord America,sì,US1696561059
+372,Diageo plc,DGE,DGE.L,LSE,Regno Unito,GBp,1603.5,2025-12-31,18.376117,-0.3706,0.263,-0.3785,40857.9,prezzo × azioni,2025-12-31,Alimentare e bevande,Regno Unito,no (simulati),
+373,"Datadog, Inc.",DDOG,DDOG,NasdaqGS,Stati Uniti,USD,135.990005,2025-12-31,115.736175,-0.0532,0.4796,-0.4272,40800.0,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US23804L1035
+374,Marathon Petroleum Corporation,MPC,MPC,NYSE,Stati Uniti,USD,162.630005,2025-12-31,138.408515,0.1494,0.3486,-0.2545,40775.5,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US56585A1025
+375,Universal Music Group N.V.,UMG,UMG.AS,Amsterdam,Paesi Bassi,EUR,22.23,2025-12-31,22.23,-0.0859,0.2656,-0.2662,40769.1,prezzo × azioni,2025-12-31,Media e intrattenimento,Europa,sì,
+376,Deutsche Börse AG,DB1,DB1.DE,XETRA,Germania,EUR,223.699997,2025-12-30,223.699997,-0.0004,0.2191,-0.3051,40737.1,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+377,"W.W. Grainger, Inc.",GWW,GWW,NYSE,Stati Uniti,USD,1009.049988,2025-12-31,858.765947,-0.0314,0.237,-0.1892,40721.6,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US3848021040
+378,"CBRE Group, Inc.",CBRE,CBRE,NYSE,Stati Uniti,USD,160.789993,2025-12-31,136.842547,0.2378,0.2905,-0.2256,40468.6,prezzo × azioni,2025-12-31,Immobiliare,Nord America,sì,US12504L1098
+379,"Roper Technologies, Inc.",ROP,ROP,NasdaqGS,Stati Uniti,USD,445.130005,2025-12-31,378.834047,-0.1336,0.2107,-0.2596,40383.7,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US7766961061
+380,Strategy Inc,MSTR,MSTR,NasdaqGS,Stati Uniti,USD,151.949997,2025-12-31,129.319146,-0.4935,0.7473,-0.6667,40355.6,prezzo × azioni,2025-12-31,Software e internet,Nord America,no (simulati),US5949724083
+381,"Take-Two Interactive Software, Inc.",TTWO,TTWO,NasdaqGS,Stati Uniti,USD,256.029999,2025-12-31,217.897871,0.3985,0.3041,-0.1155,40332.9,prezzo × azioni,2025-12-31,Media e intrattenimento,Nord America,sì,US8740541094
+382,Lonza Group AG,LONN,LONN.SW,Swiss,Svizzera,CHF,537.799988,2025-12-30,577.410337,0.0071,0.2282,-0.2096,40328.8,prezzo × azioni,2025-12-31,Farmaceutica,Europa,no (simulati),
+383,"AMETEK, Inc.",AME,AME,NYSE,Stati Uniti,USD,205.309998,2025-12-31,174.731913,0.1513,0.2261,-0.2049,40020.1,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US0311001004
+384,Erste Group Bank AG,EBS,EBS.VI,Vienna,Austria,EUR,102.900002,2025-12-30,102.900002,0.7632,0.3258,-0.2114,39967.0,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+385,Ferrovial N.V.,FER,FER.MC,MCE,Spagna,EUR,55.34,2025-12-31,55.34,0.3544,0.1997,-0.146,39879.5,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,sì,
+386,BASF SE,BAS,BAS.DE,XETRA,Germania,EUR,44.43,2025-12-30,44.43,0.043,0.2962,-0.2719,39654.8,prezzo × azioni,2025-12-31,Chimica,Europa,sì,
+387,Commerzbank AG,CBK,CBK.DE,XETRA,Germania,EUR,36.099998,2025-12-30,36.099998,1.3201,0.3675,-0.2177,39584.5,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+388,"ONEOK, Inc.",OKE,OKE,NYSE,Stati Uniti,USD,73.5,2025-12-31,62.553191,-0.2778,0.3116,-0.4146,39390.2,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US6826801036
+389,Heidelberg Materials AG,HEI,HEI.DE,XETRA,Germania,EUR,223.0,2025-12-30,223.0,0.8491,0.3707,-0.2033,39329.4,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,sì,
+390,Fastenal Company,FAST,FAST,NasdaqGS,Stati Uniti,USD,40.130001,2025-12-31,34.153192,0.1287,0.2451,-0.2231,39209.8,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US3119001044
+391,Xcel Energy Inc.,XEL,XEL,NasdaqGS,Stati Uniti,USD,73.860001,2025-12-31,62.859575,0.1047,0.2042,-0.115,39199.3,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US98389B1008
+392,"American International Group, Inc.",AIG,AIG,NYSE,Stati Uniti,USD,85.550003,2025-12-31,72.808513,0.1722,0.2469,-0.1449,39184.2,prezzo × azioni,2025-12-31,Assicurazioni,Nord America,sì,US0268747849
+393,Heineken N.V.,HEIA,HEIA.AS,Amsterdam,Paesi Bassi,EUR,69.739998,2025-12-31,69.739998,0.0113,0.2458,-0.209,39093.3,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,sì,
+394,"Axon Enterprise, Inc.",AXON,AXON,NasdaqGS,Stati Uniti,USD,567.929993,2025-12-31,483.344675,-0.0479,0.5307,-0.4034,38769.8,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US05464C1018
+395,Public Storage,PSA,PSA,NYSE,Stati Uniti,USD,259.5,2025-12-31,220.851064,-0.125,0.2205,-0.1746,38759.4,prezzo × azioni,2025-12-31,Immobiliare,Nord America,sì,US74460D1090
+396,"Delta Air Lines, Inc.",DAL,DAL,NYSE,Stati Uniti,USD,69.400002,2025-12-31,59.063831,0.1749,0.4984,-0.4805,38578.8,prezzo × azioni,2025-12-31,Trasporti e logistica,Nord America,sì,US2473617023
+397,Fortescue Ltd,FMG,FMG.AX,ASX,Australia,AUD,22.01,2025-12-30,12.519197,0.1701,0.3162,-0.2799,38546.2,prezzo × azioni,2025-06-30,Siderurgia e metalli,Asia ed emergenti,no (simulati),
+398,HEICO Corporation,HEI,HEI,NYSE,Stati Uniti,USD,323.589996,2025-12-31,275.395742,0.3643,0.301,-0.127,38373.9,prezzo × azioni,2025-10-31,Costruzioni e materiali,Nord America,sì,US4228061093
+399,Baker Hughes Company,BKR,BKR,NasdaqGS,Stati Uniti,USD,45.540001,2025-12-31,38.757448,0.0958,0.3621,-0.2835,38244.8,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US05722G1004
+400,"Ameriprise Financial, Inc.",AMP,AMP,NYSE,Stati Uniti,USD,490.339996,2025-12-31,417.310635,-0.0748,0.2867,-0.2659,38085.4,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US03076C1062
+401,Exelon Corporation,EXC,EXC,NasdaqGS,Stati Uniti,USD,43.59,2025-12-31,37.097872,0.1575,0.1912,-0.1091,37928.9,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US30161N1019
+402,Anglo American plc,AAL,AAL.L,LSE,Regno Unito,GBp,3085.0,2025-12-31,35.354114,0.3206,0.3565,-0.3265,37881.5,prezzo × azioni,2025-12-31,Siderurgia e metalli,Regno Unito,no (simulati),GB00BTK05J60
+403,Orange S.A.,ORA,ORA.PA,Paris,Francia,EUR,14.2,2025-12-31,14.2,0.4642,0.1667,-0.0897,37752.1,prezzo × azioni,2025-12-31,Telecomunicazioni,Europa,sì,
+404,Target Corporation,TGT,TGT,NYSE,Stati Uniti,USD,97.75,2025-12-31,83.191489,-0.2875,0.3446,-0.4128,37668.8,prezzo × azioni,2025-10-31,Distribuzione,Nord America,sì,US87612E1064
+405,Carrier Global Corporation,CARR,CARR,NYSE,Stati Uniti,USD,52.84,2025-12-31,44.970213,-0.2267,0.3388,-0.3762,37601.4,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US14448C1045
+406,"Monolithic Power Systems, Inc.",MPWR,MPWR,NasdaqGS,Stati Uniti,USD,906.359985,2025-12-31,771.3702,0.5253,0.5823,-0.368,37572.7,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US6098391054
+407,"Rockwell Automation, Inc.",ROK,ROK,NYSE,Stati Uniti,USD,389.070007,2025-12-31,331.12341,0.3851,0.3229,-0.2791,37204.3,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US7739031091
+408,Antofagasta plc,ANTO,ANTO.L,LSE,Regno Unito,GBp,3279.0,2025-12-31,37.577355,1.0316,0.3688,-0.2895,37045.9,prezzo × azioni,2025-12-31,Siderurgia e metalli,Regno Unito,no (simulati),
+409,"Becton, Dickinson and Company",BDX,BDX,NYSE,Stati Uniti,USD,152.570755,2025-12-31,129.847451,-0.1431,0.318,-0.337,36973.0,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US0758871091
+410,Kering SA,KER,KER.PA,Paris,Francia,EUR,301.0,2025-12-31,301.0,0.2762,0.4218,-0.4398,36908.7,prezzo × azioni,2025-12-31,Lusso e moda,Europa,sì,
+411,Ferguson Enterprises Inc.,FERG,FERG,NYSE,Stati Uniti,USD,222.630005,2025-12-31,189.472345,0.2841,0.3312,-0.2034,36782.0,prezzo × azioni,2025-10-31,Costruzioni e materiali,Nord America,sì,US31488V1070
+412,AngloGold Ashanti plc,AU,AU,NYSE,Stati Uniti,USD,85.279999,2025-12-31,72.578722,2.5037,0.5157,-0.1902,36652.8,prezzo × azioni,2025-12-31,Siderurgia e metalli,Nord America,sì,US0351282068
+413,Atlassian Corporation,TEAM,TEAM,NasdaqGS,Stati Uniti,USD,162.139999,2025-12-31,137.991489,-0.3311,0.4993,-0.554,36637.5,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US0494681010
+414,"Diamondback Energy, Inc.",FANG,FANG,NasdaqGS,Stati Uniti,USD,150.330002,2025-12-31,127.940427,-0.0986,0.3932,-0.3382,36411.2,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US25278X1090
+415,Bayer Aktiengesellschaft,BAYN,BAYN.DE,XETRA,Germania,EUR,37.009998,2025-12-30,37.009998,0.9089,0.3849,-0.2167,36359.5,prezzo × azioni,2025-12-31,Farmaceutica,Europa,sì,
+416,MSCI Inc.,MSCI,MSCI,NYSE,Stati Uniti,USD,573.72998,2025-12-31,488.280834,-0.0392,0.2794,-0.1938,35919.5,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US55354G1004
+417,"Aena S.M.E., S.A.",AENA,AENA.MC,MCE,Spagna,EUR,23.82,2025-12-31,23.82,0.1804,0.2007,-0.1459,35730.0,prezzo × azioni,2025-12-31,Trasporti e logistica,Europa,sì,
+418,"D.R. Horton, Inc.",DHI,DHI,NYSE,Stati Uniti,USD,144.029999,2025-12-31,122.578722,0.0464,0.3755,-0.2539,35608.9,prezzo × azioni,2025-12-31,Distribuzione,Nord America,sì,US23331A1097
+419,"Yum! Brands, Inc.",YUM,YUM,NYSE,Stati Uniti,USD,151.279999,2025-12-31,128.748935,0.1327,0.2478,-0.1496,35608.0,prezzo × azioni,2025-12-31,Turismo e tempo libero,Nord America,sì,US9884981013
+420,Entergy Corporation,ETR,ETR,NYSE,Stati Uniti,USD,92.43,2025-12-31,78.66383,0.2259,0.2159,-0.101,35582.7,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US29364G1031
+421,Skandinaviska Enskilda Banken AB (publ),SEB-A,SEB-A.ST,Stockholm,Svezia,SEK,195.100006,2025-12-30,18.028924,0.2773,0.2228,-0.2712,35365.1,prezzo × azioni,2025-12-31,Banche,Europa,no (simulati),
+422,Experian plc,EXPN,EXPN.L,LSE,Regno Unito,GBp,3363.0,2025-12-31,38.539995,-0.0347,0.2438,-0.2286,35227.8,prezzo × azioni,2025-09-30,Software e internet,Regno Unito,no (simulati),
+423,"Cheniere Energy, Inc.",LNG,LNG,NYSE,Stati Uniti,USD,194.389999,2025-12-31,165.438297,-0.1188,0.3064,-0.2556,35139.1,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US16411R2085
+424,Rocket Lab Corporation,RKLB,RKLB,NasdaqGS,Stati Uniti,USD,69.760002,2025-12-31,59.370215,1.7949,0.8774,-0.4815,35000.3,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,no (simulati),US7731211089
+425,Sandvik AB (publ),SAND,SAND.ST,Stockholm,Svezia,SEK,300.600006,2025-12-30,27.778035,0.494,0.2651,-0.2784,34844.4,prezzo × azioni,2025-12-31,Siderurgia e metalli,Europa,no (simulati),
+426,DNB Bank ASA,DNB,DNB.OL,Oslo,Norvegia,NOK,281.5,2025-12-30,23.769315,0.2266,0.2165,-0.1448,34726.4,prezzo × azioni,2025-12-31,Banche,Europa,no (simulati),
+427,Occidental Petroleum Corporation,OXY,OXY,NYSE,Stati Uniti,USD,41.119999,2025-12-31,34.995744,-0.1745,0.3671,-0.3148,34506.7,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US6745991058
+428,"Paychex, Inc.",PAYX,PAYX,NasdaqGS,Stati Uniti,USD,112.18,2025-12-31,95.472341,-0.19,0.245,-0.3212,34271.5,prezzo × azioni,2025-11-30,Costruzioni e materiali,Nord America,sì,US7043261079
+429,Compass Group PLC,CPG,CPG.L,LSE,Regno Unito,USD,23.639999,2025-12-31,20.119148,-0.1199,0.2101,-0.1843,34148.3,prezzo × azioni,2025-09-30,Turismo e tempo libero,Regno Unito,no (simulati),
+430,The Kroger Co.,KR,KR,NYSE,Stati Uniti,USD,62.48,2025-12-31,53.174468,0.0087,0.2542,-0.1763,34120.9,prezzo × azioni,2025-10-31,Distribuzione,Nord America,sì,US5010441013
+431,Public Service Enterprise Group Incorporated,PEG,PEG,NYSE,Stati Uniti,USD,80.300003,2025-12-31,68.340428,-0.0564,0.214,-0.1467,34044.1,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US7445731067
+432,Targa Resources Corp.,TRGP,TRGP,NYSE,Stati Uniti,USD,184.5,2025-12-31,157.021277,0.0079,0.3652,-0.3265,33706.5,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US87612G1013
+433,"Daiichi Sankyo Company, Limited",4568,4568.T,Tokyo,Giappone,JPY,3348.0,2025-12-30,18.186756,-0.2214,0.4044,-0.3076,33664.7,prezzo × azioni,2025-12-31,Farmaceutica,Giappone,sì,
+434,Ambev S.A.,ABEV3,ABEV3.SA,São Paulo,Brasile,BRL,13.86,2025-12-30,2.153378,0.1948,0.2198,-0.1963,33628.3,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,no (simulati),BRABEVACNOR1
+435,"Prudential Financial, Inc.",PRU,PRU,NYSE,Stati Uniti,USD,112.879997,2025-12-31,96.068083,-0.0456,0.2669,-0.2224,33426.3,prezzo × azioni,2025-12-31,Assicurazioni,Nord America,sì,US7443201022
+436,"JD.com, Inc.",9618,9618.HK,HKSE,Hong Kong,HKD,111.400002,2025-12-31,12.179656,-0.1592,0.4562,-0.3838,33394.8,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,no (simulati),
+437,"Block, Inc.",XYZ,XYZ,NYSE,Stati Uniti,USD,65.089996,2025-12-31,55.395742,-0.2497,0.5498,-0.4994,33352.6,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US8522341036
+438,eBay Inc.,EBAY,EBAY,NasdaqGS,Stati Uniti,USD,87.099998,2025-12-31,74.127658,0.3987,0.3776,-0.2056,33283.3,prezzo × azioni,2025-12-31,Distribuzione,Nord America,sì,US2786421030
+439,Prudential plc,PRU,PRU.L,LSE,Regno Unito,GBp,1144.5,2025-12-31,13.115975,0.7866,0.2465,-0.1618,33204.6,prezzo × azioni,2025-12-31,Assicurazioni,Regno Unito,no (simulati),
+440,Crown Castle Inc.,CCI,CCI,NYSE,Stati Uniti,USD,88.870003,2025-12-31,75.634045,-0.0044,0.2542,-0.2441,32937.0,prezzo × azioni,2025-12-31,Immobiliare,Nord America,sì,US22822V1017
+441,Tesco PLC,TSCO,TSCO.L,LSE,Regno Unito,GBp,441.799988,2025-12-31,5.06303,0.1854,0.2307,-0.2076,32879.7,prezzo × azioni,2025-08-31,Distribuzione,Regno Unito,no (simulati),
+442,"Agilent Technologies, Inc.",A,A,NYSE,Stati Uniti,USD,136.070007,2025-12-31,115.804262,0.0198,0.3155,-0.3493,32778.9,prezzo × azioni,2025-10-31,Farmaceutica,Nord America,sì,US00846U1016
+443,IQVIA Holdings Inc.,IQV,IQV,NYSE,Stati Uniti,USD,225.410004,2025-12-31,191.838301,0.1552,0.3768,-0.3475,32535.8,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US46266C1053
+444,"Honda Motor Co., Ltd.",7267,7267.T,Tokyo,Giappone,JPY,1536.0,2025-12-30,8.343745,-0.0269,0.3275,-0.2488,32478.5,prezzo × azioni,2025-12-31,Automobili,Giappone,sì,
+445,"The Hartford Insurance Group, Inc.",HIG,HIG,NYSE,Stati Uniti,USD,137.800003,2025-12-31,117.276598,0.2638,0.2129,-0.1204,32476.6,prezzo × azioni,2025-12-31,Assicurazioni,Nord America,sì,US4165151048
+446,Keurig Dr Pepper Inc.,KDP,KDP,NasdaqGS,Stati Uniti,USD,28.01,2025-12-31,23.838298,-0.1181,0.2706,-0.2915,32388.2,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US49271V1008
+447,RWE Aktiengesellschaft,RWE,RWE.DE,XETRA,Germania,EUR,45.259998,2025-12-30,45.259998,0.5311,0.2231,-0.0998,32295.9,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,
+448,The Estée Lauder Companies Inc.,EL,EL,NYSE,Stati Uniti,USD,104.720001,2025-12-31,89.123405,0.4155,0.4927,-0.4144,32232.4,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US5184391044
+449,Hannover Rück SE,HNR1,HNR1.DE,XETRA,Germania,EUR,266.200012,2025-12-30,266.200012,0.0769,0.2175,-0.17,32103.0,prezzo × azioni,2025-12-31,Assicurazioni,Europa,sì,
+450,"Murata Manufacturing Co., Ltd.",6981,6981.T,Tokyo,Giappone,JPY,3246.0,2025-12-30,17.63268,0.2843,0.4156,-0.3235,32096.7,prezzo × azioni,2025-12-31,Semiconduttori,Giappone,sì,
+451,"Martin Marietta Materials, Inc.",MLM,MLM,NYSE,Stati Uniti,USD,622.659973,2025-12-31,529.923381,0.2196,0.2287,-0.1812,31959.5,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US5732841060
+452,"Daikin Industries,Ltd.",6367,6367.T,Tokyo,Giappone,JPY,20080.0,2025-12-30,109.077082,0.0678,0.2901,-0.2073,31942.3,prezzo × azioni,2025-12-31,Costruzioni e materiali,Giappone,sì,
+453,GE HealthCare Technologies Inc.,GEHC,GEHC,NasdaqGS,Stati Uniti,USD,82.019997,2025-12-31,69.804252,0.0464,0.3731,-0.3715,31812.4,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US36266G1076
+454,Vulcan Materials Company,VMC,VMC,NYSE,Stati Uniti,USD,285.220001,2025-12-31,242.740427,0.116,0.2372,-0.2041,31701.9,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US9291601097
+455,Nucor Corporation,NUE,NUE,NYSE,Stati Uniti,USD,163.110001,2025-12-31,138.817022,0.4248,0.3691,-0.2758,31696.8,prezzo × azioni,2025-12-31,Siderurgia e metalli,Nord America,sì,US6703461052
+456,DENSO Corporation,6902,6902.T,Tokyo,Giappone,JPY,2158.0,2025-12-30,11.722527,-0.0189,0.2978,-0.2626,31556.4,prezzo × azioni,2025-12-31,Automobili,Giappone,sì,
+457,Dassault Systèmes SE,DSY,DSY.PA,Paris,Francia,EUR,23.84,2025-12-31,23.84,-0.2798,0.2897,-0.4389,31485.1,prezzo × azioni,2025-12-31,Software e internet,Europa,sì,
+458,The Hershey Company,HSY,HSY,NYSE,Stati Uniti,USD,181.979996,2025-12-31,154.876592,0.0781,0.2737,-0.1882,31415.1,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US4278661081
+459,KONE Oyj,KNEBV,KNEBV.HE,Helsinki,Finlandia,EUR,60.560001,2025-12-30,60.560001,0.2662,0.4217,-0.25,31361.5,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,sì,
+460,"Ventas, Inc.",VTR,VTR,NYSE,Stati Uniti,USD,77.379997,2025-12-31,65.855317,0.3351,0.2216,-0.1138,31276.4,prezzo × azioni,2025-12-31,Immobiliare,Nord America,sì,US92276F1003
+461,Veeva Systems Inc.,VEEV,VEEV,NYSE,Stati Uniti,USD,223.229996,2025-12-31,189.982975,0.0601,0.3396,-0.2964,31222.3,prezzo × azioni,2025-10-31,Farmaceutica,Nord America,sì,US9224751084
+462,Givaudan SA,GIVN,GIVN.SW,Swiss,Svizzera,CHF,3146.0,2025-12-30,3377.710973,-0.2025,0.2273,-0.2782,31173.6,prezzo × azioni,2025-12-31,Chimica,Europa,no (simulati),
+463,Nokia Oyj,NOKIA,NOKIA.HE,Helsinki,Finlandia,EUR,5.572,2025-12-30,5.572,0.2898,0.3917,-0.3161,31105.9,prezzo × azioni,2025-12-31,Telecomunicazioni,Europa,sì,
+464,Westinghouse Air Brake Technologies Corporation,WAB,WAB,NYSE,Stati Uniti,USD,213.449997,2025-12-31,181.659572,0.1295,0.2875,-0.2365,30991.1,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US9297401088
+465,Koninklijke Ahold Delhaize N.V.,AD,AD.AS,Amsterdam,Paesi Bassi,EUR,34.869999,2025-12-31,34.869999,0.099,0.1733,-0.1137,30925.4,prezzo × azioni,2025-12-31,Distribuzione,Europa,sì,
+466,Fanuc Corporation,6954,6954.T,Tokyo,Giappone,JPY,6084.0,2025-12-30,33.049052,0.4886,0.4291,-0.3462,30840.0,prezzo × azioni,2025-12-31,Costruzioni e materiali,Giappone,sì,
+467,"United Airlines Holdings, Inc.",UAL,UAL,NasdaqGS,Stati Uniti,USD,111.82,2025-12-31,95.165957,0.1717,0.5605,-0.4919,30783.4,prezzo × azioni,2025-12-31,Trasporti e logistica,Nord America,sì,US9100471096
+468,State Street Corporation,STT,STT,NYSE,Stati Uniti,USD,129.009995,2025-12-31,109.79574,0.3171,0.2839,-0.2631,30641.6,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US8574771031
+469,Teva Pharmaceutical Industries Limited,TEVA,TEVA,NYSE,Stati Uniti,USD,31.209999,2025-12-31,26.561701,0.4653,0.4508,-0.4175,30541.0,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US8816242098
+470,Ares Management Corporation,ARES,ARES,NYSE,Stati Uniti,USD,161.630005,2025-12-31,137.557451,-0.0962,0.4211,-0.4045,30531.6,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US03990B1017
+471,"Zscaler, Inc.",ZS,ZS,NasdaqGS,Stati Uniti,USD,224.919998,2025-12-31,191.421275,0.2381,0.4043,-0.3311,30525.6,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US98980G1022
+472,"Consolidated Edison, Inc.",ED,ED,NYSE,Stati Uniti,USD,99.32,2025-12-31,84.527659,0.1156,0.2004,-0.1579,30524.8,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US2091151041
+473,"Cathay Financial Holding Co., Ltd.",2882,2882.TW,Taiwan,Taiwan,TWD,75.800003,2025-12-31,2.064763,0.1147,0.3125,-0.2847,30288.4,prezzo × azioni,2025-12-31,Assicurazioni,Asia ed emergenti,sì,
+474,adidas AG,ADS,ADS.DE,XETRA,Germania,EUR,169.050003,2025-12-30,169.050003,-0.2858,0.3369,-0.4238,30203.3,prezzo × azioni,2025-12-31,Lusso e moda,Europa,sì,
+475,PG&E Corporation,PCG,PCG,NYSE,Stati Uniti,USD,16.07,2025-12-31,13.676595,-0.1969,0.3141,-0.3627,30060.4,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US69331C1080
+476,Sysco Corporation,SYY,SYY,NYSE,Stati Uniti,USD,73.690002,2025-12-31,62.714896,-0.0267,0.211,-0.1283,30035.9,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US8718291078
+477,Sandisk Corporation,SNDK,SNDK,NasdaqGS,Stati Uniti,USD,237.380005,2025-12-31,202.025536,5.5939,0.9547,-0.475,29899.8,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US80004C2008
+478,Sun Hung Kai Properties Limited,0016,0016.HK,HKSE,Hong Kong,HKD,94.349998,2025-12-31,10.315534,0.2785,0.2448,-0.1536,29892.2,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,no (simulati),
+479,ResMed Inc.,RMD,RMD,NYSE,Stati Uniti,USD,240.869995,2025-12-31,204.995741,0.0542,0.2618,-0.2061,29860.0,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US7611521078
+480,"Keysight Technologies, Inc.",KEYS,KEYS,NYSE,Stati Uniti,USD,203.190002,2025-12-31,172.927662,0.2633,0.3366,-0.3138,29616.8,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US49338L1035
+481,"Expedia Group, Inc.",EXPE,EXPE,NasdaqGS,Stati Uniti,USD,283.309998,2025-12-31,241.114892,0.5287,0.4621,-0.3384,29536.2,prezzo × azioni,2025-12-31,Turismo e tempo libero,Nord America,sì,US30212P3038
+482,"Fomento Económico Mexicano, S.A.B. de C.V.",FMX,FMX,NYSE,Stati Uniti,USD,101.07,2025-12-31,86.017021,0.1832,0.2627,-0.2241,29523.1,Yahoo al 31/12/2025,2025-12-31,Alimentare e bevande,Nord America,no (simulati),US3444191064
+483,ArcelorMittal S.A.,MT,MT,NYSE,Stati Uniti,USD,45.57,2025-12-31,38.782978,0.9934,0.401,-0.3083,29518.7,prezzo × azioni,2025-12-31,Siderurgia e metalli,Nord America,sì,US03938L2034
+484,Coherent Corp.,COHR,COHR,NYSE,Stati Uniti,USD,184.570007,2025-12-31,157.080857,0.8349,0.757,-0.5315,29440.5,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US19247G1076
+485,Microchip Technology Incorporated,MCHP,MCHP,NasdaqGS,Stati Uniti,USD,63.720001,2025-12-31,54.229788,0.1203,0.5825,-0.4504,29345.5,prezzo × azioni,2025-12-31,Semiconduttori,Nord America,sì,US5950171042
+486,"WEC Energy Group, Inc.",WEC,WEC,NYSE,Stati Uniti,USD,105.459999,2025-12-31,89.753191,0.122,0.1712,-0.1193,29211.2,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US92939U1060
+487,A.P. Møller - Mærsk A/S,MAERSK-B,MAERSK-B.CO,Copenhagen,Danimarca,DKK,14640.0,2025-12-30,1960.127997,0.1707,0.4087,-0.3159,28750.2,prezzo × azioni,2025-12-31,Trasporti e logistica,Europa,no (simulati),
+488,"Live Nation Entertainment, Inc.",LYV,LYV,NYSE,Stati Uniti,USD,142.5,2025-12-31,121.276596,0.1027,0.32,-0.2784,28551.1,prezzo × azioni,2025-12-31,Media e intrattenimento,Nord America,sì,US5380341090
+489,Kimberly-Clark Corporation,KMB,KMB,NasdaqGS,Stati Uniti,USD,100.889999,2025-12-31,85.863829,-0.2277,0.252,-0.3231,28498.0,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US4943681035
+490,Ubiquiti Inc.,UI,UI,NYSE,Stati Uniti,USD,553.349976,2025-12-31,470.936149,0.6416,0.6101,-0.3657,28491.6,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US90353W1036
+491,EQT Corporation,EQT,EQT,NYSE,Stati Uniti,USD,53.599998,2025-12-31,45.61702,0.132,0.3839,-0.1861,28468.5,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US26884L1098
+492,Leonardo S.p.a.,LDO,LDO.MI,Milan,Italia,EUR,49.16,2025-12-30,49.16,0.8864,0.4446,-0.1998,28362.6,prezzo × azioni,2025-12-31,Aerospazio e difesa,Europa,sì,
+493,Ciena Corporation,CIEN,CIEN,NYSE,Stati Uniti,USD,233.869995,2025-12-31,199.038294,1.8096,0.6126,-0.4551,28067.6,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US1717793095
+494,Sika AG,SIKA,SIKA.SW,Swiss,Svizzera,CHF,162.600006,2025-12-30,174.575914,-0.2363,0.2591,-0.3879,28008.8,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,no (simulati),
+495,"Comfort Systems USA, Inc.",FIX,FIX,NYSE,Stati Uniti,USD,933.289978,2025-12-31,794.289343,1.178,0.6159,-0.4612,27940.9,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US1999081045
+496,Telefonaktiebolaget LM Ericsson (publ),ERIC-B,ERIC-B.ST,Stockholm,Svezia,SEK,90.599998,2025-12-30,8.372222,-0.0033,0.3323,-0.3061,27907.5,prezzo × azioni,2025-12-31,Telecomunicazioni,Europa,no (simulati),
+497,Kia Corporation,000270,000270.KS,KSE,Corea del Sud,KRW,121800.0,2025-12-30,71.776256,0.1988,0.3155,-0.2315,27892.4,prezzo × azioni,2025-12-31,Automobili,Asia ed emergenti,sì,KR7000270009
+498,"Old Dominion Freight Line, Inc.",ODFL,ODFL,NasdaqGS,Stati Uniti,USD,156.800003,2025-12-31,133.446811,-0.1077,0.3974,-0.3966,27831.2,prezzo × azioni,2025-12-31,Trasporti e logistica,Nord America,sì,US6795801009
+499,Poste Italiane S.p.A.,PST,PST.MI,Milan,Italia,EUR,21.48,2025-12-30,21.48,0.5628,0.1743,-0.1059,27797.6,prezzo × azioni,2025-12-31,Assicurazioni,Europa,sì,
+500,Banca Monte dei Paschi di Siena S.p.A.,BMPS,BMPS.MI,Milan,Italia,EUR,9.13,2025-12-30,9.13,0.3607,0.3651,-0.2464,27738.6,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+501,Fresenius SE & Co. KGaA,FRE,FRE.DE,XETRA,Germania,EUR,48.98,2025-12-30,48.98,0.4625,0.2162,-0.1348,27587.4,prezzo × azioni,2025-12-31,Farmaceutica,Europa,sì,
+502,"Chunghwa Telecom Co., Ltd.",2412,2412.TW,Taiwan,Taiwan,TWD,130.5,2025-12-31,3.554771,0.061,0.1167,-0.0657,27575.9,prezzo × azioni,2025-12-31,Telecomunicazioni,Asia ed emergenti,sì,TW0002412004
+503,H & M Hennes & Mauritz AB (publ),HM-B,HM-B.ST,Stockholm,Svezia,SEK,185.899994,2025-12-30,17.178764,0.2497,0.2698,-0.2019,27527.9,prezzo × azioni,2025-11-30,Lusso e moda,Europa,no (simulati),
+504,SSE plc,SSE,SSE.L,LSE,Regno Unito,GBp,2179.0,2025-12-31,24.97135,0.338,0.2679,-0.1817,27497.1,prezzo × azioni,2025-09-30,Servizi pubblici,Regno Unito,no (simulati),
+505,Sampo Oyj,SAMPO,SAMPO.HE,Helsinki,Finlandia,EUR,10.33,2025-12-30,10.33,0.301,0.172,-0.0866,27496.5,prezzo × azioni,2025-12-31,Assicurazioni,Europa,sì,
+506,Stellantis N.V.,STLAM,STLAM.MI,Milan,Italia,EUR,9.461,2025-12-30,9.461,-0.2503,0.4587,-0.4498,27413.1,prezzo × azioni,2025-12-31,Automobili,Europa,sì,
+507,"Natera, Inc.",NTRA,NTRA,NasdaqGS,Stati Uniti,USD,229.089996,2025-12-31,194.97021,0.4265,0.4064,-0.2529,27236.0,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US6323071042
+508,Vodafone Group Public Limited Company,VOD,VOD.L,LSE,Regno Unito,GBp,98.879997,2025-12-31,1.133165,0.4355,0.261,-0.1534,27183.3,prezzo × azioni,2025-09-30,Telecomunicazioni,Regno Unito,no (simulati),
+509,"Amadeus IT Group, S.A.",AMS,AMS.MC,MCE,Spagna,EUR,62.84,2025-12-31,62.84,-0.0845,0.2429,-0.1989,27078.7,prezzo × azioni,2025-12-31,Software e internet,Europa,sì,
+510,Hewlett Packard Enterprise Company,HPE,HPE,NYSE,Stati Uniti,USD,24.02,2025-12-31,20.442554,0.1188,0.4539,-0.4877,26949.3,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US42824C1099
+511,"Raymond James Financial, Inc.",RJF,RJF,NYSE,Stati Uniti,USD,160.589996,2025-12-31,136.672337,0.0361,0.2678,-0.2838,26928.8,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US7547301090
+512,"Ping An Bank Co., Ltd.",000001,000001.SZ,Shenzhen,Cina,CNY,11.41,2025-12-31,1.387032,-0.0017,0.1597,-0.1411,26916.6,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,sì,CNE000000040
+513,Saab AB (publ),SAAB-B,SAAB-B.ST,Stockholm,Svezia,SEK,537.599976,2025-12-30,49.678878,1.3093,0.5042,-0.2218,26774.1,prezzo × azioni,2025-12-31,Aerospazio e difesa,Europa,no (simulati),
+514,"Mitsui Fudosan Co., Ltd.",8801,8801.T,Tokyo,Giappone,JPY,1780.5,2025-12-30,9.6719,0.4114,0.2711,-0.1323,26515.1,prezzo × azioni,2025-12-31,Immobiliare,Giappone,sì,
+515,Orlen S.A.,PKN,PKN.WA,Warsaw,Polonia,PLN,96.110001,2025-12-30,22.769486,0.9467,0.2464,-0.1195,26434.1,prezzo × azioni,2025-12-31,Energia,Europa,no (simulati),
+516,Ingersoll Rand Inc.,IR,IR,NYSE,Stati Uniti,USD,79.220001,2025-12-31,67.421278,-0.1248,0.3303,-0.2916,26369.9,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US45687V1061
+517,KB Financial Group Inc.,105560,105560.KS,KSE,Corea del Sud,KRW,124700.0,2025-12-30,73.485215,0.4952,0.3376,-0.2312,26350.9,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,sì,
+518,Fifth Third Bancorp,FITB,FITB,NYSE,Stati Uniti,USD,46.810001,2025-12-31,39.838299,0.11,0.2825,-0.2589,26341.0,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US3167731005
+519,Humana Inc.,HUM,HUM,NYSE,Stati Uniti,USD,256.130005,2025-12-31,217.982983,0.0138,0.4421,-0.2843,26286.9,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US4448591028
+520,Adani Power Limited,ADANIPOWER,ADANIPOWER.BO,BSE,India,INR,143.0,2025-12-31,1.354212,0.3567,0.4415,-0.1833,26115.6,prezzo × azioni,2025-03-31,Servizi pubblici,Asia ed emergenti,sì,INE814H01029
+521,M&T Bank Corporation,MTB,MTB,NYSE,Stati Uniti,USD,201.479996,2025-12-31,171.472337,0.0676,0.26,-0.2248,26035.0,prezzo × azioni,2025-12-31,Banche,Nord America,sì,
+522,"Oriental Land Co., Ltd.",4661,4661.T,Tokyo,Giappone,JPY,2898.5,2025-12-30,15.745016,-0.1525,0.3022,-0.2485,25817.4,prezzo × azioni,2025-12-31,Turismo e tempo libero,Giappone,sì,
+523,"Teradyne, Inc.",TER,TER,NasdaqGS,Stati Uniti,USD,193.559998,2025-12-31,164.731913,0.5294,0.5832,-0.5146,25712.7,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US8807701029
+524,Woodside Energy Group Ltd,WDS,WDS.AX,ASX,Australia,AUD,23.59,2025-12-30,13.417894,-0.0549,0.291,-0.2609,25508.8,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,no (simulati),
+525,ASM International NV,ASM,ASM.AS,Amsterdam,Paesi Bassi,EUR,517.599976,2025-12-31,517.599976,-0.0884,0.4165,-0.4351,25301.1,prezzo × azioni,2025-12-31,Semiconduttori,Europa,sì,
+526,Powszechna Kasa Oszczednosci Bank Polski Spólka Akcyjna,PKO,PKO.WA,Warsaw,Polonia,PLN,85.160004,2025-12-30,20.175315,0.4371,0.3558,-0.1999,25219.1,prezzo × azioni,2025-12-31,Banche,Europa,no (simulati),
+527,Advanced Info Service Public Company Limited,ADVANC,ADVANC.BK,Thailand,Thailandia,THB,313.0,2025-12-30,8.409909,0.0982,0.2191,-0.148,25012.8,prezzo × azioni,2025-12-31,Media e intrattenimento,Asia ed emergenti,no (simulati),TH0268010Z03
+528,Prysmian S.p.A.,PRY,PRY.MI,Milan,Italia,EUR,86.379997,2025-12-30,86.379997,0.3698,0.4091,-0.4354,24774.8,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,sì,
+529,ABN AMRO Bank N.V.,ABN,ABN.AS,Amsterdam,Paesi Bassi,EUR,29.790001,2025-12-31,29.790001,0.992,0.2735,-0.1826,24523.2,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+530,"Interactive Brokers Group, Inc.",IBKR,IBKR,NasdaqGS,Stati Uniti,USD,64.309998,2025-12-31,54.731913,0.4095,0.4565,-0.3874,24378.4,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US45841N1072
+531,ANTA Sports Products Limited,2020,2020.HK,HKSE,Hong Kong,HKD,80.300003,2025-12-31,8.779411,0.0545,0.3296,-0.2591,24323.4,prezzo × azioni,2025-12-31,Lusso e moda,Asia ed emergenti,no (simulati),
+532,Mettler-Toledo International Inc.,MTD,MTD,NYSE,Stati Uniti,USD,1394.189941,2025-12-31,1186.544631,0.142,0.3364,-0.3021,24157.3,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US5926881054
+533,Capgemini SE,CAP,CAP.PA,Paris,Francia,EUR,142.25,2025-12-31,142.25,-0.0919,0.3206,-0.3632,24145.8,prezzo × azioni,2025-12-31,Software e internet,Europa,sì,
+534,"Astera Labs, Inc.",ALAB,ALAB,NasdaqGS,Stati Uniti,USD,166.360001,2025-12-31,141.582979,0.2357,0.9252,-0.6314,24095.4,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US04626A1034
+535,"Naturgy Energy Group, S.A.",NTGY,NTGY.MC,MCE,Spagna,EUR,25.92,2025-12-31,25.92,0.0809,0.2019,-0.1247,24012.1,prezzo × azioni,2025-12-31,Energia,Europa,sì,ES0116870314
+536,Aviva plc,AV,AV.L,LSE,Regno Unito,GBp,684.400024,2025-12-31,7.843227,0.4454,0.2109,-0.122,23900.9,prezzo × azioni,2025-12-31,Assicurazioni,Regno Unito,no (simulati),
+537,Ameren Corporation,AEE,AEE,NYSE,Stati Uniti,USD,99.860001,2025-12-31,84.987235,0.1221,0.1746,-0.0911,23490.5,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,sì,US0236081024
+538,Archer-Daniels-Midland Company,ADM,ADM,NYSE,Stati Uniti,USD,57.490002,2025-12-31,48.927661,0.1448,0.2894,-0.199,23485.3,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,sì,US0394831020
+539,Extra Space Storage Inc.,EXR,EXR,NYSE,Stati Uniti,USD,130.220001,2025-12-31,110.825533,-0.1189,0.2613,-0.215,23401.4,prezzo × azioni,2025-12-31,Immobiliare,Nord America,sì,US30225T1025
+540,Huntington Bancshares Incorporated,HBAN,HBAN,NasdaqGS,Stati Uniti,USD,17.35,2025-12-31,14.765958,0.0683,0.2999,-0.2818,23149.1,prezzo × azioni,2025-12-31,Banche,Nord America,sì,US4461501045
+541,Vestas Wind Systems A/S,VWS,VWS.CO,Copenhagen,Danimarca,DKK,173.399994,2025-12-30,23.216269,0.6562,0.5151,-0.2855,22993.8,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,no (simulati),
+542,BPER Banca SpA,BPE,BPE.MI,Milan,Italia,EUR,11.6,2025-12-30,11.6,0.9476,0.3232,-0.2465,22759.2,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+543,Central Japan Railway Company,9022,9022.T,Tokyo,Giappone,JPY,4337.0,2025-12-30,23.559129,0.4807,0.2623,-0.1354,22594.5,prezzo × azioni,2025-12-31,Trasporti e logistica,Giappone,sì,
+544,Lumentum Holdings Inc.,LITE,LITE,NasdaqGS,Stati Uniti,USD,368.589996,2025-12-31,313.693614,3.306,0.7854,-0.5063,22397.7,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US55024U1097
+545,Publicis Groupe S.A.,PUB,PUB.PA,Paris,Francia,EUR,88.620003,2025-12-31,88.620003,-0.1409,0.263,-0.302,22232.1,prezzo × azioni,2025-12-31,Media e intrattenimento,Europa,sì,
+546,EnBW Energie Baden-Württemberg AG,EBK,EBK.DE,XETRA,Germania,EUR,68.0,2025-12-30,68.0,0.1518,0.3148,-0.1486,22060.0,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,DE0005220008
+547,"ACS, Actividades de Construcción y Servicios, S.A.",ACS,ACS.MC,MCE,Spagna,EUR,84.849998,2025-12-31,84.849998,0.738,0.2716,-0.167,22039.1,prezzo × azioni,2025-12-31,Farmaceutica,Europa,sì,ES0167050915
+548,ZTE Corporation,000063,000063.SZ,Shenzhen,Cina,CNY,37.84,2025-12-31,4.599937,-0.0024,0.499,-0.338,22004.0,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,CNE000000TK5
+549,Biogen Inc.,BIIB,BIIB,NasdaqGS,Stati Uniti,USD,175.990005,2025-12-31,149.778728,0.1733,0.3225,-0.2603,21987.5,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US09062X1037
+550,"DexCom, Inc.",DXCM,DXCM,NasdaqGS,Stati Uniti,USD,66.370003,2025-12-31,56.485109,-0.1545,0.4519,-0.3957,21735.5,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US2521311074
+551,Veolia Environnement SA,VIE,VIE.PA,Paris,Francia,EUR,29.719999,2025-12-31,29.719999,0.0914,0.204,-0.1553,21733.8,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,
+552,International Consolidated Airlines Group S.A.,IAG,IAG.L,LSE,Regno Unito,GBp,414.299988,2025-12-31,4.74788,0.3691,0.3521,-0.3874,21674.2,prezzo × azioni,2025-12-31,Trasporti e logistica,Regno Unito,no (simulati),
+553,Ørsted A/S,ORSTED,ORSTED.CO,Copenhagen,Danimarca,DKK,122.349998,2025-12-30,16.381261,-0.6362,0.8383,-0.6986,21640.6,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,no (simulati),
+554,NAVER Corporation,035420,035420.KS,KSE,Corea del Sud,KRW,242500.0,2025-12-30,142.904287,0.2513,0.4212,-0.2616,21375.6,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,
+555,"Steel Dynamics, Inc.",STLD,STLD,NasdaqGS,Stati Uniti,USD,169.449997,2025-12-31,144.212763,0.5139,0.3632,-0.2147,20902.2,prezzo × azioni,2025-12-31,Siderurgia e metalli,Nord America,sì,US8581191009
+556,Iron Mountain Incorporated,IRM,IRM,NYSE,Stati Uniti,USD,82.949997,2025-12-31,70.595742,-0.208,0.3328,-0.3089,20881.4,prezzo × azioni,2025-12-31,Immobiliare,Nord America,sì,US46284V1017
+557,Vonovia SE,VNA,VNA.DE,XETRA,Germania,EUR,24.540001,2025-12-30,24.540001,-0.1726,0.2608,-0.2213,20815.2,prezzo × azioni,2025-12-31,Immobiliare,Europa,sì,
+558,Bloom Energy Corporation,BE,BE,NYSE,Stati Uniti,USD,86.889999,2025-12-31,73.948936,2.718,0.9633,-0.4594,20709.1,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,sì,US0937121079
+559,BT Group plc,BT-A,BT-A.L,LSE,Regno Unito,GBp,184.050003,2025-12-31,2.109214,0.2503,0.2508,-0.216,20522.6,prezzo × azioni,2025-03-31,Telecomunicazioni,Regno Unito,no (simulati),GB0030913577
+560,Beiersdorf Aktiengesellschaft,BEI,BEI.DE,XETRA,Germania,EUR,93.68,2025-12-30,93.68,-0.2427,0.228,-0.3632,20471.3,prezzo × azioni,2025-12-31,Lusso e moda,Europa,sì,DE0005200000
+561,Teledyne Technologies Incorporated,TDY,TDY,NYSE,Stati Uniti,USD,510.730011,2025-12-31,434.663839,0.1152,0.233,-0.1839,20075.2,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US8793601050
+562,Wolters Kluwer N.V.,WKL,WKL.AS,Amsterdam,Paesi Bassi,EUR,88.339996,2025-12-31,88.339996,-0.452,0.2781,-0.5169,19983.9,prezzo × azioni,2025-12-31,Media e intrattenimento,Europa,sì,
+563,STMicroelectronics N.V.,STMPA,STMPA.PA,Paris,Francia,EUR,22.440001,2025-12-31,22.440001,-0.0567,0.4691,-0.3763,19944.0,prezzo × azioni,2025-12-31,Semiconduttori,Europa,sì,
+564,"Telefónica, S.A.",TEF,TEF.MC,MCE,Spagna,EUR,3.493,2025-12-31,3.493,-0.125,0.2431,-0.3001,19659.5,prezzo × azioni,2025-12-31,Telecomunicazioni,Europa,sì,
+565,"Hyundai Mobis Co.,Ltd",012330,012330.KS,KSE,Corea del Sud,KRW,373000.0,2025-12-30,219.807418,0.498,0.3488,-0.1786,19601.7,prezzo × azioni,2025-12-31,Automobili,Asia ed emergenti,sì,
+566,Banco BPM S.p.A.,BAMI,BAMI.MI,Milan,Italia,EUR,13.02,2025-12-30,13.02,0.6757,0.294,-0.2195,19573.9,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+567,Compagnie Générale des Établissements Michelin Société en commandite par actions,ML,ML.PA,Paris,Francia,EUR,28.309999,2025-12-31,28.309999,-0.12,0.2383,-0.2614,19465.8,prezzo × azioni,2025-12-31,Automobili,Europa,sì,
+568,Devon Energy Corporation,DVN,DVN,NYSE,Stati Uniti,USD,36.630001,2025-12-31,31.174469,0.0967,0.4197,-0.3048,19390.5,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US25179M1036
+569,Waters Corporation,WAT,WAT,NYSE,Stati Uniti,USD,379.829987,2025-12-31,323.259563,0.0314,0.3664,-0.3345,19249.8,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US9418481035
+570,MTU Aero Engines AG,MTX,MTX.DE,XETRA,Germania,EUR,355.299988,2025-12-30,355.299988,0.1044,0.3199,-0.2368,19110.1,prezzo × azioni,2025-12-31,Aerospazio e difesa,Europa,sì,
+571,Snam S.p.A.,SRG,SRG.MI,Milan,Italia,EUR,5.656,2025-12-30,5.656,0.3002,0.1632,-0.0922,18980.4,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,
+572,BCE Inc.,BCE,BCE.TO,Toronto,Canada,CAD,32.740002,2025-12-31,20.350573,-0.0233,0.236,-0.1948,18977.4,prezzo × azioni,2025-12-31,Media e intrattenimento,Nord America,no (simulati),CA05534B7604
+573,"Everpure, Inc.",P,P,NYSE,Stati Uniti,USD,67.010002,2025-12-31,57.029789,0.0723,0.6621,-0.4863,18848.9,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US74624M1027
+574,SMC Corporation,6273,6273.T,Tokyo,Giappone,JPY,54460.0,2025-12-30,295.83356,-0.11,0.3748,-0.3178,18678.7,prezzo × azioni,2025-12-31,Costruzioni e materiali,Giappone,sì,
+575,Twilio Inc.,TWLO,TWLO,NYSE,Stati Uniti,USD,142.240005,2025-12-31,121.055324,0.3041,0.5813,-0.4517,18450.2,prezzo × azioni,2025-12-31,Software e internet,Nord America,sì,US90138F1021
+576,Riyad Bank,1010,1010.SR,Saudi,Arabia Saudita,SAR,20.355,2025-12-31,4.619574,-0.046,0.2653,-0.2255,18401.5,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,no (simulati),SA0007879048
+577,Pernod Ricard SA,RI,RI.PA,Paris,Francia,EUR,73.099998,2025-12-31,73.099998,-0.3269,0.2722,-0.3486,18397.3,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,sì,
+578,Nippon Steel Corporation,5401,5401.T,Tokyo,Giappone,JPY,641.799988,2025-12-30,3.486338,0.0161,0.2496,-0.2348,18220.7,prezzo × azioni,2025-12-31,Siderurgia e metalli,Giappone,sì,
+579,Terna S.p.A.,TRN,TRN.MI,Milan,Italia,EUR,9.054,2025-12-30,9.054,0.1698,0.1673,-0.1009,18159.6,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,no (simulati),
+580,InterContinental Hotels Group PLC,IHG,IHG.L,LSE,Regno Unito,USD,140.791595,2025-12-31,119.822634,0.0429,0.2377,-0.3176,18046.0,prezzo × azioni,2025-12-31,Turismo e tempo libero,Regno Unito,no (simulati),
+581,"NetApp, Inc.",NTAP,NTAP,NasdaqGS,Stati Uniti,USD,107.089996,2025-12-31,91.140422,-0.0762,0.3664,-0.3975,18045.8,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US64110D1046
+582,"Repsol, S.A.",REP,REP.MC,MCE,Spagna,EUR,15.925,2025-12-31,15.925,0.3427,0.245,-0.2704,17598.7,prezzo × azioni,2025-12-31,Energia,Europa,sì,
+583,Associated British Foods plc,ABF,ABF.L,LSE,Regno Unito,GBp,2127.0,2025-12-31,24.37543,0.0325,0.2708,-0.172,17343.5,prezzo × azioni,2025-08-31,Alimentare e bevande,Regno Unito,no (simulati),GB0006731235
+584,Centene Corporation,CNC,CNC,NYSE,Stati Uniti,USD,41.150002,2025-12-31,35.021278,-0.3199,0.6701,-0.6174,17222.0,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US15135B1017
+585,"Illumina, Inc.",ILMN,ILMN,NasdaqGS,Stati Uniti,USD,131.160004,2025-12-31,111.625535,0.0018,0.482,-0.5126,17078.7,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US4523271090
+586,Telenor ASA,TEL,TEL.OL,Oslo,Norvegia,NOK,146.699997,2025-12-30,12.387064,0.1328,0.1709,-0.1696,16948.7,prezzo × azioni,2025-12-31,Telecomunicazioni,Europa,no (simulati),
+587,Legal & General Group Plc,LGEN,LGEN.L,LSE,Regno Unito,GBp,261.899994,2025-12-31,3.001375,0.1387,0.2072,-0.134,16898.9,prezzo × azioni,2025-12-31,Assicurazioni,Regno Unito,no (simulati),
+588,United Microelectronics Corporation,UMC,UMC,NYSE,Stati Uniti,USD,7.86,2025-12-31,6.689362,0.2037,0.3189,-0.2091,16871.5,Yahoo al 31/12/2025,2025-12-31,Semiconduttori,Nord America,no (simulati),US9108734057
+589,Tenaris S.A.,TEN,TEN.MI,Milan,Italia,EUR,16.51,2025-12-30,16.51,-0.1049,0.2862,-0.2866,16705.2,prezzo × azioni,2025-12-31,Siderurgia e metalli,Europa,sì,
+590,"EDP, S.A.",EDP,EDP.LS,Lisbon,Portogallo,EUR,3.915,2025-12-31,3.915,0.2362,0.2749,-0.1676,16184.3,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,
+591,Zangge Mining Company Limited,000408,000408.SZ,Shenzhen,Cina,CNY,84.400002,2025-12-31,10.259901,2.0938,0.3643,-0.1367,16110.4,prezzo × azioni,2025-12-31,Siderurgia e metalli,Asia ed emergenti,sì,CNE000000L08
+592,"Shenwan Hongyuan Group Co., Ltd.",000166,000166.SZ,Shenzhen,Cina,CNY,5.27,2025-12-31,0.640636,0.0415,0.2104,-0.1518,16041.5,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,sì,CNE100002FD4
+593,"Arca Continental, S.A.B. de C.V.",AC,AC.MX,Mexico,Messico,MXN,194.5,2025-12-31,9.210152,0.1014,0.244,-0.1951,15640.6,prezzo × azioni,2025-12-31,Alimentare e bevande,Nord America,no (simulati),MX01AC100006
+594,OMV Aktiengesellschaft,OMV,OMV.VI,Vienna,Austria,EUR,47.52,2025-12-30,47.52,0.2362,0.2286,-0.1507,15491.6,prezzo × azioni,2025-12-31,Energia,Europa,sì,
+595,Traton SE,8TRA,8TRA.DE,XETRA,Germania,EUR,30.5,2025-12-30,30.5,0.0816,0.3746,-0.3399,15250.0,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,sì,DE000TRAT0N7
+596,Adani Green Energy Limited,ADANIGREEN,ADANIGREEN.BO,BSE,India,INR,1014.799988,2025-12-31,9.610167,-0.0305,0.4018,-0.2873,15222.8,prezzo × azioni,2025-03-31,Servizi pubblici,Asia ed emergenti,sì,INE364U01010
+597,Koninklijke KPN N.V.,KPN,KPN.AS,Amsterdam,Paesi Bassi,EUR,3.976,2025-12-31,3.976,0.1216,0.1651,-0.098,15208.4,prezzo × azioni,2025-12-31,Telecomunicazioni,Europa,sì,
+598,Unipol Assicurazioni S.p.A.,UNI,UNI.MI,Milan,Italia,EUR,20.57,2025-12-30,20.57,0.73,0.2759,-0.1978,15128.7,prezzo × azioni,2025-12-31,Assicurazioni,Europa,sì,
+599,Moncler S.p.A.,MONC,MONC.MI,Milan,Italia,EUR,54.919998,2025-12-30,54.919998,0.0777,0.3128,-0.326,14916.2,prezzo × azioni,2025-12-31,Lusso e moda,Europa,sì,
+600,Neste Oyj,NESTE,NESTE.HE,Helsinki,Finlandia,EUR,19.41,2025-12-30,19.41,0.5584,0.4402,-0.4695,14912.2,prezzo × azioni,2025-12-31,Energia,Europa,sì,
+601,Airtel Africa Plc,AAF,AAF.L,LSE,Regno Unito,GBp,355.200012,2025-12-31,4.070594,2.0333,0.3382,-0.1498,14851.1,prezzo × azioni,2025-12-31,Telecomunicazioni,Regno Unito,no (simulati),GB00BKDRYJ47
+602,Carlsberg A/S,CARL-B,CARL-B.CO,Copenhagen,Danimarca,DKK,835.200012,2025-12-30,111.823697,0.1972,0.2235,-0.2262,14780.0,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,no (simulati),
+603,Mediobanca Banca di Credito Finanziario S.p.A.,MB,MB.MI,Milan,Italia,EUR,17.785,2025-12-30,17.785,0.2587,0.332,-0.2753,14344.2,Yahoo al 31/12/2025,2024-06-30,Banche,Europa,no (simulati),
+604,Dow Inc.,DOW,DOW,NYSE,Stati Uniti,USD,23.379999,2025-12-31,19.897872,-0.4088,0.4954,-0.5074,14271.2,prezzo × azioni,2025-12-31,Chimica,Nord America,sì,
+605,"Venture Global, Inc.",VG,VG,NYSE,Stati Uniti,USD,6.82,2025-12-31,5.804255,-0.7158,0.937,-0.7533,14258.8,prezzo × azioni,2025-12-31,Energia,Nord America,sì,US92333F1012
+606,"LG Chem, Ltd.",051910,051910.KS,KSE,Corea del Sud,KRW,333000.0,2025-12-30,196.235577,0.3732,0.4848,-0.3294,13852.7,prezzo × azioni,2025-12-31,Chimica,Asia ed emergenti,sì,
+607,POSCO Holdings Inc.,005490,005490.KS,KSE,Corea del Sud,KRW,305000.0,2025-12-30,179.735288,0.22,0.3867,-0.2967,13591.7,prezzo × azioni,2025-12-31,Siderurgia e metalli,Asia ed emergenti,sì,
+608,FinecoBank Banca Fineco S.p.A.,FBK,FBK.MI,Milan,Italia,EUR,22.200001,2025-12-30,22.200001,0.314,0.2779,-0.2187,13575.2,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+609,"Revolution Medicines, Inc.",RVMD,RVMD,NasdaqGS,Stati Uniti,USD,79.650002,2025-12-31,67.787235,0.8102,0.4438,-0.2992,13354.2,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,no (simulati),US76155X1000
+610,"Okta, Inc.",OKTA,OKTA,NasdaqGS,Stati Uniti,USD,86.470001,2025-12-31,73.59149,0.0969,0.4574,-0.3848,13042.5,prezzo × azioni,2025-10-31,Software e internet,Nord America,sì,US6792951054
+611,Norsk Hydro ASA,NHY,NHY.OL,Oslo,Norvegia,NOK,78.199997,2025-12-30,6.603056,0.2234,0.2619,-0.2748,12976.8,prezzo × azioni,2025-12-31,Siderurgia e metalli,Europa,no (simulati),
+612,Formosa Petrochemical Corporation,6505,6505.TW,Taiwan,Taiwan,TWD,47.799999,2025-12-31,1.302054,0.4142,0.4493,-0.2367,12403.3,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,sì,TW0006505001
+613,Adani Energy Solutions Limited,ADANIENSOL,ADANIENSOL.BO,BSE,India,INR,1029.25,2025-12-31,9.747009,0.2782,0.3583,-0.2144,11708.9,prezzo × azioni,2025-03-31,Servizi pubblici,Asia ed emergenti,sì,INE931S01010
+614,Evolution AB (publ),EVO,EVO.ST,Stockholm,Svezia,SEK,629.799988,2025-12-30,58.198955,-0.2751,0.3606,-0.3029,11594.8,prezzo × azioni,2025-12-31,Turismo e tempo libero,Europa,no (simulati),
+615,Accor SA,AC,AC.PA,Paris,Francia,EUR,48.220001,2025-12-31,48.220001,0.0231,0.2871,-0.2842,11317.6,prezzo × azioni,2025-12-31,Turismo e tempo libero,Europa,sì,FR0000120404
+616,Telecom Italia S.p.A.,TIT,TIT.MI,Milan,Italia,EUR,5.138,2025-12-30,5.138,1.0577,0.3287,-0.1634,11248.2,Yahoo al 31/12/2025,2025-12-31,Telecomunicazioni,Europa,sì,
+617,SEGRO Plc,SGRO,SGRO.L,LSE,Regno Unito,GBp,720.400024,2025-12-31,8.255788,0.0365,0.2317,-0.181,11164.8,prezzo × azioni,2025-12-31,Immobiliare,Regno Unito,no (simulati),
+618,Mowi ASA,MOWI,MOWI.OL,Oslo,Norvegia,NOK,243.199997,2025-12-30,20.535337,0.2323,0.2071,-0.2174,10828.1,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,no (simulati),
+619,"Galp Energia, SGPS, S.A.",GALP,GALP.LS,Lisbon,Portogallo,EUR,14.63,2025-12-31,14.63,-0.0822,0.3159,-0.2813,10736.3,prezzo × azioni,2025-12-31,Energia,Europa,sì,
+620,Renault SA,RNO,RNO.PA,Paris,Francia,EUR,35.419998,2025-12-31,35.419998,-0.2473,0.3496,-0.4069,10266.1,prezzo × azioni,2025-12-31,Automobili,Europa,sì,
+621,"Acciona, S.A.",ANA,ANA.MC,MCE,Spagna,EUR,185.899994,2025-12-31,185.899994,0.6628,0.2776,-0.1697,10132.5,prezzo × azioni,2025-12-31,Immobiliare,Europa,sì,ES0125220311
+622,Deutsche Lufthansa AG,LHA,LHA.DE,XETRA,Germania,EUR,8.406,2025-12-30,8.406,0.3651,0.3508,-0.2791,10081.0,prezzo × azioni,2025-12-31,Trasporti e logistica,Europa,sì,
+623,Carrefour SA,CA,CA.PA,Paris,Francia,EUR,14.23,2025-12-31,14.23,0.0413,0.2379,-0.2069,10049.7,prezzo × azioni,2025-12-31,Distribuzione,Europa,sì,
+624,Recordati Industria Chimica e Farmaceutica S.p.A.,REC,REC.MI,Milan,Italia,EUR,48.540001,2025-12-30,48.540001,-0.062,0.2361,-0.2653,9919.4,prezzo × azioni,2025-12-31,Farmaceutica,Europa,sì,
+625,"Moderna, Inc.",MRNA,MRNA,NasdaqGS,Stati Uniti,USD,29.49,2025-12-31,25.097872,-0.2979,0.6808,-0.5296,9888.6,prezzo × azioni,2025-12-31,Farmaceutica,Nord America,sì,US60770K1079
+626,Italgas S.p.A.,IG,IG.MI,Milan,Italia,EUR,9.515,2025-12-30,9.515,0.7427,0.1995,-0.1005,9664.3,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,
+627,BKW AG,BKW,BKW.SW,Swiss,Svizzera,CHF,168.399994,2025-12-30,180.803086,0.0611,0.2161,-0.1254,9541.1,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,no (simulati),CH0130293662
+628,Buzzi S.p.A.,BZU,BZU.MI,Milan,Italia,EUR,52.0,2025-12-30,52.0,0.4461,0.3968,-0.2546,9413.3,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,sì,
+629,The Swatch Group AG,UHR,UHR.SW,Swiss,Svizzera,CHF,168.25,2025-12-30,180.642044,0.0679,0.3112,-0.29,9392.7,prezzo × azioni,2025-12-31,Lusso e moda,Europa,no (simulati),
+630,"Taiwan Mobile Co., Ltd.",3045,3045.TW,Taiwan,Taiwan,TWD,108.5,2025-12-31,2.955499,-0.0356,0.1671,-0.1218,8938.9,prezzo × azioni,2025-12-31,Telecomunicazioni,Asia ed emergenti,sì,TW0003045001
+631,Yara International ASA,YAR,YAR.OL,Oslo,Norvegia,NOK,414.0,2025-12-30,34.957359,0.3578,0.2327,-0.1388,8904.5,prezzo × azioni,2025-12-31,Chimica,Europa,no (simulati),
+632,Centrica plc,CNA,CNA.L,LSE,Regno Unito,GBp,169.550003,2025-12-31,1.943044,0.2358,0.2419,-0.0964,8782.9,prezzo × azioni,2025-12-31,Servizi pubblici,Regno Unito,no (simulati),GB00B033F229
+633,"Jiangsu Eastern Shenghong Co.,Ltd.",000301,000301.SZ,Shenzhen,Cina,CNY,10.89,2025-12-31,1.323819,0.3613,0.2725,-0.2219,8752.1,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,sì,CNE0000012K6
+634,AltaGas Ltd.,ALA,ALA.TO,Toronto,Canada,CAD,41.849998,2025-12-31,26.013177,0.2515,0.1786,-0.0865,8094.7,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,no (simulati),CA0213611001
+635,"Idemitsu Kosan Co.,Ltd.",5019,5019.T,Tokyo,Giappone,JPY,1183.0,2025-12-30,6.426205,0.1359,0.261,-0.2886,7869.8,prezzo × azioni,2025-12-31,Energia,Giappone,sì,JP3142500002
+636,"Autoliv, Inc.",ALIV-SDB,ALIV-SDB.ST,Stockholm,Svezia,SEK,1115.0,2025-12-30,103.035624,0.0725,0.3133,-0.3136,7697.3,prezzo × azioni,2025-12-31,Automobili,Europa,no (simulati),SE0021309614
+637,"Inner Mongolia Xingye Silver & Tin Mining Co., Ltd",000426,000426.SZ,Shenzhen,Cina,CNY,35.599998,2025-12-31,4.327636,2.0743,0.4941,-0.2638,7684.3,prezzo × azioni,2025-12-31,Siderurgia e metalli,Asia ed emergenti,sì,CNE000000D24
+638,A2A S.p.A.,A2A,A2A.MI,Milan,Italia,EUR,2.31,2025-12-30,2.31,0.0562,0.2533,-0.1724,7227.4,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,
+639,Infrastrutture Wireless Italiane S.p.A.,INW,INW.MI,Milan,Italia,EUR,7.885,2025-12-30,7.885,-0.2139,0.2338,-0.305,7115.0,prezzo × azioni,2025-12-31,Telecomunicazioni,Europa,sì,
+640,"China Vanke Co., Ltd.",000002,000002.SZ,Shenzhen,Cina,CNY,4.65,2025-12-31,0.565267,-0.346,0.323,-0.4203,6744.0,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,sì,CNE0000000T2
+641,Brunello Cucinelli S.p.A.,BC,BC.MI,Milan,Italia,EUR,98.419998,2025-12-30,98.419998,-0.0653,0.3543,-0.3652,6692.6,prezzo × azioni,2025-12-31,Lusso e moda,Europa,sì,
+642,Davide Campari-Milano N.V.,CPR,CPR.MI,Milan,Italia,EUR,5.538,2025-12-30,5.538,-0.0921,0.3451,-0.2058,6638.9,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,sì,
+643,"Chang Hwa Commercial Bank, Ltd.",2801,2801.TW,Taiwan,Taiwan,TWD,19.95122,2025-12-31,0.543464,0.1863,0.1694,-0.0989,6554.3,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,sì,TW0002801008
+644,Banca Generali S.p.A.,BGN,BGN.MI,Milan,Italia,EUR,57.200001,2025-12-30,57.200001,0.2649,0.2496,-0.193,6515.6,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+645,Pirelli & C. S.p.A.,PIRC,PIRC.MI,Milan,Italia,EUR,5.856,2025-12-30,5.856,0.0609,0.2262,-0.2274,6353.1,prezzo × azioni,2025-12-31,Automobili,Europa,sì,
+646,AAK AB (publ.),AAK,AAK.ST,Stockholm,Svezia,SEK,263.799988,2025-12-30,24.377396,-0.1761,0.2758,-0.2543,6349.1,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,no (simulati),SE0011337708
+647,Doosan Corporation,000150,000150.KS,KSE,Corea del Sud,KRW,781000.0,2025-12-30,460.240197,1.9472,0.7149,-0.363,6261.5,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,sì,KR7000150003
+648,Hera S.p.A.,HER,HER.MI,Milan,Italia,EUR,4.02,2025-12-30,4.02,0.1612,0.1962,-0.1792,5943.1,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,
+649,Autotrader Group plc,AUTO,AUTO.L,LSE,Regno Unito,GBp,586.400024,2025-12-31,6.720147,-0.2622,0.235,-0.3562,5912.4,prezzo × azioni,2025-03-31,Media e intrattenimento,Regno Unito,no (simulati),GB00BVYVFW23
+650,Fincantieri S.p.A.,FCT,FCT.MI,Milan,Italia,EUR,16.700001,2025-12-30,16.700001,1.4084,0.4943,-0.4175,5415.6,prezzo × azioni,2025-12-31,Aerospazio e difesa,Europa,sì,
+651,Burberry Group plc,BRBY,BRBY.L,LSE,Regno Unito,GBp,1269.0,2025-12-31,14.542746,0.2975,0.4587,-0.4917,5208.9,prezzo × azioni,2025-09-30,Lusso e moda,Regno Unito,no (simulati),
+652,Azimut Holding S.p.A.,AZM,AZM.MI,Milan,Italia,EUR,35.740002,2025-12-30,35.740002,0.4805,0.3074,-0.2414,5047.5,prezzo × azioni,2025-12-31,Banche,Europa,sì,
+653,Iveco Group N.V.,IVG,IVG.MI,Milan,Italia,EUR,18.775,2025-12-30,18.775,1.0258,0.4179,-0.255,5000.7,prezzo × azioni,2025-12-31,Automobili,Europa,sì,
+654,Interpump Group S.p.A.,IP,IP.MI,Milan,Italia,EUR,46.779999,2025-12-30,46.779999,0.0809,0.3601,-0.4444,4976.7,prezzo × azioni,2025-12-31,Chimica,Europa,sì,
+655,Nexi S.p.A.,NEXI,NEXI.MI,Milan,Italia,EUR,4.221,2025-12-30,4.221,-0.2175,0.3509,-0.3364,4947.2,prezzo × azioni,2025-12-31,Software e internet,Europa,sì,
+656,Yuhan Corporation,000100,000100.KS,KSE,Corea del Sud,KRW,112400.0,2025-12-30,66.236873,-0.0499,0.4034,-0.2658,4876.1,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,KR7000100008
+657,"Shenzhen Kaifa Technology Co., Ltd.",000021,000021.SZ,Shenzhen,Cina,CNY,25.280001,2025-12-31,3.073108,0.3928,0.4323,-0.29,4836.2,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,CNE000000FK4
+658,"TCC Group Holdings Co., Ltd.",1101,1101.TW,Taiwan,Taiwan,TWD,23.200001,2025-12-31,0.631959,-0.2658,0.2667,-0.4213,4735.4,prezzo × azioni,2025-12-31,Chimica,Asia ed emergenti,sì,TW0001101004
+659,Tritax Big Box Ord,BBOX,BBOX.L,LSE,Regno Unito,GBp,152.199997,2025-12-31,1.744213,0.1478,0.2251,-0.1692,4713.1,prezzo × azioni,2025-12-31,Immobiliare,Regno Unito,no (simulati),GB00BG49KP99
+660,Saipem SpA,SPM,SPM.MI,Milan,Italia,EUR,2.425,2025-12-30,2.425,-0.089,0.3361,-0.411,4705.2,prezzo × azioni,2025-12-31,Energia,Europa,sì,
+661,360 One Wam Limited,360ONE,360ONE.BO,BSE,India,INR,1189.199951,2025-12-31,11.261736,-0.0681,0.3892,-0.3764,4426.7,prezzo × azioni,2025-03-31,Banche,Asia ed emergenti,sì,INE466L01038
+662,1&1 AG,1U1,1U1.DE,XETRA,Germania,EUR,24.75,2025-12-30,24.75,1.0833,0.3368,-0.1015,4368.8,prezzo × azioni,2025-12-31,Media e intrattenimento,Europa,sì,DE0005545503
+663,The Berkeley Group Holdings plc,BKG,BKG.L,LSE,Regno Unito,GBp,3904.0,2025-12-31,44.739858,0.001,0.2448,-0.185,4280.3,prezzo × azioni,2025-10-31,Immobiliare,Regno Unito,no (simulati),
+664,Adecco Group AG,ADEN,ADEN.SW,Swiss,Svizzera,CHF,23.120001,2025-12-30,24.822848,0.0377,0.43,-0.3036,4171.6,prezzo × azioni,2025-12-31,Banche,Europa,no (simulati),CH0012138605
+665,Pepco Group N.V.,PCO,PCO.WA,Warsaw,Paesi Bassi,PLN,30.0,2025-12-30,7.107321,0.7889,0.374,-0.2065,4035.1,prezzo × azioni,2025-09-30,Energia,Europa,no (simulati),NL0015000AU7
+666,Algonquin Power & Utilities Corp.,AQN,AQN.TO,Toronto,Canada,CAD,8.44,2025-12-31,5.246146,0.2905,0.3068,-0.131,4030.9,prezzo × azioni,2025-12-31,Servizi pubblici,Nord America,no (simulati),CA0158571053
+667,"Shijiazhuang ChangShan BeiMing Technology Co.,Ltd",000158,000158.SZ,Shenzhen,Cina,CNY,20.389999,2025-12-31,2.478666,0.0226,0.5097,-0.3461,3962.4,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,sì,CNE0000013X7
+668,Arkema S.A.,AKE,AKE.PA,Paris,Francia,EUR,52.150002,2025-12-31,52.150002,-0.2716,0.3278,-0.4199,3944.5,prezzo × azioni,2025-12-31,Chimica,Europa,sì,FR0010313833
+669,"Dong-E-E-Jiao Co., Ltd.",000423,000423.SZ,Shenzhen,Cina,CNY,49.080002,2025-12-31,5.966303,-0.2084,0.2144,-0.2607,3842.2,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,CNE0000006Y9
+670,"Shenzhen Energy Group Co., Ltd.",000027,000027.SZ,Shenzhen,Cina,CNY,6.52,2025-12-31,0.79259,0.0382,0.2136,-0.1318,3770.7,prezzo × azioni,2025-12-31,Servizi pubblici,Asia ed emergenti,sì,CNE000000933
+671,3M India Limited,3MINDIA,3MINDIA.BO,BSE,India,INR,35081.25,2025-12-31,332.219818,0.1618,0.2741,-0.1611,3742.5,prezzo × azioni,2025-03-31,Costruzioni e materiali,Asia ed emergenti,sì,INE470A01017
+672,Saudi Aramco Base Oil Company - Luberef,2223,2223.SR,Saudi,Arabia Saudita,SAR,96.150002,2025-12-31,21.821277,-0.1595,0.2596,-0.288,3671.7,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,no (simulati),SA15M1HH2NH5
+673,DiaSorin S.p.A.,DIA,DIA.MI,Milan,Italia,EUR,68.620003,2025-12-30,68.620003,-0.3172,0.3061,-0.4523,3636.9,prezzo × azioni,2025-12-31,Farmaceutica,Europa,sì,
+674,Allreal Holding AG,ALLN,ALLN.SW,Swiss,Svizzera,CHF,204.0,2025-12-30,219.025123,0.2304,0.1232,-0.0577,3617.1,prezzo × azioni,2025-12-31,Immobiliare,Europa,no (simulati),CH0008837566
+675,Asia Cement Corporation,1102,1102.TW,Taiwan,Taiwan,TWD,37.200001,2025-12-31,1.013314,-0.0758,0.2165,-0.2497,3593.8,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,sì,TW0001102002
+676,AGL Energy Limited,AGL,AGL.AX,ASX,Australia,AUD,9.31,2025-12-30,5.29549,-0.1826,0.2709,-0.3206,3562.5,prezzo × azioni,2025-06-30,Servizi pubblici,Asia ed emergenti,no (simulati),AU000000AGL7
+677,Air Canada,AC,AC.TO,Toronto,Canada,CAD,19.290001,2025-12-31,11.990304,-0.1365,0.3556,-0.4257,3531.7,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,no (simulati),CA0089118776
+678,"CIE Automotive, S.A.",CIE,CIE.MC,MCE,Spagna,EUR,29.75,2025-12-31,29.75,0.1553,0.2173,-0.2054,3528.8,prezzo × azioni,2025-12-31,Automobili,Europa,sì,ES0105630315
+679,"Digital China Group Co., Ltd.",000034,000034.SZ,Shenzhen,Cina,CNY,27.792856,2025-12-31,3.378578,0.1791,0.4659,-0.414,3421.9,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,CNE000000DQ6
+680,Cosan S.A.,CSAN3,CSAN3.SA,São Paulo,Brasile,BRL,5.32,2025-12-30,0.826549,-0.3367,0.5008,-0.4044,3272.7,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,no (simulati),BRCSANACNOR6
+681,Drax Group plc,DRX,DRX.L,LSE,Regno Unito,GBp,837.0,2025-12-31,9.592024,0.272,0.2406,-0.1981,3265.0,prezzo × azioni,2025-12-31,Servizi pubblici,Regno Unito,no (simulati),GB00B1VNSX38
+682,ERG S.p.A.,ERG,ERG.MI,Milan,Italia,EUR,21.98,2025-12-30,21.98,0.0806,0.2611,-0.212,3194.9,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,
+683,Shenzhen Zhongjin Lingnan Nonfemet Co. Ltd.,000060,000060.SZ,Shenzhen,Cina,CNY,5.85,2025-12-31,0.711142,0.2745,0.2861,-0.1735,3158.3,prezzo × azioni,2025-12-31,Chimica,Asia ed emergenti,sì,CNE000000FS7
+684,"Acerinox, S.A.",ACX,ACX.MC,MCE,Spagna,EUR,12.66,2025-12-31,12.66,0.3072,0.2923,-0.2432,3156.5,prezzo × azioni,2025-12-31,Chimica,Europa,sì,ES0132105018
+685,"Shenzhen Huaqiang Industry Co., Ltd.",000062,000062.SZ,Shenzhen,Cina,CNY,24.620001,2025-12-31,2.992877,0.1242,0.4645,-0.2778,3130.3,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,CNE0000008R9
+686,"China Baoan Group Co., Ltd.",000009,000009.SZ,Shenzhen,Cina,CNY,9.85,2025-12-31,1.197394,0.1067,0.3266,-0.2143,3088.3,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,sì,CNE000000222
+687,Amplifon S.p.A.,AMP,AMP.MI,Milan,Italia,EUR,13.75,2025-12-30,13.75,-0.4485,0.4476,-0.5195,3024.1,prezzo × azioni,2025-12-31,Farmaceutica,Europa,sì,
+688,ALSO Holding AG,ALSN,ALSN.SW,Swiss,Svizzera,CHF,215.0,2025-12-30,230.835302,-0.0632,0.2696,-0.2821,2939.0,prezzo × azioni,2025-12-31,Software e internet,Europa,no (simulati),CH0024590272
+689,MFE-Mediaforeurope N.V.,MFEB,MFEB.MI,Milan,Italia,EUR,4.11,2025-12-30,4.11,-0.0172,0.3053,-0.2538,2875.5,prezzo × azioni,2025-12-31,Media e intrattenimento,Europa,sì,
+690,"Ebro Foods, S.A.",EBRO,EBRO.MC,MCE,Spagna,EUR,18.42,2025-12-31,18.42,0.1484,0.1137,-0.0669,2834.2,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,sì,ES0112501012
+691,"Guangdong Electric Power Development Co., Ltd.",000539,000539.SZ,Shenzhen,Cina,CNY,4.42,2025-12-31,0.537308,0.0091,0.2765,-0.1613,2821.0,prezzo × azioni,2025-12-31,Servizi pubblici,Asia ed emergenti,sì,CNE0000006J0
+692,PT Adaro Andalan Indonesia Tbk,AADI,AADI.JK,Jakarta,Indonesia,IDR,6975.0,2025-12-30,0.355128,-0.152,0.4437,-0.4026,2765.3,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,no (simulati),ID1000207509
+693,"Shenzhen Special Economic Zone Real Estate & Properties (Group) Co., Ltd.",000029,000029.SZ,Shenzhen,Cina,CNY,22.02,2025-12-31,2.676813,0.4868,0.4568,-0.3451,2708.0,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,sì,CNE0000009X5
+694,"Shenzhen SED Industry Co., Ltd.",000032,000032.SZ,Shenzhen,Cina,CNY,19.35,2025-12-31,2.35224,0.1538,0.5177,-0.436,2676.8,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,sì,CNE000000BK3
+695,Astra Industrial Group Company,1212,1212.SR,Saudi,Arabia Saudita,SAR,141.699997,2025-12-31,32.158865,-0.2163,0.3629,-0.3651,2572.7,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,no (simulati),SA11RGL0IU14
+696,"Shanxi Meijin Energy Co.,Ltd.",000723,000723.SZ,Shenzhen,Cina,CNY,4.7,2025-12-31,0.571345,0.0755,0.3656,-0.212,2515.9,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,sì,CNE0000005J2
+697,"Shenzhen Agricultural Power Group Co.,Ltd",000061,000061.SZ,Shenzhen,Cina,CNY,10.29,2025-12-31,1.250881,0.4742,0.404,-0.1531,2483.0,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,CNE0000008V1
+698,Aegis Logistics Limited,AEGISLOG,AEGISLOG.BO,BSE,India,INR,717.099976,2025-12-31,6.790945,-0.1189,0.4766,-0.3452,2383.6,prezzo × azioni,2025-09-30,Energia,Asia ed emergenti,sì,INE208C01025
+699,"Jizhong Energy Resources Co., Ltd.",000937,000937.SZ,Shenzhen,Cina,CNY,4.890909,2025-12-31,0.594553,-0.1433,0.2537,-0.2443,2311.0,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,sì,CNE0000010H6
+700,SCHOTT Pharma AG & Co. KGaA,1SXP,1SXP.DE,XETRA,Germania,EUR,15.1,2025-12-30,15.1,-0.3906,0.3783,-0.51,2274.3,prezzo × azioni,2025-12-31,Farmaceutica,Europa,sì,DE000A3ENQ51
+701,Allos S.A.,ALOS3,ALOS3.SA,São Paulo,Brasile,BRL,28.370001,2025-12-30,4.407744,0.5657,0.2379,-0.1028,2200.3,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,no (simulati),BRALOSACNOR5
+702,"Japan Petroleum Exploration Co., Ltd.",1662,1662.T,Tokyo,Giappone,JPY,1570.0,2025-12-30,8.528437,0.3373,0.3176,-0.2466,2182.9,prezzo × azioni,2025-12-31,Energia,Giappone,sì,JP3421100003
+703,Exxaro Resources Limited,EXX,EXX.JO,Johannesburg,Sudafrica,ZAc,17900.0,2025-12-31,9.205972,0.122,0.31,-0.227,2155.5,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,no (simulati),ZAE000084992
+704,"Visual China Group Co.,Ltd.",000681,000681.SZ,Shenzhen,Cina,CNY,23.809999,2025-12-31,2.89441,0.1085,0.5352,-0.4187,2027.8,prezzo × azioni,2025-12-31,Media e intrattenimento,Asia ed emergenti,sì,CNE000000BW8
+705,Aadhar Housing Finance Limited,AADHARHFC,AADHARHFC.BO,BSE,India,INR,484.75,2025-12-31,4.590588,0.155,0.2887,-0.1479,1988.2,prezzo × azioni,2025-09-30,Banche,Asia ed emergenti,sì,INE883F01010
+706,Nissui Corporation,1332,1332.T,Tokyo,Giappone,JPY,1144.0,2025-12-30,6.214352,0.2976,0.2354,-0.1459,1884.6,prezzo × azioni,2025-12-31,Alimentare e bevande,Giappone,sì,JP3718800000
+707,"Hubei Yihua Chemical Industry Co., Ltd.",000422,000422.SZ,Shenzhen,Cina,CNY,14.21,2025-12-31,1.727408,0.1591,0.4314,-0.302,1879.8,prezzo × azioni,2025-12-31,Chimica,Asia ed emergenti,sì,CNE0000009C9
+708,Anadolu Efes Biracilik ve Malt Sanayii Anonim Sirketi,AEFES,AEFES.IS,Istanbul,Turchia,TRY,15.71,2025-12-31,0.311189,-0.0909,0.3941,-0.3016,1842.6,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,no (simulati),TRAAEFES91A9
+709,Seera Holding Group,1810,1810.SR,Saudi,Arabia Saudita,SAR,29.337711,2025-12-31,6.658204,0.1922,0.2643,-0.1796,1838.9,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,no (simulati),SA132GSGS910
+710,AVI Limited,AVI,AVI.JO,Johannesburg,Sudafrica,ZAc,10550.0,2025-12-31,5.425866,-0.0219,0.2242,-0.2269,1801.2,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,no (simulati),ZAE000049433
+711,Aditya Birla Real Estate Limited,ABREL,ABREL.BO,BSE,India,INR,1670.75,2025-12-31,15.822021,-0.3395,0.4075,-0.3794,1748.8,prezzo × azioni,2025-03-31,Immobiliare,Asia ed emergenti,sì,INE055A01016
+712,"Wasu Media Holding Co.,Ltd",000156,000156.SZ,Shenzhen,Cina,CNY,7.57,2025-12-31,0.920231,0.0738,0.3299,-0.2347,1705.1,prezzo × azioni,2025-12-31,Media e intrattenimento,Asia ed emergenti,sì,CNE0000014L0
+713,China National Accord Medicines Corporation Ltd.,000028,000028.SZ,Shenzhen,Cina,CNY,22.327272,2025-12-31,2.714166,-0.1328,0.1493,-0.1511,1661.7,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,CNE0000009N6
+714,"Shenzhen Zhenye (Group) Co.,Ltd.",000006,000006.SZ,Shenzhen,Cina,CNY,9.95,2025-12-31,1.20955,0.3724,0.5126,-0.3385,1632.9,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,sì,CNE000000164
+715,Allied Blenders and Distillers Limited,ABDL,ABDL.BO,BSE,India,INR,613.099976,2025-12-31,5.806063,0.431,0.3962,-0.3011,1624.0,prezzo × azioni,2025-03-31,Alimentare e bevande,Asia ed emergenti,sì,INE552Z01027
+716,"DB HiTek CO., LTD.",000990,000990.KS,KSE,Corea del Sud,KRW,67600.0,2025-12-30,39.836411,1.0547,0.5206,-0.25,1603.3,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,KR7000990002
+717,"Pacific Shuanglin Bio-pharmacy Co., Ltd.",000403,000403.SZ,Shenzhen,Cina,CNY,13.69,2025-12-31,1.664195,-0.3564,0.3576,-0.4869,1581.6,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,CNE000000F14
+718,Cury Construtora e Incorporadora S.A.,CURY3,CURY3.SA,São Paulo,Brasile,BRL,32.23,2025-12-30,5.007458,0.8428,0.3104,-0.1948,1542.5,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,no (simulati),BRCURYACNOR3
+719,"Hainan Haide Capital Management Co., Ltd.",000567,000567.SZ,Shenzhen,Cina,CNY,6.42,2025-12-31,0.780433,-0.0258,0.4386,-0.259,1525.4,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,sì,CNE0000005V7
+720,Telkom SA SOC Ltd,TKG,TKG.JO,Johannesburg,Sudafrica,ZAc,5901.0,2025-12-31,3.034885,0.7573,0.3763,-0.2143,1499.4,prezzo × azioni,2025-09-30,Media e intrattenimento,Asia ed emergenti,no (simulati),ZAE000044897
+721,Savola Group Company,2050,2050.SR,Saudi,Arabia Saudita,SAR,21.889999,2025-12-31,4.967943,-0.3919,0.3231,-0.4575,1481.7,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,no (simulati),SA0007879162
+722,"Grandjoy Holdings Group Co., Ltd.",000031,000031.SZ,Shenzhen,Cina,CNY,2.82,2025-12-31,0.342807,-0.0631,0.3474,-0.1993,1469.4,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,sì,CNE000000BJ5
+723,"Central China Land Media CO.,LTD",000719,000719.SZ,Shenzhen,Cina,CNY,11.76,2025-12-31,1.429579,0.0352,0.2234,-0.148,1462.8,prezzo × azioni,2025-12-31,Media e intrattenimento,Asia ed emergenti,sì,CNE0000000X4
+724,"Hankook & Company Co., Ltd.",000240,000240.KS,KSE,Corea del Sud,KRW,26150.0,2025-12-30,15.410091,0.5529,0.4167,-0.2229,1459.6,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,sì,KR7000240002
+725,"BBMG Jidong Cement Group Co., Ltd",000401,000401.SZ,Shenzhen,Cina,CNY,4.41,2025-12-31,0.536092,-0.137,0.2629,-0.2161,1425.0,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,sì,CNE000000GX5
+726,AG Anadolu Grubu Holding A.S.,AGHOL,AGHOL.IS,Istanbul,Turchia,TRY,28.700001,2025-12-31,0.568499,-0.1183,0.3578,-0.2884,1384.5,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,no (simulati),TRAYAZIC91Q6
+727,ARYZTA AG,ARYN,ARYN.SW,Swiss,Svizzera,CHF,51.549999,2025-12-30,55.346789,-0.19,0.2877,-0.44,1374.0,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,no (simulati),CH1425684714
+728,ACME Solar Holdings Limited,ACMESOLAR,ACMESOLAR.BO,BSE,India,INR,237.649994,2025-12-31,2.250548,0.0055,0.4493,-0.3404,1361.8,prezzo × azioni,2025-03-31,Servizi pubblici,Asia ed emergenti,sì,INE622W01025
+729,"Wedge Industrial Co.,Ltd.",000534,000534.SZ,Shenzhen,Cina,CNY,22.0,2025-12-31,2.674382,0.7323,0.4949,-0.2351,1348.2,prezzo × azioni,2025-06-30,Servizi pubblici,Asia ed emergenti,no (simulati),CNE0000004T4
+730,Avio S.p.A.,AVIO,AVIO.MI,Milan,Italia,EUR,29.35,2025-12-30,29.35,1.0964,0.628,-0.63,1344.3,prezzo × azioni,2025-12-31,Aerospazio e difesa,Europa,sì,
+731,"CSG Holding Co., Ltd.",000012,000012.SZ,Shenzhen,Cina,CNY,4.43,2025-12-31,0.538523,-0.1381,0.1857,-0.1381,1263.6,Yahoo al 31/12/2025,2025-12-31,Costruzioni e materiali,Asia ed emergenti,sì,CNE0000002R2
+732,Nihon M&A Center Holdings Inc.,2127,2127.T,Tokyo,Giappone,JPY,720.799988,2025-12-30,3.915476,0.1035,0.3793,-0.3195,1242.5,prezzo × azioni,2025-12-31,Banche,Giappone,sì,JP3689050007
+733,Brava Energia S.A.,BRAV3,BRAV3.SA,São Paulo,Brasile,BRL,16.84,2025-12-30,2.616369,-0.2806,0.4398,-0.475,1215.4,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,no (simulati),BRBRAVACNOR3
+734,FAWER Automotive Parts Limited Company,000030,000030.SZ,Shenzhen,Cina,CNY,5.74,2025-12-31,0.697771,0.1526,0.2632,-0.2186,1200.0,prezzo × azioni,2025-12-31,Automobili,Asia ed emergenti,sì,CNE0000009Z0
+735,"Great Wall Enterprise Co., Ltd.",1210,1210.TW,Taiwan,Taiwan,TWD,50.900002,2025-12-31,1.386497,-0.0078,0.2371,-0.2356,1160.1,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,TW0001210003
+736,"Shenzhen Kingkey Smart Agriculture Times Co.,Ltd",000048,000048.SZ,Shenzhen,Cina,CNY,17.6,2025-12-31,2.139506,0.0197,0.3865,-0.3221,1134.5,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,sì,CNE000000HD5
+737,CJ Logistics Corporation,000120,000120.KS,KSE,Corea del Sud,KRW,94600.0,2025-12-30,55.747404,0.1249,0.3068,-0.2041,1111.9,prezzo × azioni,2025-12-31,Trasporti e logistica,Asia ed emergenti,sì,KR7000120006
+738,"Shenzhen Neptunus Bioengineering Co., Ltd.",000078,000078.SZ,Shenzhen,Cina,CNY,3.46,2025-12-31,0.420607,0.384,0.4522,-0.3459,1106.7,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,CNE000000X95
+739,"Atresmedia Corporación de Medios de Comunicación, S.A.",A3M,A3M.MC,MCE,Spagna,EUR,4.88,2025-12-31,4.88,0.0917,0.2399,-0.2324,1098.9,prezzo × azioni,2025-12-31,Media e intrattenimento,Europa,sì,ES0109427734
+740,Alpargatas S.A.,ALPA3,ALPA3.SA,São Paulo,Brasile,BRL,10.38,2025-12-30,1.612703,0.6878,0.5379,-0.2458,1093.2,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,no (simulati),BRALPAACNOR0
+741,Umios Corporation,1333,1333.T,Tokyo,Giappone,JPY,1286.0,2025-12-30,6.985714,0.2703,0.2242,-0.1127,1056.1,prezzo × azioni,2025-12-31,Alimentare e bevande,Giappone,sì,JP3876600002
+742,4DMedical Limited,4DX,4DX.AX,ASX,Australia,AUD,3.93,2025-12-30,2.235368,7.1875,1.238,-0.6198,1040.7,prezzo × azioni,2025-06-30,Farmaceutica,Asia ed emergenti,no (simulati),AU0000095416
+743,"North Huajin Chemical Industries Co.,Ltd",000059,000059.SZ,Shenzhen,Cina,CNY,5.35,2025-12-31,0.650361,0.153,0.3256,-0.1401,1040.2,prezzo × azioni,2025-12-31,Chimica,Asia ed emergenti,sì,CNE000000NY9
+744,Sakata Seed Corporation,1377,1377.T,Tokyo,Giappone,JPY,4270.0,2025-12-30,23.195176,0.2467,0.2245,-0.163,1003.4,prezzo × azioni,2025-11-30,Alimentare e bevande,Giappone,sì,JP3315000004
+745,Braskem S.A.,BRKM3,BRKM3.SA,São Paulo,Brasile,BRL,8.09,2025-12-30,1.256914,-0.3486,0.4619,-0.5253,1001.7,prezzo × azioni,2025-12-31,Chimica,Asia ed emergenti,no (simulati),BRBRKMACNOR1
+746,"Shenzhen Cereals Holdings Co.,Ltd.",000019,000019.SZ,Shenzhen,Cina,CNY,6.95,2025-12-31,0.844862,0.0643,0.2585,-0.1377,973.7,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,CNE000000354
+747,"Nittetsu Mining Co., Ltd.",1515,1515.T,Tokyo,Giappone,JPY,2237.0,2025-12-30,12.151665,1.4967,0.4698,-0.3081,956.1,prezzo × azioni,2025-12-31,Siderurgia e metalli,Giappone,sì,JP3680800004
+748,"China High-Speed Railway Technology Co., Ltd.",000008,000008.SZ,Shenzhen,Cina,CNY,2.85,2025-12-31,0.346454,0.0035,0.3623,-0.1593,941.1,prezzo × azioni,2025-12-31,Trasporti e logistica,Asia ed emergenti,sì,CNE0000001C6
+749,"Shenzhen Tellus Holding Co., Ltd.",000025,000025.SZ,Shenzhen,Cina,CNY,17.459999,2025-12-31,2.122487,0.0705,0.3837,-0.2095,914.9,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,sì,CNE0000008N8
+750,"ALPEK, S.A.B. de C.V.",ALPEKA,ALPEKA.MX,Mexico,Messico,MXN,9.24,2025-12-31,0.437541,-0.2865,0.4325,-0.504,912.1,prezzo × azioni,2025-12-31,Chimica,Nord America,no (simulati),MX01AL0C0004
+751,AcadeMedia AB (publ),ACAD,ACAD.ST,Stockholm,Svezia,SEK,98.900002,2025-12-30,9.139214,0.448,0.2852,-0.116,904.9,prezzo × azioni,2025-12-31,Distribuzione,Europa,no (simulati),SE0007897079
+752,Banco ABC Brasil S.A.,ABCB4,ABCB4.SA,São Paulo,Brasile,BRL,23.700001,2025-12-30,3.682183,0.2357,0.2267,-0.0907,891.3,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,no (simulati),BRABCBACNPR4
+753,Aditya Birla Fashion and Retail Limited,ABFRL,ABFRL.BO,BSE,India,INR,76.75,2025-12-31,0.726823,-0.7277,1.1626,-0.7465,883.7,prezzo × azioni,2025-03-31,Lusso e moda,Asia ed emergenti,sì,INE647O01011
+754,"Hongmian Zhihui Science and Technology Innovation Co.,Ltd.Guangzhou",000523,000523.SZ,Shenzhen,Cina,CNY,3.77,2025-12-31,0.458292,0.2361,0.3735,-0.1608,841.2,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,CNE0000005T1
+755,"Zhejiang Int'l Group Co.,Ltd.",000411,000411.SZ,Shenzhen,Cina,CNY,12.75,2025-12-31,1.549926,0.2154,0.3151,-0.1238,838.2,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,CNE0000008D9
+756,LINK Mobility Group Holding ASA,LINK,LINK.OL,Oslo,Norvegia,NOK,33.900002,2025-12-30,2.862451,0.4214,0.3429,-0.23,836.3,prezzo × azioni,2025-12-31,Media e intrattenimento,Europa,no (simulati),NO0010894231
+757,Aussie Broadband Limited,ABB,ABB.AX,ASX,Australia,AUD,5.04,2025-12-30,2.866731,0.4237,0.3469,-0.2135,821.9,prezzo × azioni,2025-06-30,Media e intrattenimento,Asia ed emergenti,no (simulati),AU0000106643
+758,Guangzhou Hengyun Enterprises Holding Ltd,000531,000531.SZ,Shenzhen,Cina,CNY,6.41,2025-12-31,0.779218,0.1487,0.3192,-0.1667,811.5,prezzo × azioni,2025-12-31,Servizi pubblici,Asia ed emergenti,sì,CNE000000DS2
+759,"FIYTA Precision Technology Co., Ltd.",000026,000026.SZ,Shenzhen,Cina,CNY,16.379999,2025-12-31,1.991199,0.5903,0.5054,-0.3185,808.0,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,sì,CNE000000875
+760,"Hubei Radio & Television Information Network Co., Ltd.",000665,000665.SZ,Shenzhen,Cina,CNY,5.82,2025-12-31,0.707496,0.3138,0.5485,-0.4231,804.5,prezzo × azioni,2025-12-31,Media e intrattenimento,Asia ed emergenti,sì,CNE0000000W6
+761,"GAON CABLE Co., Ltd.",000500,000500.KS,KSE,Corea del Sud,KRW,45777.777344,2025-12-30,26.976662,0.3849,0.6316,-0.4838,803.3,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,KR7000500009
+762,A.G. BARR p.l.c.,BAG,BAG.L,LSE,Regno Unito,GBp,624.0,2025-12-31,7.151043,0.023,0.1918,-0.1238,793.2,prezzo × azioni,2025-07-31,Alimentare e bevande,Regno Unito,no (simulati),GB00B6XZKY75
+763,Shanxi Blue Flame Holding Company Limited,000968,000968.SZ,Shenzhen,Cina,CNY,6.61,2025-12-31,0.80353,0.0185,0.2818,-0.216,777.4,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,sì,CNE0000012V3
+764,Allergy Therapeutics plc,AGY,AGY.L,LSE,Regno Unito,GBp,11.0,2025-12-31,0.12606,0.6176,0.6213,-0.3182,774.2,prezzo × azioni,2025-12-31,Farmaceutica,Regno Unito,no (simulati),GB00B02LCQ05
+765,"Zhang Jia Jie Tourism Group Co., Ltd",000430,000430.SZ,Shenzhen,Cina,CNY,7.76,2025-12-31,0.943327,0.2456,0.4128,-0.2752,763.8,prezzo × azioni,2025-12-31,Servizi pubblici,Asia ed emergenti,sì,CNE000000F22
+766,"HITEJINRO Co., Ltd.",000080,000080.KS,KSE,Corea del Sud,KRW,18440.0,2025-12-30,10.866619,-0.0524,0.1456,-0.1618,758.3,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,KR7000080002
+767,"Shenzhen Textile (Holdings) Co., Ltd.",000045,000045.SZ,Shenzhen,Cina,CNY,12.22,2025-12-31,1.485498,0.1773,0.4212,-0.2825,752.4,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,CNE000000H61
+768,"Hainan Jingliang Holdings Co., Ltd.",000505,000505.SZ,Shenzhen,Cina,CNY,8.51,2025-12-31,1.0345,0.4066,0.4658,-0.233,752.0,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,CNE0000002X0
+769,PT Astra Agro Lestari Tbk,AALI,AALI.JK,Jakarta,Indonesia,IDR,7375.0,2025-12-30,0.375493,0.1992,0.2742,-0.1538,722.7,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,no (simulati),ID1000066004
+770,Alfa Financial Software Holdings PLC,ALFA,ALFA.L,LSE,Regno Unito,GBp,212.0,2025-12-31,2.429521,-0.023,0.2713,-0.1992,719.4,prezzo × azioni,2025-12-31,Software e internet,Regno Unito,no (simulati),GB00BDHXPG30
+771,"Zhuhai Huajin Capital Co., Ltd.",000532,000532.SZ,Shenzhen,Cina,CNY,16.120001,2025-12-31,1.959593,0.2574,0.3966,-0.3109,675.5,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,sì,CNE0000002C4
+772,Huawen Media Group,000793,000793.SZ,Shenzhen,Cina,CNY,2.78,2025-12-31,0.337945,0.0373,0.4383,-0.3269,675.0,prezzo × azioni,2025-12-31,Media e intrattenimento,Asia ed emergenti,sì,CNE0000002L5
+773,"Shenzhen Guangju Energy Co., Ltd.",000096,000096.SZ,Shenzhen,Cina,CNY,10.27,2025-12-31,1.24845,-0.1384,0.4448,-0.5453,659.2,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,sì,CNE000001410
+774,ShenZhen Properties & Resources Development (Group) Ltd.,000011,000011.SZ,Shenzhen,Cina,CNY,9.01,2025-12-31,1.095281,0.0452,0.3606,-0.2159,652.8,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,sì,CNE000000248
+775,Aarti Pharmalabs Limited,AARTIPHARM,AARTIPHARM.BO,BSE,India,INR,752.299988,2025-12-31,7.124289,0.0755,0.4546,-0.2943,645.8,prezzo × azioni,2025-09-30,Farmaceutica,Asia ed emergenti,sì,INE0LRU01027
+776,2G Energy AG,2GB,2GB.DE,XETRA,Germania,EUR,35.299999,2025-12-30,35.299999,0.3925,0.4762,-0.3517,633.3,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,DE000A0HL8N9
+777,AEP Plantations Plc,AEP,AEP.L,LSE,Regno Unito,GBp,137.0,2025-12-31,1.570021,1.1609,0.3099,-0.0929,608.9,prezzo × azioni,2025-12-31,Alimentare e bevande,Regno Unito,no (simulati),GB00BWPD4D87
+778,"Toyobo Co., Ltd.",3101,3101.T,Tokyo,Giappone,JPY,1260.0,2025-12-30,6.844478,0.3043,0.2229,-0.1873,604.0,prezzo × azioni,2025-12-31,Chimica,Giappone,sì,JP3619800000
+779,"Xueda (Xiamen) Education Technology Group Co., Ltd",000526,000526.SZ,Shenzhen,Cina,CNY,39.220001,2025-12-31,4.767694,-0.098,0.3489,-0.3601,581.0,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,CNE0000005F0
+780,K&O Energy Group Inc.,1663,1663.T,Tokyo,Giappone,JPY,1910.0,2025-12-30,10.37536,0.0106,0.3557,-0.3638,553.9,prezzo × azioni,2025-12-31,Energia,Giappone,sì,JP3277020008
+781,Bahnhof AB (publ),BAHN-B,BAHN-B.ST,Stockholm,Svezia,SEK,54.5,2025-12-30,5.03627,0.0225,0.2715,-0.1804,541.7,prezzo × azioni,2025-12-31,Media e intrattenimento,Europa,no (simulati),SE0010442418
+782,Advanced Medical Solutions Group plc,AMS,AMS.L,LSE,Regno Unito,GBp,218.0,2025-12-31,2.498281,0.1044,0.4126,-0.2549,540.6,prezzo × azioni,2025-12-31,Farmaceutica,Regno Unito,no (simulati),GB0004536594
+783,"Corporación Actinver, S. A. B. de C. V.",ACTINVRB,ACTINVRB.MX,Mexico,Messico,MXN,21.75,2025-12-31,1.029927,0.2185,0.2235,-0.0732,539.5,prezzo × azioni,2025-12-31,Banche,Nord America,no (simulati),MX01AC0Q0007
+784,"Shandong Shengli Co., Ltd.",000407,000407.SZ,Shenzhen,Cina,CNY,5.02,2025-12-31,0.610245,0.5258,0.4431,-0.3284,537.1,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,sì,CNE000000G88
+785,"Zhejiang Huamei Holding CO., LTD.",000607,000607.SZ,Shenzhen,Cina,CNY,4.15,2025-12-31,0.504486,0.137,0.4344,-0.3833,513.4,prezzo × azioni,2025-12-31,Media e intrattenimento,Asia ed emergenti,sì,CNE000000D65
+786,Grape King Bio Ltd,1707,1707.TW,Taiwan,Taiwan,TWD,126.5,2025-12-31,3.445812,-0.1395,0.1883,-0.1921,510.5,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,TW0001707008
+787,"Ollamani, S.A.B.",AGUILASCPO,AGUILASCPO.MX,Mexico,Messico,MXN,73.809998,2025-12-31,3.495123,1.0809,0.299,-0.1481,508.8,prezzo × azioni,2025-12-31,Distribuzione,Nord America,no (simulati),
+788,"Shenzhen Ecobeauty Co., Ltd.",000010,000010.SZ,Shenzhen,Cina,CNY,3.53,2025-12-31,0.429117,0.3026,0.5118,-0.3353,493.3,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,sì,CNE000000156
+789,Australian Agricultural Company Limited,AAC,AAC.AX,ASX,Australia,AUD,1.445,2025-12-30,0.82191,0.0321,0.2575,-0.1433,490.9,prezzo × azioni,2025-03-31,Alimentare e bevande,Asia ed emergenti,no (simulati),AU000000AAC9
+790,"Shenzhen Quanxinhao Co., Ltd.",000007,000007.SZ,Shenzhen,Cina,CNY,11.44,2025-12-31,1.390679,0.6296,0.3968,-0.2531,481.8,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,sì,CNE0000000P0
+791,Shenzhen China Bicycle Company (Holdings) Limited,000017,000017.SZ,Shenzhen,Cina,CNY,7.87,2025-12-31,0.956699,0.2335,0.4616,-0.2102,471.1,Yahoo al 31/12/2025,2025-06-30,Distribuzione,Asia ed emergenti,no (simulati),CNE0000002Q4
+792,"DL Holdings CO., LTD.",000210,000210.KS,KSE,Corea del Sud,KRW,37650.0,2025-12-30,22.186995,0.2126,0.453,-0.3527,464.4,prezzo × azioni,2025-12-31,Chimica,Asia ed emergenti,sì,KR7000210005
+793,"Guangdong Guanghong Holdings Co.,Ltd.",000529,000529.SZ,Shenzhen,Cina,CNY,6.01,2025-12-31,0.730593,0.0186,0.2682,-0.109,426.5,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,CNE0000002B6
+794,Middle East Company for Manufacturing and Producing Paper,1202,1202.SR,Saudi,Arabia Saudita,SAR,21.26,2025-12-31,4.824965,-0.4215,0.3217,-0.4686,418.2,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,no (simulati),SA13Q050IP16
+795,"Beijing Jingxi Culture & Tourism Co.,Ltd",000802,000802.SZ,Shenzhen,Cina,CNY,4.55,2025-12-31,0.553111,-0.3601,0.4575,-0.4731,396.0,prezzo × azioni,2025-12-31,Media e intrattenimento,Asia ed emergenti,sì,CNE000000TW0
+796,"Shahe Industrial Co., Ltd.",000014,000014.SZ,Shenzhen,Cina,CNY,13.45,2025-12-31,1.63502,0.2306,0.5289,-0.4322,395.8,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,sì,CNE0000003G3
+797,"Shenzhen Nanshan Power Co., Ltd.",000037,000037.SZ,Shenzhen,Cina,CNY,8.28,2025-12-31,1.00654,0.0602,0.3593,-0.2178,395.3,Yahoo al 31/12/2025,2025-12-31,Servizi pubblici,Asia ed emergenti,sì,CNE000000G62
+798,Asia Aviation Public Company Limited,AAV,AAV.BK,Thailand,Thailandia,THB,1.12,2025-12-30,0.030093,-0.5725,0.4619,-0.6336,386.7,prezzo × azioni,2025-12-31,Trasporti e logistica,Asia ed emergenti,no (simulati),TH3437010004
+799,Avantel Limited,AVANTEL,AVANTEL.BO,BSE,India,INR,157.600006,2025-12-31,1.492474,-0.0128,0.5716,-0.3636,384.4,prezzo × azioni,2025-03-31,Media e intrattenimento,Asia ed emergenti,sì,INE005B01027
+800,"Hanwha General Insurance Co., Ltd.",000370,000370.KS,KSE,Corea del Sud,KRW,5560.0,2025-12-30,3.276486,0.3797,0.4417,-0.3609,378.8,prezzo × azioni,2025-12-31,Assicurazioni,Asia ed emergenti,no (simulati),KR7000370007
+801,"SINOPEC Shandong Taishan Pectroleum Co., Ltd.",000554,000554.SZ,Shenzhen,Cina,CNY,6.48,2025-12-31,0.787727,0.1153,0.3496,-0.243,378.7,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,sì,CNE000000669
+802,Borussia Dortmund GmbH & Co. Kommanditgesellschaft auf Aktien,BVB,BVB.DE,XETRA,Germania,EUR,3.3,2025-12-30,3.3,0.0312,0.2328,-0.2098,364.2,prezzo × azioni,2025-12-31,Media e intrattenimento,Europa,sì,DE0005493092
+803,Ajmera Realty & Infra India Limited,AJMERA,AJMERA.BO,BSE,India,INR,192.070007,2025-12-31,1.818905,-0.1507,0.4265,-0.3709,358.0,prezzo × azioni,2025-09-30,Immobiliare,Asia ed emergenti,sì,INE298G01035
+804,PT Bali Towerindo Sentra Tbk,BALI,BALI.JK,Jakarta,Indonesia,IDR,1780.0,2025-12-30,0.090628,0.0201,0.7099,-0.3829,356.6,prezzo × azioni,2025-12-31,Telecomunicazioni,Asia ed emergenti,no (simulati),ID1000135106
+805,Aarti Drugs Limited,AARTIDRUGS,AARTIDRUGS.BO,BSE,India,INR,411.850006,2025-12-31,3.900224,-0.0961,0.4267,-0.3056,356.0,prezzo × azioni,2025-09-30,Farmaceutica,Asia ed emergenti,sì,INE767A01016
+806,"Anhui Fengyuan Pharmaceutical Co., Ltd.",000153,000153.SZ,Shenzhen,Cina,CNY,6.27,2025-12-31,0.762199,0.0381,0.2852,-0.1813,354.2,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,CNE0000014X5
+807,Cloudberry Clean Energy ASA,CLOUD,CLOUD.OL,Oslo,Norvegia,NOK,12.86,2025-12-30,1.085873,0.0206,0.28,-0.1698,345.4,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,no (simulati),NO0010876642
+808,"Hankook Shell Oil Co.,Ltd.",002960,002960.KS,KSE,Corea del Sud,KRW,450500.0,2025-12-30,265.47786,0.4167,0.2267,-0.1704,345.1,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,sì,KR7002960003
+809,Hokuto Corporation,1379,1379.T,Tokyo,Giappone,JPY,2024.0,2025-12-30,10.994622,0.1226,0.1556,-0.1092,344.4,prezzo × azioni,2025-12-31,Alimentare e bevande,Giappone,sì,JP3843250006
+810,"Hua Yu Lien Development Co., Ltd",1436,1436.TW,Taiwan,Taiwan,TWD,64.900002,2025-12-31,1.767851,-0.3188,0.3649,-0.476,343.2,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,sì,TW0001436004
+811,AB Dynamics plc,ABDP,ABDP.L,LSE,Regno Unito,GBp,1290.0,2025-12-31,14.783406,-0.3351,0.2798,-0.3683,338.4,prezzo × azioni,2025-08-31,Costruzioni e materiali,Regno Unito,no (simulati),GB00B9GQVG73
+812,AutoCanada Inc.,ACQ,ACQ.TO,Toronto,Canada,CAD,23.65,2025-12-31,14.700398,0.3309,0.4608,-0.4609,338.4,prezzo × azioni,2025-12-31,Automobili,Nord America,no (simulati),CA05277B2093
+813,"Shenzhen Zhongheng Huafa Co., Ltd.",000020,000020.SZ,Shenzhen,Cina,CNY,13.87,2025-12-31,1.686076,0.1185,0.4206,-0.2511,338.2,Yahoo al 31/12/2025,2025-06-30,Costruzioni e materiali,Asia ed emergenti,no (simulati),CNE0000002V4
+814,"Xinjiang International Industry Co.,Ltd",000159,000159.SZ,Shenzhen,Cina,CNY,5.78,2025-12-31,0.702633,-0.0103,0.3594,-0.2228,337.7,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,sì,CNE0000014R7
+815,"J&V Energy Technology Co., Ltd.",6869,6869.TW,Taiwan,Taiwan,TWD,91.400002,2025-12-31,2.489701,-0.4732,0.4326,-0.5005,332.0,prezzo × azioni,2025-12-31,Servizi pubblici,Asia ed emergenti,sì,TW0006869001
+816,West Holdings Corporation,1407,1407.T,Tokyo,Giappone,JPY,1528.0,2025-12-30,8.300288,-0.1637,0.4561,-0.3307,329.2,prezzo × azioni,2025-11-30,Costruzioni e materiali,Giappone,sì,JP3154750008
+817,ABC arbitrage SA,ABCA,ABCA.PA,Paris,Francia,EUR,5.4,2025-12-31,5.4,0.1146,0.1738,-0.1969,321.0,prezzo × azioni,2025-12-31,Banche,Europa,sì,FR0004040608
+818,"grems,Inc.",3150,3150.T,Tokyo,Giappone,JPY,2527.0,2025-12-30,13.726981,0.006,0.2813,-0.2149,317.1,prezzo × azioni,2025-12-31,Servizi pubblici,Giappone,sì,JP3952860009
+819,"Lotte Non - Life Insurance Co., Ltd.",000400,000400.KS,KSE,Corea del Sud,KRW,1739.0,2025-12-30,1.024786,-0.137,0.3762,-0.2826,316.8,prezzo × azioni,2025-12-31,Assicurazioni,Asia ed emergenti,sì,KR7000400002
+820,"Kyokuyo Co., Ltd.",1301,1301.T,Tokyo,Giappone,JPY,4875.0,2025-12-30,26.481612,0.189,0.2555,-0.1723,314.5,prezzo × azioni,2025-12-31,Alimentare e bevande,Giappone,sì,JP3257200000
+821,63 moons technologies limited,63MOONS,63MOONS.BO,BSE,India,INR,719.150024,2025-12-31,6.810359,-0.2422,0.4848,-0.3535,313.8,prezzo × azioni,2025-03-31,Software e internet,Asia ed emergenti,no (simulati),INE111B01023
+822,BrasilAgro - Companhia Brasileira de Propriedades Agrícolas,AGRO3,AGRO3.SA,São Paulo,Brasile,BRL,19.940001,2025-12-30,3.098005,-0.1038,0.203,-0.1935,308.6,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,no (simulati),BRAGROACNOR7
+823,"Soracom, Inc.",147A,147A.T,Tokyo,Giappone,JPY,1239.0,2025-12-30,6.730404,0.1192,0.5218,-0.4942,305.1,prezzo × azioni,2025-12-31,Media e intrattenimento,Giappone,sì,JP3436240000
+824,AGI Infra Limited,AGIIL,AGIIL.BO,BSE,India,INR,262.649994,2025-12-31,2.487298,0.4742,0.5205,-0.2462,303.9,prezzo × azioni,2025-09-30,Immobiliare,Asia ed emergenti,sì,INE976R01033
+825,Bemobi Mobile Tech S.A.,BMOB3,BMOB3.SA,São Paulo,Brasile,BRL,22.709999,2025-12-30,3.52837,0.7349,0.3045,-0.1806,297.7,prezzo × azioni,2025-12-31,Telecomunicazioni,Asia ed emergenti,no (simulati),BRBMOBACNOR7
+826,"Chunil Express Co., Ltd.",000650,000650.KS,KSE,Corea del Sud,KRW,352500.0,2025-12-30,207.72685,8.751,0.9753,-0.3945,296.4,prezzo × azioni,2025-12-31,Trasporti e logistica,Asia ed emergenti,sì,KR7000650002
+827,"Mitsui Matsushima Holdings Co., Ltd.",1518,1518.T,Tokyo,Giappone,JPY,1412.0,2025-12-30,7.670161,0.6267,0.4423,-0.2836,294.7,prezzo × azioni,2025-12-31,Energia,Giappone,sì,JP3894000003
+828,"TAUNS Laboratories,Inc.",197A,197A.T,Tokyo,Giappone,JPY,509.0,2025-12-30,2.764952,-0.1573,0.347,-0.3917,294.2,prezzo × azioni,2025-12-31,Farmaceutica,Giappone,sì,JP3452250008
+829,"Standard Chemical & Pharmaceutical Co., Ltd.",1720,1720.TW,Taiwan,Taiwan,TWD,53.545452,2025-12-31,1.458558,-0.0407,0.219,-0.1864,286.7,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,TW0001720001
+830,Ashtead Technology Holdings Plc,AT,AT.L,LSE,Regno Unito,GBp,310.0,2025-12-31,3.552601,-0.458,0.505,-0.5222,285.6,prezzo × azioni,2025-12-31,Servizi pubblici,Regno Unito,no (simulati),GB00BLH42507
+831,Circus SE,CA1,CA1.DE,XETRA,Germania,EUR,12.0,2025-12-30,12.0,-0.5238,0.7826,-0.542,285.5,prezzo × azioni,2025-06-30,Media e intrattenimento,Europa,no (simulati),DE000A2YN355
+832,Al Hassan Ghazi Ibrahim Shaker Company,1214,1214.SR,Saudi,Arabia Saudita,SAR,17.733334,2025-12-31,4.024586,-0.2089,0.3394,-0.3576,268.0,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,no (simulati),SA12I0OGIV12
+833,TASUKI Holdings Inc.,166A,166A.T,Tokyo,Giappone,JPY,799.0,2025-12-30,4.340268,-0.0244,0.3806,-0.3091,267.5,prezzo × azioni,2025-12-31,Immobiliare,Giappone,sì,JP3464310006
+834,Agilyx ASA,AGLX,AGLX.OL,Oslo,Norvegia,NOK,24.5,2025-12-30,2.068733,-0.3213,0.3895,-0.4787,259.6,prezzo × azioni,2025-12-31,Chimica,Europa,no (simulati),NO0010872468
+835,"Samchully Co.,Ltd",004690,004690.KS,KSE,Corea del Sud,KRW,128500.0,2025-12-30,75.724539,0.4487,0.3142,-0.3029,259.3,prezzo × azioni,2025-12-31,Servizi pubblici,Asia ed emergenti,no (simulati),KR7004690004
+836,Ve Wong Corporation,1203,1203.TW,Taiwan,Taiwan,TWD,39.75,2025-12-31,1.082775,0.0179,0.203,-0.1318,257.4,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,TW0001203008
+837,Samyang Holdings Corporation,000070,000070.KS,KSE,Corea del Sud,KRW,57600.0,2025-12-30,33.943451,-0.199,0.7075,-0.5079,237.3,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,sì,KR7000070003
+838,Amadeus FiRe AG,AAD,AAD.DE,XETRA,Germania,EUR,43.25,2025-12-30,43.25,-0.4383,0.3548,-0.5552,234.9,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,sì,DE0005093108
+839,Deutsche Rohstoff AG,DR0,DR0.DE,XETRA,Germania,EUR,49.0,2025-12-30,49.0,0.4454,0.4133,-0.2644,234.7,prezzo × azioni,2025-12-31,Energia,Europa,sì,DE000A0XYG76
+840,"Yukiguni Factory Co., Ltd.",1375,1375.T,Tokyo,Giappone,JPY,1052.0,2025-12-30,5.714596,-0.0286,0.1733,-0.1929,227.9,prezzo × azioni,2025-12-31,Alimentare e bevande,Giappone,sì,JP3947010009
+841,A-1 Limited,A1L,A1L.BO,BSE,India,INR,50.740002,2025-12-31,0.480508,4.0431,0.5373,-0.4354,221.0,prezzo × azioni,2025-09-30,Chimica,Asia ed emergenti,sì,INE911Z01025
+842,Akwel SA,AKW,AKW.PA,Paris,Francia,EUR,8.2,2025-12-31,8.2,-0.0036,0.3518,-0.3081,217.7,prezzo × azioni,2025-12-31,Distribuzione,Europa,sì,FR0000053027
+843,ADF Foods Limited,ADFFOODS,ADFFOODS.BO,BSE,India,INR,203.949997,2025-12-31,1.931409,-0.3091,0.4323,-0.331,212.2,prezzo × azioni,2025-09-30,Alimentare e bevande,Asia ed emergenti,sì,INE982B01027
+844,Wei Chuan Foods Corporation,1201,1201.TW,Taiwan,Taiwan,TWD,14.55,2025-12-31,0.396336,-0.1872,0.195,-0.1983,200.6,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,TW0001201002
+845,"Remixpoint, Inc.",3825,3825.T,Tokyo,Giappone,JPY,252.0,2025-12-30,1.368896,-0.2981,0.9357,-0.7122,198.5,prezzo × azioni,2025-09-30,Servizi pubblici,Giappone,sì,JP3974900007
+846,AEW UK REIT Ord,AEWU,AEWU.L,LSE,Regno Unito,GBp,107.800003,2025-12-31,1.235389,0.0569,0.1737,-0.08,195.7,prezzo × azioni,2025-09-30,Immobiliare,Regno Unito,no (simulati),GB00BWD24154
+847,Ânima Holding S.A.,ANIM3,ANIM3.SA,São Paulo,Brasile,BRL,3.31,2025-12-30,0.514263,1.1083,0.6864,-0.3378,194.3,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,no (simulati),BRANIMACNOR6
+848,"SGC Energy Co.,Ltd.",005090,005090.KS,KSE,Corea del Sud,KRW,21950.0,2025-12-30,12.935048,-0.1022,0.1931,-0.1981,186.4,prezzo × azioni,2025-12-31,Servizi pubblici,Asia ed emergenti,sì,KR7005090006
+849,"Hi-Lai Foods Co., Ltd",1268,1268.TWO,Taipei Exchange,Taiwan,TWD,159.5,2025-12-31,4.34472,0.0705,0.2083,-0.2078,183.5,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,sì,TW0001268001
+850,"SAMWHA CAPACITOR Co.,LTD",001820,001820.KS,KSE,Corea del Sud,KRW,29250.0,2025-12-30,17.236909,0.0894,0.4285,-0.316,179.2,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,KR7001820000
+851,"VRAIN Solution, Inc.",135A,135A.T,Tokyo,Giappone,JPY,3170.0,2025-12-30,17.219838,0.56,0.7365,-0.3752,176.2,prezzo × azioni,2025-11-30,Software e internet,Giappone,sì,JP3159870009
+852,Hawesko Holding SE,HAW,HAW.DE,XETRA,Germania,EUR,19.25,2025-12-30,19.25,-0.2681,0.3006,-0.3374,172.9,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,sì,DE0006042708
+853,"Sumiseki Holdings,Inc.",1514,1514.T,Tokyo,Giappone,JPY,530.0,2025-12-30,2.879027,-0.3108,0.4259,-0.3863,172.2,prezzo × azioni,2025-12-31,Chimica,Giappone,sì,JP3400750000
+854,Adel Kalemcilik Ticaret ve Sanayi A.S.,ADEL,ADEL.IS,Istanbul,Turchia,TRY,33.0,2025-12-31,0.653675,-0.0149,0.5583,-0.3601,169.9,prezzo × azioni,2025-12-31,Automobili,Asia ed emergenti,no (simulati),TRAADELW91T1
+855,"Allpark Empreendimentos, Participações e Serviços S.A.",ALPK3,ALPK3.SA,São Paulo,Brasile,BRL,4.81,2025-12-30,0.747312,1.1473,0.4627,-0.2301,162.8,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,no (simulati),BRALPKACNOR9
+856,H&R GmbH & Co. KGaA,2HRA,2HRA.DE,XETRA,Germania,EUR,4.29,2025-12-30,4.29,0.2187,0.405,-0.2227,159.7,prezzo × azioni,2025-12-31,Chimica,Europa,sì,DE000A2E4T77
+857,"St.Shine Optical Co.,Ltd.",1565,1565.TWO,Taipei Exchange,Taiwan,TWD,116.0,2025-12-31,3.159796,-0.4112,0.2775,-0.42,159.3,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,TW0001565000
+858,A1 Capital Yatirim Menkul Degerler A.S.,A1CAP,A1CAP.IS,Istanbul,Turchia,TRY,11.8,2025-12-31,0.233738,1.2164,0.5822,-0.2855,157.8,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,no (simulati),TREA1CP00024
+859,Aayush Art and Bullion Limited,AAYUSHBULL,AAYUSHBULL.BO,BSE,India,INR,1065.099976,2025-12-31,10.086508,0.5142,0.1317,-0.0427,154.4,prezzo × azioni,2025-09-30,Distribuzione,Asia ed emergenti,sì,INE777X01017
+860,Daedong Corporation,000490,000490.KS,KSE,Corea del Sud,KRW,9690.0,2025-12-30,5.710279,-0.0281,0.4237,-0.3506,153.2,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,sì,KR7000490003
+861,Great Rich Technologies Limited,900290,900290.KQ,KOSDAQ,Hong Kong,KRW,3110.0,2025-12-30,1.832711,-0.0561,0.5973,-0.5407,153.0,prezzo × azioni,2025-12-31,Chimica,Asia ed emergenti,no (simulati),HK0000307485
+862,"Haesung Industrial Co., Ltd.",034810,034810.KQ,KOSDAQ,Corea del Sud,KRW,8390.0,2025-12-30,4.944194,0.4694,0.3329,-0.1744,146.5,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,sì,KR7034810002
+863,Columbia Works Inc.,146A,146A.T,Tokyo,Giappone,JPY,3450.0,2025-12-30,18.740833,0.8548,0.4562,-0.2543,144.6,prezzo × azioni,2025-12-31,Immobiliare,Giappone,sì,JP3305940003
+864,"DongWon Development Co.,Ltd.",013120,013120.KQ,KOSDAQ,Corea del Sud,KRW,2790.0,2025-12-30,1.644136,0.2,0.336,-0.2857,144.2,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,sì,KR7013120001
+865,"Daehan Flour Mills Co.,Ltd",001130,001130.KS,KSE,Corea del Sud,KRW,14610.0,2025-12-30,8.609615,0.1614,0.1875,-0.2165,142.0,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,KR7001130004
+866,BIONET Corp.,1784,1784.TWO,Taipei Exchange,Taiwan,TWD,103.5,2025-12-31,2.819301,0.2857,0.4545,-0.3067,141.8,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,sì,TW0001784007
+867,accesso Technology Group plc,ACSO,ACSO.L,LSE,Regno Unito,GBp,331.0,2025-12-31,3.793262,-0.3825,0.3286,-0.3926,139.9,prezzo × azioni,2025-12-31,Software e internet,Regno Unito,no (simulati),GB0001771426
+868,"Sun Yad Construction Co.,Ltd",1316,1316.TW,Taiwan,Taiwan,TWD,15.3,2025-12-31,0.416766,-0.0367,0.4651,-0.3419,138.2,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,sì,TW0001316008
+869,Kyungbangco.Ltd,000050,000050.KS,KSE,Corea del Sud,KRW,9360.0,2025-12-30,5.515811,0.4602,0.608,-0.2798,137.4,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,sì,KR7000050005
+870,Antelopus Selan Energy Limited,ANTELOPUS,ANTELOPUS.BO,BSE,India,INR,411.350006,2025-12-31,3.895489,-0.4983,0.5077,-0.5728,137.0,prezzo × azioni,2025-09-30,Energia,Asia ed emergenti,sì,INE818A01017
+871,Arctic Paper S.A.,ATC,ATC.WA,Warsaw,Polonia,PLN,8.18,2025-12-30,1.937929,-0.4947,0.2887,-0.5318,134.3,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,no (simulati),PLARTPR00012
+872,Adocia SA,ADOC,ADOC.PA,Paris,Francia,EUR,6.7,2025-12-31,6.7,0.042,0.889,-0.4938,131.2,prezzo × azioni,2025-12-31,Banche,Europa,no (simulati),FR0011184241
+873,Racing Force S.P.A.,ALRFG,ALRFG.PA,Paris,Italia,EUR,4.8,2025-12-31,4.8,0.2766,0.3596,-0.1441,130.9,prezzo × azioni,2025-12-31,Distribuzione,Europa,sì,IT0005466963
+874,Supercomnet Technologies Berhad,0001,0001.KL,Kuala Lumpur,Malaysia,MYR,0.715,2025-12-31,0.149952,-0.4781,0.3447,-0.4854,128.4,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,no (simulati),MYQ0001OO006
+875,"NOROO Holdings Co., Ltd.",000320,000320.KS,KSE,Corea del Sud,KRW,21050.0,2025-12-30,12.404681,0.6562,0.4585,-0.4193,127.1,prezzo × azioni,2025-12-31,Chimica,Asia ed emergenti,sì,KR7000320002
+876,PT Acset Indonusa Tbk,ACST,ACST.JK,Jakarta,Indonesia,IDR,136.0,2025-12-30,0.006924,0.5281,0.6184,-0.3118,122.4,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,no (simulati),ID1000127509
+877,Arctic Fish Holding AS,AFISH,AFISH.OL,Oslo,Norvegia,NOK,32.0,2025-12-30,2.702018,-0.5556,0.7672,-0.6289,121.6,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,no (simulati),NO0010917719
+878,Allied Tecnologia S.A.,ALLD3,ALLD3.SA,São Paulo,Brasile,BRL,8.16,2025-12-30,1.267789,0.1657,0.4357,-0.2612,120.4,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,no (simulati),BRALLDACNOR3
+879,Alliança Saúde e Participações S.A.,AALR3,AALR3.SA,São Paulo,Brasile,BRL,5.05,2025-12-30,0.7846,-0.3687,0.6682,-0.6935,119.5,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,no (simulati),BRAALRACNOR6
+880,Big Medya Teknoloji Anonim Sirketi,BIGTK,BIGTK.IS,Istanbul,Turchia,TRY,306.5,2025-12-31,6.071255,0.7645,0.7354,-0.4758,118.7,Yahoo al 31/12/2025,2025-12-31,Media e intrattenimento,Asia ed emergenti,no (simulati),TRADOBUR91D3
+881,Answear.com S.A.,ANR,ANR.WA,Warsaw,Polonia,PLN,26.1,2025-12-30,6.183369,-0.0628,0.3218,-0.2145,117.3,prezzo × azioni,2025-12-31,Farmaceutica,Europa,no (simulati),PLANSWR00019
+882,BP Castrol K.K.,5015,5015.T,Tokyo,Giappone,JPY,925.0,2025-12-30,5.024716,0.0706,0.2447,-0.1869,115.4,prezzo × azioni,2025-12-31,Energia,Giappone,sì,JP3836500003
+883,Daldrup & Söhne Aktiengesellschaft,4DS,4DS.DE,XETRA,Germania,EUR,19.25,2025-12-30,19.25,1.0306,0.515,-0.2074,115.2,prezzo × azioni,2025-12-31,Energia,Europa,sì,DE0007830572
+884,3B Blackbio Dx Limited,3BBLACKBIO,3BBLACKBIO.BO,BSE,India,INR,1404.949951,2025-12-31,13.304891,-0.2752,0.5506,-0.4505,114.2,prezzo × azioni,2025-09-30,Farmaceutica,Asia ed emergenti,sì,INE994E01018
+885,"SP Samhwa Co., Ltd.",000390,000390.KS,KSE,Corea del Sud,KRW,7760.0,2025-12-30,4.572937,0.2557,0.3632,-0.1994,113.5,prezzo × azioni,2025-12-31,Chimica,Asia ed emergenti,sì,KR7000390005
+886,Bastei Lübbe AG,BST,BST.DE,XETRA,Germania,EUR,8.36,2025-12-30,8.36,-0.1153,0.2923,-0.2943,109.5,prezzo × azioni,2025-12-31,Media e intrattenimento,Europa,sì,DE000A1X3YY0
+887,clearvise AG,ABO,ABO.DE,XETRA,Germania,EUR,1.45,2025-12-30,1.45,-0.1343,0.2368,-0.2159,109.3,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,sì,DE000A1EWXA4
+888,CSU Digital S.A.,CSUD3,CSUD3.SA,São Paulo,Brasile,BRL,16.950001,2025-12-30,2.63346,0.1173,0.2998,-0.1671,108.9,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,no (simulati),BRCSUDACNOR5
+889,"Michang Oil Ind. Co., Ltd.",003650,003650.KS,KSE,Corea del Sud,KRW,121700.0,2025-12-30,71.717326,0.3567,0.2524,-0.1318,108.5,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,sì,KR7003650009
+890,Blue Ant Media Corporation,BAMI,BAMI.TO,Toronto,Canada,CAD,7.88,2025-12-31,4.898061,0.3586,0.539,-0.449,107.3,prezzo × azioni,2025-11-30,Media e intrattenimento,Nord America,no (simulati),CA09523F1053
+891,Afentra plc,AET,AET.L,LSE,Regno Unito,GBp,41.400002,2025-12-31,0.474444,-0.0941,0.422,-0.3321,105.2,prezzo × azioni,2025-12-31,Energia,Regno Unito,no (simulati),GB00B4X3Q493
+892,ACT Energy Technologies Ltd.,ACX,ACX.TO,Toronto,Canada,CAD,4.99,2025-12-31,3.101691,-0.2323,0.3926,-0.3681,102.8,prezzo × azioni,2025-12-31,Costruzioni e materiali,Nord America,no (simulati),CA14916J1021
+893,"Dongwha Pharm.Co.,Ltd",000020,000020.KS,KSE,Corea del Sud,KRW,6250.0,2025-12-30,3.6831,-0.0079,0.1861,-0.1374,102.1,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,KR7000020008
+894,AB Science S.A.,AB,AB.PA,Paris,Francia,EUR,1.536,2025-12-31,1.536,0.7086,0.8683,-0.467,101.9,prezzo × azioni,2025-12-31,Farmaceutica,Europa,no (simulati),FR0010557264
+895,Freetrailer Group A/S,FREETR,FREETR.ST,Stockholm,Danimarca,DKK,79.0,2025-12-30,10.577193,0.4107,0.431,-0.2591,100.8,prezzo × azioni,2025-12-31,Trasporti e logistica,Europa,no (simulati),DK0061026119
+896,5paisa Capital Limited,5PAISA,5PAISA.BO,BSE,India,INR,335.100006,2025-12-31,3.173401,-0.3062,0.3705,-0.4028,99.1,prezzo × azioni,2025-03-31,Banche,Asia ed emergenti,sì,INE618L01018
+897,Advice IT Infinite Public Company Limited,ADVICE,ADVICE.BK,Thailand,Thailandia,THB,5.85,2025-12-30,0.157182,-0.0168,0.3813,-0.3387,97.5,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,no (simulati),THB865010003
+898,"Kaneko Seeds Co., Ltd.",1376,1376.T,Tokyo,Giappone,JPY,1625.0,2025-12-30,8.827204,0.1801,0.2256,-0.1486,96.8,prezzo × azioni,2025-11-30,Alimentare e bevande,Giappone,sì,JP3216200000
+899,Anpario plc,ANP,ANP.L,LSE,Regno Unito,GBp,475.0,2025-12-31,5.443502,0.2667,0.4194,-0.3298,91.5,prezzo × azioni,2025-12-31,Alimentare e bevande,Regno Unito,no (simulati),GB00B3NWT178
+900,Unitika Ltd.,3103,3103.T,Tokyo,Giappone,JPY,289.0,2025-12-30,1.569884,1.0942,0.5637,-0.3144,90.5,prezzo × azioni,2025-12-31,Chimica,Giappone,sì,JP3951200009
+901,"Ildong Holdings Co., Ltd.",000230,000230.KS,KSE,Corea del Sud,KRW,13290.0,2025-12-30,7.831744,0.7791,0.6799,-0.312,90.4,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,KR7000230003
+902,"Toell Co.,Ltd.",3361,3361.T,Tokyo,Giappone,JPY,848.0,2025-12-30,4.606443,0.0734,0.1899,-0.0952,86.6,prezzo × azioni,2025-10-31,Servizi pubblici,Giappone,sì,JP3552240008
+903,"Robot Home, Inc.",1435,1435.T,Tokyo,Giappone,JPY,176.0,2025-12-30,0.956054,0.3134,0.4438,-0.2781,85.9,prezzo × azioni,2025-12-31,Immobiliare,Giappone,sì,JP3153950005
+904,"Tihama for Advertising, Public Relations and Marketing Company",4070,4070.SR,Saudi,Arabia Saudita,SAR,16.299999,2025-12-31,3.699291,-0.3911,0.3409,-0.4866,84.8,prezzo × azioni,2025-12-31,Media e intrattenimento,Asia ed emergenti,no (simulati),SA0007870096
+905,PT Bundamedik Tbk,BMHS,BMHS.JK,Jakarta,Indonesia,IDR,190.0,2025-12-30,0.009674,-0.24,0.4557,-0.4474,83.2,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,no (simulati),ID1000161201
+906,Chung Fu Tex-International Corporation,1435,1435.TW,Taiwan,Taiwan,TWD,21.700001,2025-12-31,0.5911,-0.3542,0.5596,-0.4953,82.6,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,no (simulati),TW0001435006
+907,11 bit studios S.A.,11B,11B.WA,Warsaw,Polonia,PLN,144.0,2025-12-30,34.115139,-0.1874,0.3507,-0.405,82.5,prezzo × azioni,2025-12-31,Media e intrattenimento,Europa,no (simulati),PL11BTS00015
+908,Brave Bison Group plc,BBSN,BBSN.L,LSE,Regno Unito,GBp,69.5,2025-12-31,0.79647,0.6747,0.46,-0.2652,81.6,prezzo × azioni,2025-12-31,Media e intrattenimento,Regno Unito,no (simulati),GB00BSLKLP68
+909,PT Astra Graphia Tbk,ASGR,ASGR.JK,Jakarta,Indonesia,IDR,1170.0,2025-12-30,0.05957,0.3448,0.3312,-0.1797,80.3,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,no (simulati),ID1000066103
+910,"RenetJapanGroup,Inc.",3556,3556.T,Tokyo,Giappone,JPY,1002.0,2025-12-30,5.44299,3.0898,0.5496,-0.3315,79.5,prezzo × azioni,2025-12-31,Servizi pubblici,Giappone,sì,JP3974560009
+911,Alcatel Lucent Teletas Telekomünikasyon A.S.,ALCTL,ALCTL.IS,Istanbul,Turchia,TRY,103.5,2025-12-31,2.050163,-0.1404,0.5053,-0.3691,79.3,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,no (simulati),TRAALCTL91H9
+912,"WOLVES HAND Co., Ltd.",194A,194A.T,Tokyo,Giappone,JPY,1857.0,2025-12-30,10.087457,1.2591,0.5934,-0.3234,76.0,prezzo × azioni,2025-12-31,Farmaceutica,Giappone,no (simulati),JP3159860000
+913,Union Gas Holdings Limited,1F2,1F2.SI,SES,Singapore,SGD,0.36,2025-12-31,0.238332,0.0909,0.5377,-0.3514,75.7,prezzo × azioni,2025-12-31,Servizi pubblici,Asia ed emergenti,no (simulati),SG1DI1000002
+914,The Kingfish Company N.V.,KING,KING.OL,Oslo,Paesi Bassi,NOK,4.62,2025-12-30,0.390104,-0.1283,0.5459,-0.4865,74.9,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,no (simulati),NL00150001S5
+915,"Chugai Mining Co., Ltd.",1491,1491.T,Tokyo,Giappone,JPY,916.0,2025-12-30,4.975827,0.4312,0.8112,-0.5954,71.7,prezzo × azioni,2025-09-30,Siderurgia e metalli,Giappone,no (simulati),JP3519000008
+916,"Soonest Express Co., Ltd.",2643,2643.TWO,Taipei Exchange,Taiwan,TWD,74.0,2025-12-31,2.015732,-0.016,0.2087,-0.1915,70.6,prezzo × azioni,2025-12-31,Banche,Asia ed emergenti,sì,TW0002643004
+917,Highlight Communications AG,HLG,HLG.DE,XETRA,Svizzera,EUR,1.24,2025-12-30,1.24,0.0877,0.5931,-0.4161,70.4,prezzo × azioni,2025-12-31,Telecomunicazioni,Europa,sì,CH0006539198
+918,Ambipar Participações e Empreendimentos S.A.,AMBP3,AMBP3.SA,São Paulo,Brasile,BRL,0.27,2025-12-30,0.041949,-0.9776,1.7415,-0.9872,69.9,prezzo × azioni,2025-06-30,Costruzioni e materiali,Asia ed emergenti,no (simulati),BRAMBPACNOR6
+919,Alternative Income REIT Ord,AIRE,AIRE.L,LSE,Regno Unito,GBp,73.599998,2025-12-31,0.843456,0.041,0.2149,-0.1623,67.9,prezzo × azioni,2025-12-31,Immobiliare,Regno Unito,no (simulati),GB00BDVK7088
+920,Wellnet Corporation,2428,2428.T,Tokyo,Giappone,JPY,648.0,2025-12-30,3.520017,-0.2078,0.3155,-0.3067,66.1,prezzo × azioni,2025-12-31,Banche,Giappone,no (simulati),JP3155370004
+921,Bumech S.A.,BMC,BMC.WA,Warsaw,Polonia,PLN,17.799999,2025-12-30,4.21701,1.5835,1.0061,-0.6663,63.3,prezzo × azioni,2025-12-31,Energia,Europa,no (simulati),PLBMECH00012
+922,Sungchang Enterprise Holdings Limited,000180,000180.KS,KSE,Corea del Sud,KRW,7555.0,2025-12-30,4.452131,0.1623,0.3057,-0.2318,62.1,prezzo × azioni,2025-12-31,Chimica,Asia ed emergenti,sì,KR7000180000
+923,Kwong Fong Industries Corporation,1416,1416.TW,Taiwan,Taiwan,TWD,11.95,2025-12-31,0.325513,-0.0591,0.2282,-0.1815,60.3,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,TW0001416006
+924,"Interlife Holdings Co., Ltd.",1418,1418.T,Tokyo,Giappone,JPY,711.0,2025-12-30,3.862241,1.1677,0.4764,-0.2354,59.1,prezzo × azioni,2025-11-30,Costruzioni e materiali,Giappone,sì,JP3152860007
+925,"Nan Yang Dyeing & Finishing Co.,Ltd",1410,1410.TW,Taiwan,Taiwan,TWD,34.299999,2025-12-31,0.934319,-0.0324,0.2263,-0.1746,57.9,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,TW0001410009
+926,"An-Shin Food Services Co.,Ltd.",1259,1259.TWO,Taipei Exchange,Taiwan,TWD,62.200001,2025-12-31,1.694304,-0.0235,0.2656,-0.1677,54.9,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,sì,TW0001259000
+927,Swissnet AG,81D,81D.DE,XETRA,Svizzera,EUR,6.45,2025-12-30,6.45,-0.1569,0.4903,-0.391,54.7,prezzo × azioni,2025-12-31,Software e internet,Europa,sì,CH0451123589
+928,GreenEnergy & Company Inc.,1436,1436.T,Tokyo,Giappone,JPY,811.666687,2025-12-30,4.409075,0.0751,0.2852,-0.1918,54.5,prezzo × azioni,2025-10-31,Servizi pubblici,Giappone,sì,JP3802980007
+929,FluoGuide A/S,FLUO,FLUO.ST,Stockholm,Danimarca,SEK,34.299999,2025-12-30,3.169616,-0.1593,0.5507,-0.3654,51.8,prezzo × azioni,2025-12-31,Farmaceutica,Europa,no (simulati),DK0061123312
+930,Aikchol Hospital Public Company Limited,AHC,AHC.BK,Thailand,Thailandia,THB,12.7,2025-12-30,0.341233,-0.1645,0.3566,-0.2208,51.2,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,no (simulati),TH0281010Z06
+931,Mbs Inc,1401,1401.T,Tokyo,Giappone,JPY,1337.0,2025-12-30,7.262752,0.7732,0.5018,-0.2241,50.3,prezzo × azioni,2025-11-30,Costruzioni e materiali,Giappone,sì,JP3167660004
+932,"As Partners CO.,LTD.",160A,160A.T,Tokyo,Giappone,JPY,2583.0,2025-12-30,14.03118,0.385,0.3779,-0.3155,50.2,prezzo × azioni,2025-12-31,Farmaceutica,Giappone,sì,JP3119840001
+933,4C Group AB (publ),4C,4C.ST,Stockholm,Svezia,SEK,12.65,2025-12-30,1.168969,0.2163,0.7121,-0.5722,46.8,prezzo × azioni,2025-12-31,Costruzioni e materiali,Europa,no (simulati),SE0017936891
+934,"FreeT, Inc.",006490,006490.KS,KSE,Corea del Sud,KRW,3165.0,2025-12-30,1.865122,-0.5811,0.8211,-0.6912,46.6,prezzo × azioni,2025-12-31,Media e intrattenimento,Asia ed emergenti,sì,KR7006490007
+935,Ariana Resources plc,AAU,AAU.L,LSE,Regno Unito,GBp,1.55,2025-12-31,0.017763,-0.1948,0.7625,-0.5128,46.5,prezzo × azioni,2025-12-31,Siderurgia e metalli,Regno Unito,no (simulati),GB00B085SD50
+936,"Fuji United Holdings Company,Ltd.",416A,416A.T,Tokyo,Giappone,JPY,1256.0,2025-12-30,6.82275,-0.1444,0.2382,-0.2351,45.0,prezzo × azioni,2025-12-31,Energia,Giappone,sì,JP3821300005
+937,"Rothwell International Co., Limited",900260,900260.KQ,KOSDAQ,Hong Kong,KRW,1572.0,2025-12-30,0.926373,1.7244,0.6015,-0.2341,42.6,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,no (simulati),HK0000295359
+938,Grand Parade Investments Limited,GPL,GPL.JO,Johannesburg,Sudafrica,ZAc,193.0,2025-12-31,0.09926,-0.4609,0.6409,-0.4609,42.4,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,no (simulati),ZAE000119814
+939,"Yuyu Pharma, Inc.",000220,000220.KS,KSE,Corea del Sud,KRW,4515.0,2025-12-30,2.660672,-0.0227,0.2207,-0.182,41.9,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,sì,KR7000220004
+940,Caulis Inc.,153A,153A.T,Tokyo,Giappone,JPY,1175.0,2025-12-30,6.382748,-0.1613,0.7883,-0.5816,41.7,prezzo × azioni,2025-12-31,Software e internet,Giappone,sì,JP3205750007
+941,AS Pro Kapital Grupp,17E,17E.F,Frankfurt,Germania,EUR,0.735,2025-12-30,0.735,0.152,0.6161,-0.4574,41.7,prezzo × azioni,2025-12-31,Immobiliare,Europa,sì,EE3100006040
+942,"Kohjin Bio Co., Ltd.",177A,177A.T,Tokyo,Giappone,JPY,1489.0,2025-12-30,8.088435,-0.0976,0.3274,-0.2086,41.3,prezzo × azioni,2025-09-30,Farmaceutica,Giappone,sì,JP3283630006
+943,Material Group Inc.,156A,156A.T,Tokyo,Giappone,JPY,790.0,2025-12-30,4.291379,0.254,0.4353,-0.2673,41.3,prezzo × azioni,2025-11-30,Media e intrattenimento,Giappone,sì,JP3869850002
+944,Chordia Therapeutics Inc.,190A,190A.T,Tokyo,Giappone,JPY,108.0,2025-12-30,0.58667,-0.6527,0.5284,-0.7442,41.2,prezzo × azioni,2025-11-30,Farmaceutica,Giappone,no (simulati),JP3283730004
+945,"Joong Ang Enervis Co., Ltd",000440,000440.KQ,KOSDAQ,Corea del Sud,KRW,15670.0,2025-12-30,9.234269,-0.0363,0.6578,-0.4157,40.9,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,sì,KR7000440008
+946,Oricom Inc.,010470,010470.KQ,KOSDAQ,Corea del Sud,KRW,5930.0,2025-12-30,3.494525,-0.1612,0.2486,-0.2985,40.7,prezzo × azioni,2025-12-31,Media e intrattenimento,Asia ed emergenti,sì,KR7010470003
+947,Cessatech A/S,CESSA,CESSA.ST,Stockholm,Danimarca,DKK,15.96,2025-12-30,2.136861,0.3468,0.6731,-0.3787,39.7,prezzo × azioni,2025-12-31,Farmaceutica,Europa,no (simulati),DK0061411964
+948,"Kanpai Co., Ltd",1269,1269.TWO,Taipei Exchange,Taiwan,TWD,65.400002,2025-12-31,1.781471,-0.1518,0.3915,-0.3371,37.2,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,sì,TW0001269B11
+949,Acanthe Développement,ACAN,ACAN.PA,Paris,Francia,EUR,0.22,2025-12-31,0.22,-0.288,0.4207,-0.437,36.4,prezzo × azioni,2025-12-31,Immobiliare,Europa,sì,FR0000064602
+950,Prime Oil Chemical Service Corporation,2904,2904.TW,Taiwan,Taiwan,TWD,17.049999,2025-12-31,0.464436,-0.0394,0.162,-0.126,36.1,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,sì,TW0002904000
+951,Solytech Enterprise Corporation,1471,1471.TW,Taiwan,Taiwan,TWD,8.78,2025-12-31,0.239164,-0.3323,0.3487,-0.3815,36.0,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,sì,TW0001471001
+952,Sun Rise E&T Corporation,1343,1343.TWO,Taipei Exchange,Taiwan,TWD,32.049999,2025-12-31,0.87303,-0.5998,0.6358,-0.6292,35.4,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,sì,TW0001343B11
+953,"BOHAE BREWERY Co., Ltd.",000890,000890.KS,KSE,Corea del Sud,KRW,2130.0,2025-12-30,1.255201,-0.1359,0.2804,-0.2527,34.6,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,KR7000890004
+954,2S Metal Public Company Limited,2S,2S.BK,Thailand,Thailandia,THB,2.34,2025-12-30,0.062873,-0.146,0.2718,-0.2336,34.6,prezzo × azioni,2025-12-31,Siderurgia e metalli,Asia ed emergenti,no (simulati),TH1008B10Y03
+955,Berentzen-Gruppe Aktiengesellschaft,BEZ,BEZ.DE,XETRA,Germania,EUR,3.63,2025-12-30,3.63,-0.062,0.2893,-0.2426,34.1,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,sì,DE0005201602
+956,Aeris Indústria e Comércio de Equipamentos para Geração de Energia S.A.,AERI3,AERI3.SA,São Paulo,Brasile,BRL,3.31,2025-12-30,0.514263,-0.5271,0.5896,-0.6082,31.6,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,no (simulati),BRAERIACNOR4
+957,"Galaxia SM, Inc.",011420,011420.KS,KSE,Corea del Sud,KRW,1912.0,2025-12-30,1.126734,-0.0309,0.4773,-0.3557,31.0,prezzo × azioni,2025-12-31,Media e intrattenimento,Asia ed emergenti,sì,KR7011420007
+958,Aayush Wellness Limited,AAYUSH,AAYUSH.BO,BSE,India,INR,66.900002,2025-12-31,0.633544,-0.4539,0.5749,-0.8829,30.8,prezzo × azioni,2025-09-30,Alimentare e bevande,Asia ed emergenti,sì,INE430R01023
+959,"ISPD Network, S.A.",ALISP,ALISP.PA,Paris,Spagna,EUR,2.04,2025-12-31,2.04,-0.3585,0.6118,-0.6,30.0,prezzo × azioni,2025-12-31,Media e intrattenimento,Europa,sì,ES0109429037
+960,80 Mile Plc,80M,80M.L,LSE,Regno Unito,GBp,0.515,2025-12-31,0.005902,0.9074,0.969,-0.3671,29.3,prezzo × azioni,2025-12-31,Chimica,Regno Unito,no (simulati),GB00BFD3VF20
+961,Aelea Commodities Limited,ACLD,ACLD.BO,BSE,India,INR,150.600006,2025-12-31,1.426184,-0.4479,0.5332,-0.5521,29.0,prezzo × azioni,2025-03-31,Alimentare e bevande,Asia ed emergenti,sì,INE0T3401029
+962,Alphaville S.A.,AVLL3,AVLL3.SA,São Paulo,Brasile,BRL,23.0,2025-12-30,3.573426,-0.6618,0.4693,-0.6738,27.9,prezzo × azioni,2025-12-31,Immobiliare,Asia ed emergenti,no (simulati),BRAVLLACNOR5
+963,L is B corp.,145A,145A.T,Tokyo,Giappone,JPY,1001.0,2025-12-30,5.437558,0.5471,0.5562,-0.4003,27.9,prezzo × azioni,2025-12-31,Software e internet,Giappone,sì,JP3167730005
+964,A2Z Infra Engineering Limited,A2ZINFRA,A2ZINFRA.BO,BSE,India,INR,16.610001,2025-12-31,0.157297,-0.3509,0.5331,-0.5272,27.7,prezzo × azioni,2025-09-30,Costruzioni e materiali,Asia ed emergenti,sì,INE619I01012
+965,Avrupa Yatirim Holding A.S.,AVHOL,AVHOL.IS,Istanbul,Turchia,TRY,36.98,2025-12-31,0.732512,0.0506,0.5702,-0.3424,27.3,prezzo × azioni,2025-12-31,Farmaceutica,Asia ed emergenti,no (simulati),TREBYTS00017
+966,3i Infotech Limited,3IINFOLTD,3IINFOLTD.BO,BSE,India,INR,16.610001,2025-12-31,0.157297,-0.5068,0.4106,-0.5333,26.7,prezzo × azioni,2025-09-30,Software e internet,Asia ed emergenti,sì,INE748C01038
+967,MPC Energy Solutions N.V.,MPCES,MPCES.OL,Oslo,Paesi Bassi,NOK,13.35,2025-12-30,1.127248,0.3706,0.4587,-0.2146,25.1,prezzo × azioni,2025-12-31,Energia,Europa,no (simulati),NL0015268814
+968,"Falcon Power Co., Ltd.",1516,1516.TW,Taiwan,Taiwan,TWD,30.531298,2025-12-31,0.831661,0.2829,0.4673,-0.3716,25.0,Yahoo al 31/12/2025,2025-12-31,Energia,Asia ed emergenti,sì,TW0001516003
+969,Wing Yip Food Holdings Group Limited,900340,900340.KQ,KOSDAQ,Hong Kong,KRW,3200.0,2025-12-30,1.885747,-0.5289,0.3489,-0.5622,23.7,prezzo × azioni,2025-12-31,Alimentare e bevande,Asia ed emergenti,sì,HK0000449303
+970,Integroup Inc.,192A,192A.T,Tokyo,Giappone,JPY,1998.0,2025-12-30,10.853387,-0.5174,0.4548,-0.5227,23.2,prezzo × azioni,2025-11-30,Banche,Giappone,sì,JP3152920009
+971,"KR Motors Co., Ltd.",000040,000040.KS,KSE,Corea del Sud,KRW,2255.0,2025-12-30,1.328863,-0.0174,0.5524,-0.3093,23.0,prezzo × azioni,2025-12-31,Automobili,Asia ed emergenti,sì,KR7000040006
+972,4MASS Spólka Akcyjna,4MS,4MS.WA,Warsaw,Polonia,PLN,4.21,2025-12-30,0.997394,-0.3679,0.3327,-0.4626,22.4,prezzo × azioni,2025-12-31,Alimentare e bevande,Europa,no (simulati),PL4MASS00011
+973,"Hatch Work Co.,Ltd.",148A,148A.T,Tokyo,Giappone,JPY,2111.0,2025-12-30,11.467217,-0.0177,0.622,-0.4945,22.0,prezzo × azioni,2025-12-31,Immobiliare,Giappone,sì,JP3769350004
+974,Heng Sheng Holding Group Limited,900270,900270.KQ,KOSDAQ,Hong Kong,KRW,9900.0,2025-12-30,5.834031,-0.2979,0.3806,-0.3515,21.9,prezzo × azioni,2025-12-31,Distribuzione,Asia ed emergenti,sì,HK0000214814
+975,"Coloray International Investment Co., Ltd.",900310,900310.KQ,KOSDAQ,Hong Kong,KRW,2860.0,2025-12-30,1.685387,0.0233,0.44,-0.3873,21.6,prezzo × azioni,2025-12-31,Chimica,Asia ed emergenti,sì,HK0000341732
+976,Globe Industries Corporation,1324,1324.TW,Taiwan,Taiwan,TWD,10.3,2025-12-31,0.280568,-0.189,0.2721,-0.2046,21.1,prezzo × azioni,2025-12-31,Costruzioni e materiali,Asia ed emergenti,sì,TW0001324002
+977,Aasen Sparebank,AASB,AASB.OL,Oslo,Norvegia,NOK,139.979996,2025-12-30,11.81964,0.1243,0.2597,-0.1353,20.4,prezzo × azioni,2025-12-31,Banche,Europa,no (simulati),NO0010672181
+978,"Nippon Seiro Co., Ltd.",5010,5010.T,Tokyo,Giappone,JPY,190.0,2025-12-30,1.032104,-0.2578,0.3981,-0.4474,20.4,prezzo × azioni,2025-12-31,Energia,Giappone,sì,JP3723800003
+979,Initiator Pharma A/S,INIT,INIT.ST,Stockholm,Danimarca,SEK,2.96,2025-12-30,0.27353,-0.5771,0.6286,-0.6544,18.7,prezzo × azioni,2025-12-31,Farmaceutica,Europa,no (simulati),DK0060775872
+980,"Hansung Enterprise Co.,Ltd",003680,003680.KS,KSE,Corea del Sud,KRW,5500.0,2025-12-30,3.241128,0.0742,0.394,-0.2188,18.3,prezzo × azioni,2025-12-31,Energia,Asia ed emergenti,no (simulati),KR7003680006
+981,5th Planet Games A/S,5PG,5PG.OL,Oslo,Danimarca,NOK,0.806,2025-12-30,0.068057,-0.342,0.6059,-0.4873,18.3,prezzo × azioni,2025-12-31,Software e internet,Europa,no (simulati),DK0060945467
+982,Aarey Drugs & Pharmaceuticals Limited,AAREYDRUGS,AAREYDRUGS.BO,BSE,India,INR,67.68,2025-12-31,0.64093,0.1934,0.4699,-0.4278,18.2,prezzo × azioni,2025-09-30,Farmaceutica,Asia ed emergenti,sì,INE198H01019
+983,Applicad Public Company Limited,APP,APP.BK,Thailand,Thailandia,THB,2.4,2025-12-30,0.064485,0.4035,0.524,-0.3061,18.1,prezzo × azioni,2025-12-31,Software e internet,Asia ed emergenti,no (simulati),TH9527010002
+984,"Cocolive, Inc.",137A,137A.T,Tokyo,Giappone,JPY,1047.0,2025-12-30,5.687435,0.0295,0.5204,-0.3493,17.2,prezzo × azioni,2025-11-30,Software e internet,Giappone,sì,JP3297390001
+985,123fahrschule SE,123F,123F.DE,XETRA,Germania,EUR,3.06,2025-12-30,3.06,0.224,0.4085,-0.3077,17.0,prezzo × azioni,2025-12-31,Distribuzione,Europa,sì,DE000A2P4HL9
+986,7Seas Entertainment Limited,7SEASL,7SEASL.BO,BSE,India,INR,80.440002,2025-12-31,0.761768,0.0285,0.4145,-0.2547,17.0,prezzo × azioni,2025-09-30,Media e intrattenimento,Asia ed emergenti,sì,INE454F01010
+987,Veritas In Silico Inc.,130A,130A.T,Tokyo,Giappone,JPY,480.0,2025-12-30,2.60742,-0.4866,0.6343,-0.5401,16.9,prezzo × azioni,2025-12-31,Farmaceutica,Giappone,sì,JP3155340007
+988,Deep Commerce Limited,900110,900110.KQ,KOSDAQ,Hong Kong,KRW,16680.0,2025-12-30,9.829458,-0.2587,0.6713,-0.6292,16.8,Yahoo al 31/12/2025,2025-12-31,Distribuzione,Asia ed emergenti,sì,HK0000057197
+989,"MFS, Inc.",196A,196A.T,Tokyo,Giappone,JPY,308.0,2025-12-30,1.673095,0.0065,0.5698,-0.5292,15.4,prezzo × azioni,2025-12-31,Banche,Giappone,sì,JP3167380009
+990,bet-at-home.com AG,ACX,ACX.DE,XETRA,Germania,EUR,2.14,2025-12-30,2.14,-0.1301,0.4902,-0.3292,15.0,prezzo × azioni,2025-06-30,Distribuzione,Europa,no (simulati),DE000A0DNAY5
+991,"Hikari Food Service Co., Ltd.",138A,138A.T,Tokyo,Giappone,JPY,2740.0,2025-12-30,14.884024,0.1304,0.4014,-0.3528,14.8,prezzo × azioni,2025-11-30,Distribuzione,Giappone,sì,JP3783410008
+992,MUSCAT GROUP Inc.,195A,195A.T,Tokyo,Giappone,JPY,861.0,2025-12-30,4.67706,0.2625,0.4526,-0.3004,14.2,prezzo × azioni,2025-12-31,Media e intrattenimento,Giappone,sì,JP3965430006
+993,E-Starco. Co. Ltd,015020,015020.KS,KSE,Corea del Sud,KRW,592.0,2025-12-30,0.348863,-0.7345,0.8633,-0.7659,13.9,Yahoo al 31/12/2025,2025-12-31,Immobiliare,Asia ed emergenti,sì,KR7015020001
+994,Alphageo (India) Limited,ALPHAGEO,ALPHAGEO.BO,BSE,India,INR,227.5,2025-12-31,2.154427,-0.4801,0.4266,-0.5336,13.7,prezzo × azioni,2025-09-30,Energia,Asia ed emergenti,sì,INE137C01018
+995,Gigasun AB (publ),GIGA,GIGA.ST,Stockholm,Svezia,SEK,2.44,2025-12-30,0.225477,-0.0317,0.6858,-0.3534,13.5,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,no (simulati),SE0016101521
+996,Green Monster Inc.,157A,157A.T,Tokyo,Giappone,JPY,772.0,2025-12-30,4.193601,0.4165,0.6843,-0.3551,13.3,prezzo × azioni,2025-12-31,Banche,Giappone,sì,JP3274170004
+997,"Thinca Co.,Ltd.",149A,149A.T,Tokyo,Giappone,JPY,765.0,2025-12-30,4.155576,-0.0485,0.5886,-0.4408,13.3,prezzo × azioni,2025-12-31,Media e intrattenimento,Giappone,sì,JP3371670005
+998,"JSH Co.,Ltd.",150A,150A.T,Tokyo,Giappone,JPY,405.0,2025-12-30,2.200011,-0.1118,0.4697,-0.4089,12.5,prezzo × azioni,2025-12-31,Farmaceutica,Giappone,sì,JP3386920007
+999,Agripower France Société Anonyme,ALAGP,ALAGP.PA,Paris,Francia,EUR,1.0,2025-12-31,1.0,0.0549,0.5592,-0.3233,12.1,prezzo × azioni,2025-12-31,Servizi pubblici,Europa,no (simulati),FR0013452281
+1000,Asmallworld AG,ASWN,ASWN.SW,Swiss,Svizzera,CHF,0.69,2025-12-30,0.74082,-0.5,0.612,-0.6189,10.7,prezzo × azioni,2025-12-31,Distribuzione,Europa,no (simulati),CH0404880129

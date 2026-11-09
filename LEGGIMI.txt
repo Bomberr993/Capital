@@ -1,0 +1,30 @@
+CAPITALE — Fase 2 (versione completa: grafica, ricerca crypto, short e leva) · pacchetto offline per GitHub Pages
+
+AGGIORNARE IL GIOCO GIÀ INSTALLATO (le partite restano)
+1. Nel repository GitHub dove c'è la versione precedente sostituisci index.html,
+   sw.js e manifest.webmanifest con quelli di questa cartella (Add file → Upload files).
+   Lascia lo stesso indirizzo: le partite sono salvate dal browser per quell'indirizzo.
+2. Attendi 1–2 minuti, poi sull'iPhone apri il gioco dall'icona con la rete attiva,
+   chiudilo del tutto e riaprilo: alla seconda apertura parte la nuova versione.
+3. Le partite della Fase 1, 2A e della prima Fase 2 si aprono con «Continua»; quelle
+   della Fase 1 e 2A restano con le società inventate; le nuove carriere possono scegliere le 1.000 società reali.
+   Prima di aggiornare, per sicurezza: Impostazioni → Esporta la partita.
+
+PRIMA INSTALLAZIONE
+1. Crea su github.com un repository pubblico (es. "capitale").
+2. Carica TUTTI i file di questa cartella nella radice del repository:
+   index.html, sw.js, manifest.webmanifest, icon-*.png.
+3. Settings → Pages → Source: "Deploy from a branch", branch "main", cartella "/ (root)" → Save.
+4. Dopo 1–2 minuti il gioco è su https://<tuo-utente>.github.io/capitale/
+5. Su iPhone apri quell'indirizzo in Safari → Condividi → "Aggiungi alla schermata Home".
+6. Apri il gioco dall'icona una volta con la rete attiva: poi funziona anche offline.
+
+Aggiornamenti futuri: sostituisci index.html e cambia il numero in CACHE dentro sw.js
+(es. capitale-fase2-v9), così l'iPhone scarica la nuova versione.
+
+DATI
+Il file CAPITALE_catalogo_1000_societa_2025-12-31.csv elenca le società reali usate,
+con fonte e data di ogni valore. Non serve caricarlo: è già dentro index.html.
+Prezzi, azioni, capitalizzazioni e bilanci: Yahoo Finance (consultato l'8/11/2026),
+cambi BCE al 31/12/2025, materie prime Banca Mondiale (CC BY 4.0), club: Wikipedia.
+Dal 1° gennaio 2026 tutto è simulato. Nessun consiglio d'investimento, nessun denaro reale.
